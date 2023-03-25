@@ -1,0 +1,228 @@
+
+Exploratory Data Analysis
+
+```{r setup}
+library(dplyr)
+library(inspectdf)
+library(here)
+library(lubridate)
+library(tidyverse)
+
+options(scipen=999)
+
+```
+
+Checking out the Crime Statistics data set from Portland Police Bureau
+
+```{r}
+df <- read.csv(here("data", "CrimeData-2022.csv"))
+
+df %>% 
+  inspect_na()
+```
+```{r}
+missing_geo_data <- 
+  df %>% 
+  filter(is.na(OpenDataLat))
+
+missing_geo_data %>% 
+  inspect_num()
+```
+
+```{r}
+df %>% 
+  count(Address, sort = TRUE)
+```
+
+```{r}
+df %>% 
+  filter(Address == "UNKNOWN ADDRESS") %>% 
+  count(OffenseType, sort = TRUE)
+```
+```{r}
+df %>% 
+  filter(Address == "") %>% 
+  count(OffenseType, sort = TRUE)
+```
+
+```{r}
+df %>% 
+  count(OffenseCategory, sort = TRUE)
+```
+
+```{r}
+df %>% 
+  filter(OffenseCategory %in% c("Larceny Offenses", "Motor Vehicle Theft")) %>% 
+  count(OffenseType, sort = TRUE)
+```
+
+```{r}
+df %>% 
+  count(OffenseType, sort = TRUE)
+```
+```{r}
+df %>% 
+  filter(
+    OffenseType %in% 
+      c("Motor Vehicle Theft", 
+        "Theft From Motor Vehicle", 
+        "Theft of Motor Vehicle Parts or Accessories")
+  ) %>% 
+  count(Address, sort = TRUE)
+```
+# Cleaning the CrimeData 
+
+The CrimeData set is filtered for vehicle related offenses that include address information
+
+```{r}
+df_clean <- 
+  df %>% 
+  filter(
+    OffenseType %in% 
+      c("Motor Vehicle Theft", 
+        "Theft From Motor Vehicle", 
+        "Theft of Motor Vehicle Parts or Accessories"),
+    Address != "UNKNOWN ADDRESS",
+    Address != ""
+  ) 
+
+df_clean
+```
+
+```{r}
+write.csv(df_clean, here("publish", "VehicleOffenseData-2022.csv"))
+```
+
+
+# EDA of Date & Time of Vehicle Related Offenses 
+
+Plotting Dates 
+```{r}
+df_clean = df_clean %>% mutate(OccurDate = mdy(OccurDate), 
+                    ReportDate = mdy(ReportDate))
+
+
+
+#lag in incident types: difference between occur date and report date 
+
+df_clean$OccurTime = sprintf("%04d", df_clean$OccurTime) 
+df_clean$OccurTime = format(strptime(df_clean$OccurTime, format="%H%M"), format = "%H:%M")
+
+df_clean %>% mutate(lag_time = ReportDate - OccurDate) %>% group_by(Neighborhood, OffenseCategory, OffenseType) %>% arrange(desc(lag_time))
+
+
+df_clean %>% group_by(Neighborhood,OffenseCategory) %>% arrange(n)
+
+df_clean %>% ggplot(aes(x = OccurDate, fill = OffenseCategory)) + 
+  geom_density(alpha = .5) + 
+  scale_x_date(limits = as.Date(c("2022-01-01","2022-12-31")))
+
+df_clean %>% ggplot(aes(x = OccurDate)) + 
+  geom_histogram() + 
+  scale_x_date(limits = as.Date(c("2022-01-01","2022-12-31"))) + facet_wrap(~OffenseCategory) 
+
+
+
+
+
+```
+
+
+```{r}
+as.POSIXct(strptime(df_clean$OccurTime, format = "%H:%M"))
+
+df_clean$date_time = as.POSIXct(paste(df_clean$OccurDate, df_clean$OccurTime), format = "%Y-%m-%d %H:%M")
+
+ggplot(aes(x = date_time, y = ))
+
+df_clean %>% group_by(OffenseType) %>% summarize(OccurDate, OffenseCount) %>% arrange(desc(OffenseCount)) %>% 
+  ggplot(aes(x = OccurDate, y = OffenseCount)) + geom_col() + 
+  scale_x_date(limits = as.Date(c("2022-01-01","2022-12-31"))) + 
+  facet_wrap(~OffenseType) 
+
+```
+Total offenses per month: 
+
+```{r}
+df_clean$month = month(df_clean$date_time)
+
+months = c("Dec", "Nov", "Oct", "Sep", "Aug", "Jul", "Jun", "May", "Apr", "Mar", "Feb", "Jan")
+
+df_clean %>% group_by(month) %>% summarize(mean_offense_count = mean(OffenseCount), OffenseType) %>% 
+  ggplot(aes(x = month,y = mean_offense_count)) + geom_col(aes(fill = OffenseType)) + 
+  scale_x_continuous(name = "Month", 
+                    breaks = seq(1,12,1), 
+                    labels = rev(months)) + 
+  coord_flip() + 
+  labs(title = "Average Vehicle Related Offenses by Month",
+       y = "Average Offenses") + 
+  theme_bw() + 
+  theme(legend.position = "bottom")
+
+```
+
+```{r}
+sanity_check = df_clean %>% group_by(month) %>% filter(month == 3) %>% summarize(mean_offense_count = mean(OffenseCount), OffenseType) 
+
+sum(sanity_check$mean_offense_count)
+```
+
+Distribution of time vehicle related crimes by hour: 
+
+```{r}
+df_clean$hour = hour(df_clean$date_time)
+
+
+times <- c()
+
+for (hour in 0:23) {
+  time_str <- sprintf("%02d:00", hour)
+  times <- c(times, time_str)
+}
+
+
+df_clean %>% group_by(hour) %>% summarize(avg_offense_ph = mean(OffenseCount), OffenseType) %>% 
+  ggplot() + 
+    geom_col(aes(x = hour, y = avg_offense_ph), fill = "navy") + 
+    scale_x_continuous(name = "Hour of Day", 
+                       breaks = seq(0,23,1), 
+                       labels = times) + 
+    theme_bw() + 
+    theme(axis.text.x = element_text(angle = 90)) + 
+    labs(title = "Time of Day of Vehicle Related Crimes in 2022", 
+       x = "Hour", 
+       y = "Average Number Of Crimes")
+
+                        
+```
+
+```{r}
+df_clean
+```
+
+
+
+```{r}
+df_for_tile = df_clean %>% group_by(month, hour) %>% count() %>% mutate(hour = ifelse(hour ==0, 24,hour))
+
+
+times2 = times[2:24]
+
+times2 = append(times2,times[1])
+
+times2 = times2[1:24]
+
+ggplot(df_for_tile, aes(x = month, y = hour, fill = n)) + geom_tile() + 
+  scale_x_continuous(name = "Month", 
+                     breaks = seq(1,12,1), 
+                     labels = months2) + 
+  scale_y_continuous(name = "Hours",
+                      breaks = seq(1,24,1), 
+                      labels = times2) + 
+  scale_fill_gradient(low = "white", high = "red") + 
+  labs(title = "Number of Vehicle Related Offenses by Month and Hour")
+
+months2 = c("Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec")
+  
+```
+
