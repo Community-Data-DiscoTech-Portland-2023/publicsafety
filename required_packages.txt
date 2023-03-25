@@ -4,3 +4,4 @@ dplyr
 lubridate
 sf
 ggplot2
+stringr
