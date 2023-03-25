@@ -11,6 +11,35 @@ library(stringr)
 library(lubridate)
 library(sf)
 library(ggplot2)
+
+clean_neighborhood_name <- function(x) {
+  stringr::str_squish(stringr::str_replace_all(stringr::str_to_lower(x), "[^a-z]", " "))
+}
+
+clean_neighborhood_name_key <- data.frame(
+  ppd = c(
+    "ardenwald",
+    "argay",
+    "buckman east",
+    "buckman west",
+    "downtown",
+    "northwest",
+    "northwest industrial",
+    "old town chinatown",
+    "pearl"
+  ),
+  neighborhoods = c(
+    "ardenwald johnson creek",
+    "argay terrace",
+    "buckman",
+    "buckman",
+    "portland downtown",
+    "northwest district",
+    "northwest district",
+    "old town",
+    "pearl district"
+  )
+)
 ```
 
 ```{r}
@@ -73,7 +102,7 @@ vehicle
 
 
 ```{r}
-cd_names <- 
+vehicle_names <- 
   vehicle %>% 
   pull(Neighborhood) %>% 
   unique() %>% 
@@ -91,7 +120,109 @@ nbhds_names <-
   str_squish() %>% 
   sort()
 
-setdiff(cd_names, nbhds_names)
-setdiff(nbhds_names, cd_names)
+setdiff(vehicle_names, nbhds_names)
+setdiff(nbhds_names, vehicle_names)
 ```
+
+```{r}
+nbhds_names %>% .[str_detect(nbhds_names, "northwest")]
+```
+
+```{r}
+vehicle_names %>% .[str_detect(vehicle_names, "northwest")]
+```
+
+```{r}
+vehicle_smry <- 
+  vehicle %>% 
+  mutate(ppd = clean_neighborhood_name(Neighborhood)) %>% 
+  left_join(clean_neighborhood_name_key, by = "ppd") %>% 
+  mutate(neighborhoods = coalesce(neighborhoods, ppd)) %>% 
+  group_by(neighborhoods) %>% 
+  summarize(OffenseCount = sum(OffenseCount)) %>% 
+  left_join(
+    neighborhoods %>% 
+      mutate(NAME = clean_neighborhood_name(NAME)),
+    by = c("neighborhoods" = "NAME")
+  ) %>% 
+  st_as_sf()
+
+vehicle_smry
+```
+
+```{r}
+vehicle_smry %>% 
+  ggplot() +
+  geom_sf(aes(fill = OffenseCount)) +
+  ggtitle("Vehicle-related offenses by neighborhood") +
+  theme_minimal()
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
