@@ -226,7 +226,7 @@ leaf
 
 ```{r}
 saveWidget(leaf, "vehicle_theft_by_neighborhood.html")
-file.rename("vehicle_theft_by_neighborhood.html", here("visualizations", "vehicle_theft_by_neighborhood.html"))
+file.rename("vehicle_theft_by_neighborhood.html", here("visualizations", "aggregated by neighborhood", "vehicle_theft_by_neighborhood.html"))
 ```
 
 
