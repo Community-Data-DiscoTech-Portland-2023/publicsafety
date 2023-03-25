@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Simple Map</title>
+    <title>Vehicle Theft</title>
     <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
     <style>
       #map {
@@ -16,9 +16,17 @@
         margin: 0;
         padding: 0;
       }
+      #time {
+        position: static;
+      }
     </style>
   </head>
   <body>
+    <!-- <div id="time">
+      <input type="range" min="0" max="2400" value="0" id="slider" />
+      <span id="sliderTime"></span>
+      <span id="sliderCount"></span>
+    </div> -->
     <div id="map"></div>
 
     <!-- 
@@ -33,6 +41,8 @@
     ></script>
     <script>
       let map;
+      let globalData;
+      var heatMaps = [];
 
       function initMap() {
         var portland = new google.maps.LatLng(45.5152, -122.6784);
@@ -133,35 +143,41 @@
         )
           .then((response) => response.json())
           .then((json) => {
-            console.log(json[0]);
-
-            var heatmapData = [];
-
-            for (let index in json) {
-              let point = json[index];
-              if (
-                point.OpenDataLat.startsWith("45") &&
-                point.OpenDataLon.startsWith("-122")
-              ) {
-                heatmapData.push({
-                  location: new google.maps.LatLng(
-                    Number(point.OpenDataLat),
-                    Number(point.OpenDataLon)
-                  ),
-                  weight: 2,
-                });
-              }
-            }
-
-            console.log(heatmapData.length);
-
-            var heatmap = new google.maps.visualization.HeatmapLayer({
-              data: heatmapData,
-              radius: 25,
-            });
-
-            heatmap.setMap(map);
+            globalData = json;
+            renderHeatMap(globalData);
           });
+      }
+
+      function renderHeatMap(listOfPoints) {
+        heatMaps.forEach((existingHeatMap) => {
+          existingHeatMap.setMap(null);
+        });
+
+        var heatmapData = [];
+
+        for (let index in listOfPoints) {
+          let point = listOfPoints[index];
+          if (
+            point.OpenDataLat.startsWith("45") &&
+            point.OpenDataLon.startsWith("-122")
+          ) {
+            heatmapData.push({
+              location: new google.maps.LatLng(
+                Number(point.OpenDataLat),
+                Number(point.OpenDataLon)
+              ),
+              weight: 5,
+            });
+          }
+        }
+
+        var heatmap = new google.maps.visualization.HeatmapLayer({
+          data: heatmapData,
+          radius: 25,
+        });
+
+        heatmap.setMap(map);
+        heatMaps.push(heatmap);
       }
 
       window.initMap = initMap;
