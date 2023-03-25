@@ -1,0 +1,20 @@
+
+Antonio - Explore CrimeData
+
+-----
+
+```{r setup}
+library(here)
+library(vroom)
+library(dplyr)
+library(lubridate)
+```
+
+```{r}
+crimedata <- 
+  vroom(here("data", "CrimeData-2022.csv")) %>% 
+  mutate(OccurDate = mdy(OccurDate))
+
+crimedata
+```
+
