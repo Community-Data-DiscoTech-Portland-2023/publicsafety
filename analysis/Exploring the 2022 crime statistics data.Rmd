@@ -1,0 +1,63 @@
+
+Exploratory Data Analysis
+
+```{r setup}
+library(dplyr)
+library(inspectdf)
+library(here)
+```
+
+Checking out the Crime Statistics data set from Portland Police Bureau
+
+```{r}
+df <- read.csv(here("data", "CrimeData-2022.csv"))
+
+df %>% 
+  inspect_na()
+```
+```{r}
+missing_geo_data <- 
+  df %>% 
+  filter(is.na(OpenDataLat))
+
+missing_geo_data %>% 
+  inspect_num()
+```
+
+```{r}
+df %>% 
+  count(Address, sort = TRUE)
+```
+
+```{r}
+df %>% 
+  filter(Address == "UNKNOWN ADDRESS") %>% 
+  count(OffenseType, sort = TRUE)
+```
+```{r}
+df %>% 
+  filter(Address == "") %>% 
+  count(OffenseType, sort = TRUE)
+```
+
+```{r}
+df %>% 
+  count(OffenseCategory, sort = TRUE)
+```
+
+```{r}
+df %>% 
+  filter(OffenseCategory %in% c("Larceny Offenses", "Motor Vehicle Theft")) %>% 
+  count(OffenseType, sort = TRUE)
+```
+
+```{r}
+df %>% 
+  count(OffenseType, sort = TRUE)
+```
+```{r}
+df %>% 
+  filter(OffenseType %in% c("Motor Vehicle Theft", "Theft From Motor Vehicle", "Theft of Motor Vehicle Parts or Accessories")) %>% 
+  count(Address, sort = TRUE)
+```
+
