@@ -1,0 +1,33 @@
+
+Antonio - Explore CrimeData
+
+-----
+
+```{r setup}
+library(here)
+library(vroom)
+library(dplyr)
+library(lubridate)
+library(sf)
+library(ggplot2)
+```
+
+```{r}
+crimedata <- 
+  vroom(here("data", "CrimeData-2022.csv")) %>% 
+  mutate(
+    OccurDate = mdy(OccurDate),
+    ReportDate = mdy(ReportDate)
+  )
+
+crimedata
+```
+
+```{r}
+neighborhoods <- read_sf(here("data", "Neighborhoods_(Regions).geojson"))
+
+neighborhoods %>% 
+  ggplot() +
+  geom_sf()
+```
+
