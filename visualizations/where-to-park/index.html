@@ -35,14 +35,6 @@
       let map;
 
       function initMap() {
-        var heatmapData = [];
-
-        // for (let point in data) {
-        //   heatmapData.push(
-        //     new google.maps.LatLng(point.OpenDataLat, point.OpenDataLon)
-        //   );
-        // }
-
         var portland = new google.maps.LatLng(45.5152, -122.6784);
 
         map = new google.maps.Map(document.getElementById("map"), {
@@ -50,11 +42,38 @@
           zoom: 15,
         });
 
-        var heatmap = new google.maps.visualization.HeatmapLayer({
-          data: heatmapData,
-        });
+        fetch(
+          "https://raw.githubusercontent.com/colathro/publicsafety/main/publish/VehicleOffenseData-2022.json"
+        )
+          .then((response) => response.json())
+          .then((json) => {
+            console.log(json[0]);
 
-        heatmap.setMap(map);
+            var heatmapData = [];
+
+            for (let index in json) {
+              let point = json[index];
+              if (
+                point.OpenDataLat.startsWith("45") &&
+                point.OpenDataLon.startsWith("-122")
+              ) {
+                heatmapData.push(
+                  new google.maps.LatLng(
+                    Number(point.OpenDataLat),
+                    Number(point.OpenDataLon)
+                  )
+                );
+              }
+            }
+
+            console.log(heatmapData.length);
+
+            var heatmap = new google.maps.visualization.HeatmapLayer({
+              data: heatmapData,
+            });
+
+            heatmap.setMap(map);
+          });
       }
 
       window.initMap = initMap;
