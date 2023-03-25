@@ -14,6 +14,8 @@ library(sf)
 library(ggplot2)
 library(leaflet)
 library(htmlwidgets)
+library(htmltools)
+library(scales)
 
 clean_neighborhood_name <- function(x) {
   stringr::str_squish(stringr::str_replace_all(stringr::str_to_lower(x), "[^a-z]", " "))
@@ -186,8 +188,15 @@ These neighborhood names... Agh!
 # Leaflet version
 
 ```{r}
-bins <- c((0:8)*300, Inf)
+bins <- c((0:8)*200, Inf)
 pal <- colorBin("YlOrRd", domain = vehicle_smry$OffenseCount, bins = bins)
+
+labels <- 
+  sprintf(
+    "<strong>Neighborhood: %s</strong><br/>Reports of theft: %s",
+    vehicle_smry$MAPLABEL, comma(vehicle_smry$OffenseCount)
+  ) %>% 
+  lapply(HTML)
 
 leaf <- 
   vehicle_smry %>% 
@@ -196,14 +205,28 @@ leaf <-
   addPolygons(
     stroke = FALSE,
     fillOpacity = 0.6,
-    fillColor = ~pal(OffenseCount)
+    fillColor = ~pal(OffenseCount),
+    label = labels,
+    labelOptions = labelOptions(
+      style = list("font-weight" = "normal", padding = "3px 8px"),
+      textsize = "15px",
+      direction = "auto"
+    )
+  ) %>% 
+  addLegend(
+    pal = pal,
+    values = ~density,
+    opacity = 0.7,
+    title = "Vehicle-related thefts in 2022",
+    position = "bottomright"
   )
 
 leaf
 ```
 
 ```{r}
-saveWidget(leaf, here("visualizations", "vehicle_theft_by_neighborhood.html"))
+saveWidget(leaf, "vehicle_theft_by_neighborhood.html")
+file.rename("vehicle_theft_by_neighborhood.html", here("visualizations", "vehicle_theft_by_neighborhood.html"))
 ```
 
 
