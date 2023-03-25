@@ -35,10 +35,13 @@
       let map;
 
       function initMap() {
-        var heatmapData = [
-          new google.maps.LatLng(45.5152, -122.6784),
-          new google.maps.LatLng(45.5152, -122.6784),
-        ];
+        var heatmapData = [];
+
+        // for (let point in data) {
+        //   heatmapData.push(
+        //     new google.maps.LatLng(point.OpenDataLat, point.OpenDataLon)
+        //   );
+        // }
 
         var portland = new google.maps.LatLng(45.5152, -122.6784);
 
