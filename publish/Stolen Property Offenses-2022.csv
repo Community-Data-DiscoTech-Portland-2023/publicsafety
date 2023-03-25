@@ -1,0 +1,67 @@
+"","Address","CaseNumber","CrimeAgainst","Neighborhood","OccurDate","OccurTime","OffenseCategory","OffenseType","OpenDataLat","OpenDataLon","OpenDataX","OpenDataY","ReportDate","OffenseCount"
+"1","200 BLOCK OF NE 122ND AVE","22-267729","Property","Hazelwood","10/5/2022",1138,"Stolen Property Offenses","Stolen Property Offenses",45.524362563,-122.537809799,7679882,683856,"10/5/2022",1
+"2","200 BLOCK OF SE 162ND AVE","22-180964","Property","","7/6/2022",2247,"Stolen Property Offenses","Stolen Property Offenses",45.520628697,-122.496388408,7690461,682230,"7/6/2022",1
+"3","300 BLOCK OF SW 12TH AVE","22-281611","Property","Downtown","10/20/2022",1123,"Stolen Property Offenses","Stolen Property Offenses",45.522616836,-122.683052708,7642653,684192,"10/20/2022",1
+"4","500 BLOCK OF NE 94TH AVE","22-51459","Property","Montavilla","2/24/2022",440,"Stolen Property Offenses","Stolen Property Offenses",45.52660396,-122.566848253,7672463,684862,"2/24/2022",1
+"5","600 BLOCK OF SE 60TH AVE","22-77554","Property","Mt Tabor","3/22/2022",2200,"Stolen Property Offenses","Stolen Property Offenses",45.518323183,-122.601971583,7663386,682076,"3/23/2022",1
+"6","700 BLOCK OF SE 106TH AVE","22-188427","Property","Mill Park","7/14/2022",920,"Stolen Property Offenses","Stolen Property Offenses",45.517399332,-122.553993684,7675671,681423,"7/14/2022",1
+"7","1000 BLOCK OF W BURNSIDE ST","22-166050","Property","Downtown","6/21/2022",1724,"Stolen Property Offenses","Stolen Property Offenses",45.522925381,-122.681975597,7642932,684297,"6/21/2022",1
+"8","1600 BLOCK OF NE 114TH PL","22-149471","Property","Parkrose Heights","6/4/2022",900,"Stolen Property Offenses","Stolen Property Offenses",45.534909998,-122.54546117,7678019,687750,"6/4/2022",1
+"9","1700 BLOCK OF NW KEARNEY ST","22-64894","Property","Northwest","3/7/2022",1600,"Stolen Property Offenses","Stolen Property Offenses",45.529295245,-122.688950186,7641208,686667,"3/10/2022",1
+"10","1800 BLOCK OF NW UPSHUR ST","22-269382","Property","Northwest","10/1/2022",1000,"Stolen Property Offenses","Stolen Property Offenses",45.5364072,-122.690227786,7640951,689268,"10/7/2022",1
+"11","3300 BLOCK OF S BOND AVE","22-680892","Property","South Portland","3/16/2022",1745,"Stolen Property Offenses","Stolen Property Offenses",45.498917754,-122.670847108,7645548,675470,"8/9/2022",1
+"12","3300 BLOCK OF SE 82ND AVE","22-187168","Property","Powellhurst-Gilbert","7/13/2022",102,"Stolen Property Offenses","Stolen Property Offenses",45.498258341,-122.578648249,7669174,674608,"7/13/2022",1
+"13","3500 BLOCK OF NE 127TH AVE","22-92635","Property","Argay","4/7/2022",1050,"Stolen Property Offenses","Stolen Property Offenses",45.548256619,-122.532041485,7681579,692528,"4/7/2022",1
+"14","3500 BLOCK OF SE 141ST AVE","22-226671","Property","Powellhurst-Gilbert","8/23/2022",30,"Stolen Property Offenses","Stolen Property Offenses",45.497013561,-122.518458135,7684591,673763,"8/23/2022",1
+"15","3800 BLOCK OF NE 82ND AVE","22-81757","Property","Madison South","3/27/2022",1055,"Stolen Property Offenses","Stolen Property Offenses",45.550594904,-122.578647897,7669665,693684,"3/27/2022",1
+"16","3900 BLOCK OF SE 128TH AVE","22-56162","Property","Powellhurst-Gilbert","3/1/2022",1022,"Stolen Property Offenses","Stolen Property Offenses",45.493481286,-122.532223786,7681030,672564,"3/1/2022",1
+"17","4100 BLOCK OF SE 82ND AVE","22-119894","Property","Lents","5/5/2022",1900,"Stolen Property Offenses","Stolen Property Offenses",45.492415995,-122.578715345,7669102,672479,"5/6/2022",1
+"18","5000 BLOCK OF SE STARK ST","22-343946","Property","Mt Tabor","12/29/2022",1653,"Stolen Property Offenses","Stolen Property Offenses",45.519315046,-122.611172048,7661038,682499,"12/29/2022",1
+"19","5300 BLOCK OF SE HENDERSON ST","22-245255","Property","Brentwood-Darlington","9/10/2022",1800,"Stolen Property Offenses","Stolen Property Offenses",45.469381617,-122.607999168,7661376,664278,"9/11/2022",1
+"20","5500 BLOCK OF SE FOSTER RD","22-33107","Property","Foster-Powell","1/20/2022",1716,"Stolen Property Offenses","Stolen Property Offenses",45.494199999,-122.605787564,7662179,673309,"2/4/2022",1
+"21","5600 BLOCK OF SE 47TH AVE","22-3730","Property","Woodstock","1/4/2022",2200,"Stolen Property Offenses","Stolen Property Offenses",45.481676977,-122.614356336,7659863,668802,"1/5/2022",1
+"22","5700 BLOCK OF SE 82ND AVE","22-87561","Property","Lents","3/3/2022",0,"Stolen Property Offenses","Stolen Property Offenses",45.481133542,-122.578907114,7668947,668368,"4/2/2022",1
+"23","6600 BLOCK OF NE GLISAN ST","22-680689","Property","North Tabor","5/21/2022",1730,"Stolen Property Offenses","Stolen Property Offenses",45.526517957,-122.595381796,7665152,685019,"5/21/2022",1
+"24","7300 BLOCK OF SE POWELL BLVD","22-217943","Property","South Tabor","8/13/2022",1550,"Stolen Property Offenses","Stolen Property Offenses",45.497476633,-122.58756133,7666882,674382,"8/13/2022",1
+"25","8000 BLOCK OF N LEAVITT AVE","22-289360","Property","St Johns","10/28/2022",2100,"Stolen Property Offenses","Stolen Property Offenses",45.591550201,-122.752828554,7625477,709807,"10/28/2022",1
+"26","8100 BLOCK OF SE FOSTER RD","22-236065","Property","Foster-Powell","9/1/2022",1926,"Stolen Property Offenses","Stolen Property Offenses",45.483156581,-122.579761187,7668747,669111,"9/1/2022",1
+"27","8200 BLOCK OF SE CLATSOP ST","22-263586","Property","Lents","9/29/2022",1700,"Stolen Property Offenses","Stolen Property Offenses",45.461556464,-122.578526395,7668861,661230,"9/30/2022",1
+"28","8400 BLOCK OF SE STARK ST","22-327266","Property","Montavilla","12/10/2022",1054,"Stolen Property Offenses","Stolen Property Offenses",45.519076729,-122.577131149,7669758,682186,"12/10/2022",1
+"29","8600 BLOCK OF N LOMBARD ST","22-159523","Property","St Johns","6/15/2022",925,"Stolen Property Offenses","Stolen Property Offenses",45.590306622,-122.755104331,7624882,709370,"6/15/2022",1
+"30","8600 BLOCK OF NE SUMNER ST","22-49754","Property","Sumner","2/22/2022",1318,"Stolen Property Offenses","Stolen Property Offenses",45.561051941,-122.573406892,7671105,697461,"2/22/2022",1
+"31","9800 BLOCK OF SE WASHINGTON ST","22-8554","Property","Hazelwood","1/10/2022",1558,"Stolen Property Offenses","Stolen Property Offenses",45.518282661,-122.561811436,7673676,681796,"1/10/2022",1
+"32","10000 BLOCK OF N KERBY AVE","22-97929","Property","East Columbia","4/13/2022",942,"Stolen Property Offenses","Stolen Property Offenses",45.595314596,-122.67308759,7645919,710620,"4/13/2022",1
+"33","10100 BLOCK OF NE CASCADES PKWY","22-680600","Property","","5/3/2022",1100,"Stolen Property Offenses","Stolen Property Offenses",45.57293983,-122.55812584,7675128,701694,"5/3/2022",1
+"34","10100 BLOCK OF SE WASHINGTON ST","22-128238","Property","Hazelwood","5/15/2022",1220,"Stolen Property Offenses","Stolen Property Offenses",45.518296519,-122.558896652,7674423,681782,"5/15/2022",1
+"35","10100 BLOCK OF SE WASHINGTON ST","22-300105","Property","Hazelwood","11/9/2022",1254,"Stolen Property Offenses","Stolen Property Offenses",45.518296519,-122.558896652,7674423,681782,"11/9/2022",1
+"36","11300 BLOCK OF S TERWILLIGER BLVD","22-118244","Property","","5/4/2022",1915,"Stolen Property Offenses","Stolen Property Offenses",45.443502623,-122.673919142,7644217,655294,"5/4/2022",1
+"37","11400 BLOCK OF SW 35TH AVE","22-340519","Property","West Portland Park","12/25/2022",1739,"Stolen Property Offenses","Stolen Property Offenses",45.4428954,-122.712860791,7634220,655344,"12/25/2022",1
+"38","12000 BLOCK OF NE MARX ST","22-74631","Property","Parkrose","3/19/2022",2030,"Stolen Property Offenses","Stolen Property Offenses",45.559708277,-122.53962205,7679743,696751,"3/20/2022",1
+"39","12400 BLOCK OF NE SISKIYOU ST","22-186919","Property","Russell","7/12/2022",1900,"Stolen Property Offenses","Stolen Property Offenses",45.544454825,-122.53494692,7680800,691161,"7/12/2022",1
+"40","13000 BLOCK OF SE STARK ST","22-158428","Property","Hazelwood","5/27/2022",645,"Stolen Property Offenses","Stolen Property Offenses",45.519115038,-122.529078502,7682071,681887,"5/27/2022",1
+"41","MORRISON BRG / SW MORRISON BRG&NAITO PKWY RAMP","22-278117","Property","Downtown","10/16/2022",1450,"Stolen Property Offenses","Stolen Property Offenses",45.518283586,-122.671376731,7645602,682532,"10/16/2022",1
+"42","NB I205 FWY TO / WB I84 FWY EXIT","22-110983","Property","Hazelwood","4/27/2022",0,"Stolen Property Offenses","Stolen Property Offenses",45.52454362,-122.565165175,7672875,684100,"4/27/2022",1
+"43","NE 15TH AVE / NE KILLINGSWORTH ST","22-305192","Property","Vernon","11/15/2022",833,"Stolen Property Offenses","Stolen Property Offenses",45.562722204,-122.650075906,7651491,698583,"11/15/2022",1
+"44","NE EVERETT ST / NE 97TH AVE","22-146520","Property","Hazelwood","6/1/2022",2113,"Stolen Property Offenses","Stolen Property Offenses",45.524731303,-122.563575631,7673284,684158,"6/1/2022",1
+"45","NE HOLLADAY ST / NE 24TH AVE","22-172045","Property","Kerns","6/28/2022",39,"Stolen Property Offenses","Stolen Property Offenses",45.52995535,-122.641390817,7653398,686581,"6/28/2022",1
+"46","NE MARX ST / NE 109TH AVE","22-226906","Property","Parkrose","8/23/2022",645,"Stolen Property Offenses","Stolen Property Offenses",45.560859067,-122.550657594,7676928,697242,"8/23/2022",1
+"47","NE PRESCOTT ST / NE 82ND AVE","22-260544","Property","Sumner","9/27/2022",1730,"Stolen Property Offenses","Stolen Property Offenses",45.555424111,-122.578617818,7669718,695444,"9/27/2022",1
+"48","NE ROSELAWN ST / NE 8TH AVE","22-95641","Property","King","4/10/2022",1658,"Stolen Property Offenses","Stolen Property Offenses",45.561152718,-122.657991925,7649449,698065,"4/10/2022",1
+"49","NE SANDY BLVD / NE 92ND AVE","22-268853","Property","Sumner","10/6/2022",1820,"Stolen Property Offenses","Stolen Property Offenses",45.556790406,-122.567967279,7672458,695872,"10/6/2022",1
+"50","NW 3RD AVE / NW DAVIS ST","22-294423","Property","Old Town/Chinatown","11/3/2022",835,"Stolen Property Offenses","Stolen Property Offenses",45.524544204,-122.673431169,7645137,684828,"11/3/2022",1
+"51","NW 5TH AVE / NW COUCH ST","22-185632","Property","Old Town/Chinatown","7/11/2022",1458,"Stolen Property Offenses","Stolen Property Offenses",45.523792913,-122.675435967,7644616,684568,"7/11/2022",1
+"52","NW 19TH AVE / NW SAVIER ST","22-157337","Property","Northwest","6/13/2022",746,"Stolen Property Offenses","Stolen Property Offenses",45.534925414,-122.690670321,7640823,688731,"6/13/2022",1
+"53","NW GLISAN ST / NW 2ND AVE","22-112351","Property","Old Town/Chinatown","4/28/2022",1012,"Stolen Property Offenses","Stolen Property Offenses",45.52670167,-122.672510592,7645394,685608,"4/28/2022",1
+"54","NW HOYT ST / NW PARK AVE","22-7636","Property","Pearl","1/9/2022",1533,"Stolen Property Offenses","Stolen Property Offenses",45.527290509,-122.679231403,7643678,685869,"1/9/2022",1
+"55","S SHERIDAN ST / S WATER AVE","22-173483","Property","South Portland","6/29/2022",1017,"Stolen Property Offenses","Stolen Property Offenses",45.505009092,-122.675758298,7644349,677724,"6/29/2022",1
+"56","SE 26TH AVE / SE BELMONT ST","22-133631","Property","Buckman East","5/20/2022",1606,"Stolen Property Offenses","Stolen Property Offenses",45.516441171,-122.639128903,7653847,681640,"5/20/2022",1
+"57","SE 46TH AVE / SE RAMONA ST","22-182525","Property","Woodstock","7/8/2022",1257,"Stolen Property Offenses","Stolen Property Offenses",45.480619986,-122.615436345,7659576,668424,"7/8/2022",1
+"58","SE 101ST AVE / SE DIVISION ST","22-152335","Property","Hazelwood","6/7/2022",1954,"Stolen Property Offenses","Stolen Property Offenses",45.504330792,-122.55956091,7674123,676696,"6/7/2022",1
+"59","SE 168TH AVE / SE POWELL BLVD","22-96619","Property","Centennial","4/11/2022",1823,"Stolen Property Offenses","Stolen Property Offenses",45.493417313,-122.489970933,7691861,672271,"4/11/2022",1
+"60","SE BIDWELL ST / SE 21ST AVE","22-183055","Property","Sellwood-Moreland","7/7/2022",2330,"Stolen Property Offenses","Stolen Property Offenses",45.467681595,-122.643060718,7652368,663895,"7/9/2022",1
+"61","SE DIVISION ST / SE 115TH AVE","22-61405","Property","Powellhurst-Gilbert","3/6/2022",1755,"Stolen Property Offenses","Stolen Property Offenses",45.504171938,-122.545419359,7677746,676546,"3/6/2022",1
+"62","SE MILWAUKIE AVE / SE GLENWOOD ST","22-58346","Property","Sellwood-Moreland","3/2/2022",1830,"Stolen Property Offenses","Stolen Property Offenses",45.474441478,-122.648814304,7650958,666398,"3/3/2022",1
+"63","SE STARK ST / SE 181ST AVE","22-130383","Property","","5/18/2022",1329,"Stolen Property Offenses","Stolen Property Offenses",45.519159172,-122.477131895,7695382,681573,"5/18/2022",1
+"64","SW 5TH AVE / SW ALDER ST","22-317872","Property","Downtown","11/29/2022",1810,"Stolen Property Offenses","Stolen Property Offenses",45.519470952,-122.677210117,7644119,683005,"11/29/2022",1
+"65","SW 5TH AVE / SW ANKENY ST","22-15407","Property","Downtown","1/17/2022",1610,"Stolen Property Offenses","Stolen Property Offenses",45.522575395,-122.675545442,7644576,684125,"1/17/2022",1
+"66","SW ANKENY ST / SW 1ST AVE","22-179520","Property","Old Town/Chinatown","7/5/2022",1356,"Stolen Property Offenses","Stolen Property Offenses",45.522521908,-122.671265601,7645672,684076,"7/5/2022",1

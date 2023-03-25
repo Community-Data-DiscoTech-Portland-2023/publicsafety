@@ -1,0 +1,64 @@
+"","Address","CaseNumber","CrimeAgainst","Neighborhood","OccurDate","OccurTime","OffenseCategory","OffenseType","OpenDataLat","OpenDataLon","OpenDataX","OpenDataY","ReportDate","OffenseCount"
+"1","1000 BLOCK OF NE 9TH AVE","22-66213","Society","Lloyd","3/11/2022",1537,"Prostitution Offenses","Assisting or Promoting Prostitution",45.53040816,-122.656643668,7649495,686850,"3/11/2022",1
+"2","1100 BLOCK OF NW 9TH AVE","22-680100","Society","Pearl","4/28/2022",1630,"Prostitution Offenses","Purchasing Prostitution",45.531195861,-122.680329919,7643435,687300,"4/28/2022",1
+"3","1100 BLOCK OF SW 2ND AVE","22-801252","Society","Downtown","4/4/2022",1018,"Prostitution Offenses","Assisting or Promoting Prostitution",45.515006335,-122.676231105,7644326,681371,"4/4/2022",1
+"4","1100 BLOCK OF SW 2ND AVE","22-801277","Society","Downtown","4/6/2022",2308,"Prostitution Offenses","Assisting or Promoting Prostitution",45.515006335,-122.676231105,7644326,681371,"4/6/2022",1
+"5","1100 BLOCK OF SW 2ND AVE","22-801337","Society","Downtown","4/12/2022",1200,"Prostitution Offenses","Assisting or Promoting Prostitution",45.515006335,-122.676231105,7644326,681371,"4/12/2022",1
+"6","1100 BLOCK OF SW 2ND AVE","22-801720","Society","Downtown","5/31/2022",1412,"Prostitution Offenses","Assisting or Promoting Prostitution",45.515006335,-122.676231105,7644326,681371,"5/31/2022",1
+"7","1400 BLOCK OF NW HOYT ST","22-241189","Society","Pearl","9/7/2022",431,"Prostitution Offenses","Assisting or Promoting Prostitution",45.527126777,-122.68582971,7641986,685855,"9/7/2022",1
+"8","1600 BLOCK OF NW 14TH AVE","22-236517","Society","Pearl","8/29/2022",1200,"Prostitution Offenses","Assisting or Promoting Prostitution",45.534666591,-122.685530544,7642137,688601,"9/3/2022",1
+"9","2000 BLOCK OF NE 82ND AVE","22-275729","Society","Madison South","10/14/2022",101,"Prostitution Offenses","Prostitution",45.537015176,-122.578900185,7669473,688736,"10/14/2022",1
+"10","2600 BLOCK OF NE 82ND AVE","22-229136","Society","Madison South","8/25/2022",1249,"Prostitution Offenses","Purchasing Prostitution",45.541219635,-122.57882773,7669531,690268,"8/25/2022",1
+"11","3200 BLOCK OF NE 80TH AVE","22-800652","Society","Roseway","2/18/2022",2330,"Prostitution Offenses","Prostitution",45.545901345,-122.580885125,7669048,691988,"2/23/2022",1
+"12","3500 BLOCK OF NE 82ND AVE","22-174337","Society","Roseway","6/30/2022",608,"Prostitution Offenses","Purchasing Prostitution",45.548504413,-122.578793902,7669608,692923,"6/30/2022",1
+"13","3600 BLOCK OF NE 82ND AVE","22-152573","Society","Madison South","6/8/2022",200,"Prostitution Offenses","Purchasing Prostitution",45.549217489,-122.578656019,7669650,693182,"6/8/2022",1
+"14","6700 BLOCK OF NE KILLINGSWORTH ST","22-801511","Society","Cully","4/6/2022",800,"Prostitution Offenses","Assisting or Promoting Prostitution",45.562668038,-122.593537553,7665966,698183,"4/22/2022",1
+"15","7600 BLOCK OF SW BARBUR BLVD","22-207371","Society","Hillsdale","8/2/2022",1816,"Prostitution Offenses","Assisting or Promoting Prostitution",45.46933104,-122.69142911,7639980,664829,"8/2/2022",1
+"16","8200 BLOCK OF NE SANDY BLVD","22-196657","Society","Sumner","7/22/2022",1830,"Prostitution Offenses","Purchasing Prostitution",45.552657359,-122.578231407,7669791,694433,"7/22/2022",1
+"17","8200 BLOCK OF NE SANDY BLVD","22-196767","Society","Sumner","7/22/2022",2120,"Prostitution Offenses","Purchasing Prostitution",45.552657359,-122.578231407,7669791,694433,"7/24/2022",1
+"18","9500 BLOCK OF NE SANDY BLVD","22-802146","Society","Parkrose","4/20/2022",1500,"Prostitution Offenses","Assisting or Promoting Prostitution",45.558144393,-122.564376784,7673390,696342,"4/20/2022",1
+"19","9500 BLOCK OF NE SANDY BLVD","22-802146","Society","Parkrose","4/20/2022",1500,"Prostitution Offenses","Prostitution",45.558144393,-122.564376784,7673390,696342,"4/20/2022",1
+"20","9500 BLOCK OF NE SANDY BLVD","22-802146","Society","Parkrose","4/20/2022",1500,"Prostitution Offenses","Purchasing Prostitution",45.558144393,-122.564376784,7673390,696342,"4/20/2022",1
+"21","11300 BLOCK OF NE SANDY BLVD","22-800352","Society","Parkrose","2/2/2022",1440,"Prostitution Offenses","Assisting or Promoting Prostitution",45.558007111,-122.545809494,7678143,696171,"2/2/2022",1
+"22","11300 BLOCK OF NE SANDY BLVD","22-800352","Society","Parkrose","2/2/2022",1440,"Prostitution Offenses","Prostitution",45.558007111,-122.545809494,7678143,696171,"2/2/2022",1
+"23","11300 BLOCK OF NE SANDY BLVD","22-800352","Society","Parkrose","2/2/2022",1440,"Prostitution Offenses","Purchasing Prostitution",45.558007111,-122.545809494,7678143,696171,"2/2/2022",1
+"24","11500 BLOCK OF NE AIRPORT WAY","22-680083","Society","Parkrose","1/26/2022",1730,"Prostitution Offenses","Purchasing Prostitution",45.567647326,-122.543833027,7678738,699672,"1/26/2022",1
+"25","11500 BLOCK OF NE AIRPORT WAY","22-680084","Society","Parkrose","1/26/2022",1800,"Prostitution Offenses","Purchasing Prostitution",45.567647326,-122.543833027,7678738,699672,"1/26/2022",1
+"26","11500 BLOCK OF NE AIRPORT WAY","22-680085","Society","Parkrose","1/26/2022",1825,"Prostitution Offenses","Purchasing Prostitution",45.567647326,-122.543833027,7678738,699672,"1/26/2022",1
+"27","11500 BLOCK OF NE AIRPORT WAY","22-680086","Society","Parkrose","1/26/2022",1840,"Prostitution Offenses","Purchasing Prostitution",45.567647326,-122.543833027,7678738,699672,"1/26/2022",1
+"28","11500 BLOCK OF NE AIRPORT WAY","22-680087","Society","Parkrose","1/26/2022",1930,"Prostitution Offenses","Purchasing Prostitution",45.567647326,-122.543833027,7678738,699672,"1/26/2022",1
+"29","11500 BLOCK OF NE AIRPORT WAY","22-680088","Society","Parkrose","1/26/2022",2005,"Prostitution Offenses","Purchasing Prostitution",45.567647326,-122.543833027,7678738,699672,"1/26/2022",1
+"30","11500 BLOCK OF NE AIRPORT WAY","22-680089","Society","Parkrose","1/26/2022",2000,"Prostitution Offenses","Purchasing Prostitution",45.567647326,-122.543833027,7678738,699672,"1/26/2022",1
+"31","11500 BLOCK OF NE AIRPORT WAY","22-680090","Society","Parkrose","1/26/2022",2215,"Prostitution Offenses","Purchasing Prostitution",45.567647326,-122.543833027,7678738,699672,"1/26/2022",1
+"32","11500 BLOCK OF NE AIRPORT WAY","22-680091","Society","Parkrose","1/26/2022",1501,"Prostitution Offenses","Purchasing Prostitution",45.567647326,-122.543833027,7678738,699672,"1/26/2022",1
+"33","11500 BLOCK OF NE AIRPORT WAY","22-680099","Society","Parkrose","2/18/2022",1805,"Prostitution Offenses","Prostitution",45.567647326,-122.543833027,7678738,699672,"2/18/2022",1
+"34","11500 BLOCK OF NE AIRPORT WAY","22-680099","Society","Parkrose","2/18/2022",1805,"Prostitution Offenses","Purchasing Prostitution",45.567647326,-122.543833027,7678738,699672,"2/18/2022",1
+"35","12000 BLOCK OF NE AIRPORT WAY","22-680105","Society","Parkrose","6/10/2022",952,"Prostitution Offenses","Purchasing Prostitution",45.567221998,-122.536724407,7680554,699471,"6/10/2022",1
+"36","12000 BLOCK OF NE AIRPORT WAY","22-680106","Society","Parkrose","6/10/2022",1230,"Prostitution Offenses","Purchasing Prostitution",45.567221998,-122.536724407,7680554,699471,"6/10/2022",1
+"37","12000 BLOCK OF NE AIRPORT WAY","22-680107","Society","Parkrose","6/10/2022",1357,"Prostitution Offenses","Purchasing Prostitution",45.567221998,-122.536724407,7680554,699471,"6/10/2022",1
+"38","12000 BLOCK OF NE AIRPORT WAY","22-680108","Society","Parkrose","6/10/2022",1415,"Prostitution Offenses","Purchasing Prostitution",45.567221998,-122.536724407,7680554,699471,"6/10/2022",1
+"39","12000 BLOCK OF NE AIRPORT WAY","22-680519","Society","Parkrose","6/10/2022",1700,"Prostitution Offenses","Purchasing Prostitution",45.567221998,-122.536724407,7680554,699471,"6/10/2022",1
+"40","12000 BLOCK OF NE AIRPORT WAY","22-680520","Society","Parkrose","6/10/2022",1546,"Prostitution Offenses","Purchasing Prostitution",45.567221998,-122.536724407,7680554,699471,"6/10/2022",1
+"41","12000 BLOCK OF NE AIRPORT WAY","22-680521","Society","Parkrose","6/10/2022",1600,"Prostitution Offenses","Purchasing Prostitution",45.567221998,-122.536724407,7680554,699471,"6/10/2022",1
+"42","12000 BLOCK OF NE AIRPORT WAY","22-680522","Society","Parkrose","6/10/2022",1630,"Prostitution Offenses","Purchasing Prostitution",45.567221998,-122.536724407,7680554,699471,"6/10/2022",1
+"43","12000 BLOCK OF NE AIRPORT WAY","22-680523","Society","Parkrose","6/10/2022",1630,"Prostitution Offenses","Purchasing Prostitution",45.567221998,-122.536724407,7680554,699471,"6/10/2022",1
+"44","12000 BLOCK OF NE AIRPORT WAY","22-680524","Society","Parkrose","6/10/2022",1740,"Prostitution Offenses","Purchasing Prostitution",45.567221998,-122.536724407,7680554,699471,"6/10/2022",1
+"45","I205 FWY NB / NE LOMBARD ST","22-196772","Society","Parkrose","7/22/2022",2119,"Prostitution Offenses","Purchasing Prostitution",45.560652377,-122.563132324,7673732,697248,"7/22/2022",1
+"46","NE 77TH AVE / NE KLICKITAT ST","22-269187","Society","Roseway","10/7/2022",206,"Prostitution Offenses","Purchasing Prostitution",45.546371511,-122.583858159,7668291,692179,"10/7/2022",1
+"47","NE 82ND AVE / NE FREMONT ST","22-131763","Society","Madison South","5/18/2022",1911,"Prostitution Offenses","Prostitution",45.548143279,-122.578737722,7669619,692791,"5/18/2022",1
+"48","NE 82ND AVE / NE SANDY BLVD","22-274511","Society","Madison South","10/12/2022",1733,"Prostitution Offenses","Prostitution",45.552427235,-122.578668153,7669677,694352,"10/13/2022",1
+"49","NE BEECH ST / NE 82ND AVE","22-38767","Society","Madison South","2/10/2022",1845,"Prostitution Offenses","Purchasing Prostitution",45.549575882,-122.578712099,7669639,693313,"2/10/2022",1
+"50","NE FREMONT DR / NE BOEHMER ST","22-196582","Society","Madison South","7/22/2022",1657,"Prostitution Offenses","Purchasing Prostitution",45.547483132,-122.576554249,7670172,692536,"7/22/2022",1
+"51","NE FREMONT ST / NE 83RD AVE","22-196788","Society","Madison South","7/22/2022",2140,"Prostitution Offenses","Prostitution",45.548131602,-122.577714253,7669881,692780,"7/22/2022",1
+"52","NE FREMONT ST / NE 83RD AVE","22-196788","Society","Madison South","7/22/2022",2140,"Prostitution Offenses","Purchasing Prostitution",45.548131602,-122.577714253,7669881,692780,"7/22/2022",1
+"53","NE KLICKITAT ST / NE 82ND AVE","22-21794","Society","Madison South","1/23/2022",2230,"Prostitution Offenses","Prostitution",45.546340116,-122.578773198,7669593,692134,"1/23/2022",1
+"54","NE KLICKITAT ST / NE 82ND AVE","22-37796","Society","Madison South","2/9/2022",1820,"Prostitution Offenses","Prostitution",45.546340116,-122.578773198,7669593,692134,"2/9/2022",1
+"55","NE KLICKITAT ST / NE 82ND AVE","22-196463","Society","Madison South","7/22/2022",1405,"Prostitution Offenses","Prostitution",45.546340116,-122.578773198,7669593,692134,"7/22/2022",1
+"56","NE KLICKITAT ST / NE 82ND AVE","22-801168","Society","Madison South","3/29/2022",1944,"Prostitution Offenses","Assisting or Promoting Prostitution",45.546340116,-122.578773198,7669593,692134,"3/29/2022",1
+"57","NE KLICKITAT ST / NE 82ND AVE","22-801175","Society","Madison South","3/29/2022",1944,"Prostitution Offenses","Assisting or Promoting Prostitution",45.546340116,-122.578773198,7669593,692134,"3/29/2022",1
+"58","NE SISKIYOU ST / NE 82ND AVE","22-28368","Society","Madison South","1/30/2022",1840,"Prostitution Offenses","Prostitution",45.544517478,-122.578823577,7669563,691470,"1/30/2022",1
+"59","NE SISKIYOU ST / NE 82ND AVE","22-42487","Society","Madison South","2/14/2022",1951,"Prostitution Offenses","Prostitution",45.544517478,-122.578823577,7669563,691470,"2/14/2022",1
+"60","NW NORTHRUP ST / NW STATION WAY","22-680101","Society","Pearl","4/28/2022",2021,"Prostitution Offenses","Purchasing Prostitution",45.531565298,-122.679512615,7643648,687429,"4/28/2022",1
+"61","NW NORTHRUP ST / NW STATION WAY","22-680102","Society","Pearl","4/28/2022",2059,"Prostitution Offenses","Purchasing Prostitution",45.531565298,-122.679512615,7643648,687429,"4/28/2022",1
+"62","NW NORTHRUP ST / NW STATION WAY","22-680103","Society","Pearl","4/28/2022",2115,"Prostitution Offenses","Purchasing Prostitution",45.531565298,-122.679512615,7643648,687429,"4/28/2022",1
+"63","NW NORTHRUP ST / NW STATION WAY","22-680104","Society","Pearl","4/28/2022",2220,"Prostitution Offenses","Purchasing Prostitution",45.531565298,-122.679512615,7643648,687429,"4/28/2022",1
