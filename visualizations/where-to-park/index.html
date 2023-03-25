@@ -2,9 +2,21 @@
   <head>
     <title>Simple Map</title>
     <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+    <style>
+      #map {
+        height: 100%;
+      }
 
-    <link rel="stylesheet" type="text/css" href="./style.css" />
-    <script type="module" src="./index.js"></script>
+      /* 
+   * Optional: Makes the sample page fill the window. 
+   */
+      html,
+      body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
   </head>
   <body>
     <div id="map"></div>
@@ -19,5 +31,30 @@
       src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCCnqkG-FIajYwdPcZZm0WzBWfxjB0Fk-o&libraries=visualization&callback=initMap&v=weekly"
       defer
     ></script>
+    <script>
+      let map;
+
+      function initMap() {
+        var heatmapData = [
+          new google.maps.LatLng(45.5152, -122.6784),
+          new google.maps.LatLng(45.5152, -122.6784),
+        ];
+
+        var portland = new google.maps.LatLng(45.5152, -122.6784);
+
+        map = new google.maps.Map(document.getElementById("map"), {
+          center: portland,
+          zoom: 15,
+        });
+
+        var heatmap = new google.maps.visualization.HeatmapLayer({
+          data: heatmapData,
+        });
+
+        heatmap.setMap(map);
+      }
+
+      window.initMap = initMap;
+    </script>
   </body>
 </html>
