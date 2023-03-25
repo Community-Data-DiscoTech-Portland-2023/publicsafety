@@ -2,3 +2,5 @@ here
 vroom
 dplyr
 lubridate
+sf
+ggplot2
