@@ -57,7 +57,34 @@ df %>%
 ```
 ```{r}
 df %>% 
-  filter(OffenseType %in% c("Motor Vehicle Theft", "Theft From Motor Vehicle", "Theft of Motor Vehicle Parts or Accessories")) %>% 
+  filter(
+    OffenseType %in% 
+      c("Motor Vehicle Theft", 
+        "Theft From Motor Vehicle", 
+        "Theft of Motor Vehicle Parts or Accessories")
+  ) %>% 
   count(Address, sort = TRUE)
+```
+# Cleaning the CrimeData 
+
+The CrimeData set is filtered for vehicle related offenses that include address information
+
+```{r}
+df_clean <- 
+  df %>% 
+  filter(
+    OffenseType %in% 
+      c("Motor Vehicle Theft", 
+        "Theft From Motor Vehicle", 
+        "Theft of Motor Vehicle Parts or Accessories"),
+    Address != "UNKNOWN ADDRESS",
+    Address != ""
+  ) 
+
+df_clean
+```
+
+```{r}
+write.csv(df_clean, here("publish", "VehicleOffenseData-2022.csv"))
 ```
 
