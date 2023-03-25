@@ -6,6 +6,7 @@ Antonio - Explore CrimeData
 ```{r setup}
 library(here)
 library(vroom)
+library(readxl)
 library(dplyr)
 library(stringr)
 library(lubridate)
@@ -158,11 +159,27 @@ vehicle_smry %>%
   theme_minimal()
 ```
 
+```{r}
+nbhd_pop <- read_xlsx(here("data", "NhoodData_cleaned_v2.xlsx"), sheet = "2020Census")
 
+names(nbhd_pop) <- c("NAME", names(nbhd_pop)[-1])
 
+nbhd_pop
+```
 
+```{r}
+nbhd_pop %>% 
+  filter(NAME != "Neighborhood") %>% 
+  mutate(NAME = clean_neighborhood_name(NAME)) %>% 
+  select(NAME, POP20) %>% 
+  anti_join(vehicle_smry, by = c("NAME" = "neighborhoods"))
+```
 
+```{r}
+vehicle_smry %>% pull(neighborhoods) %>% .[str_detect(., "northwest")]
+```
 
+These neighborhood names... Agh!
 
 
 
