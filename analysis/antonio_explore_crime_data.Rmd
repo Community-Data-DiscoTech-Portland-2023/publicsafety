@@ -144,11 +144,19 @@ vehicle_smry <-
     neighborhoods %>% 
       mutate(NAME = clean_neighborhood_name(NAME)),
     by = c("neighborhoods" = "NAME")
-  )
+  ) %>% 
+  st_as_sf()
 
 vehicle_smry
 ```
 
+```{r}
+vehicle_smry %>% 
+  ggplot() +
+  geom_sf(aes(fill = OffenseCount)) +
+  ggtitle("Vehicle-related offenses by neighborhood") +
+  theme_minimal()
+```
 
 
 
