@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Burglary</title>
+    <title>Crime Heatmaps</title>
     <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
     <style>
       #map {
@@ -22,11 +22,36 @@
     </style>
   </head>
   <body>
-    <!-- <div id="time">
-      <input type="range" min="0" max="2400" value="0" id="slider" />
+    <div id="time">
+      <input type="range" min="2015" max="2022" value="2022" id="slider" />
       <span id="sliderTime"></span>
-      <span id="sliderCount"></span>
-    </div> -->
+      <select id="crime">
+        <option value="Animal Cruelty Offenses">Animal Cruelty Offenses</option>
+        <option value="Arson">Arson</option>
+        <option value="Assault Offenses">Assault Offenses</option>
+        <option value="Bribery">Bribery</option>
+        <option value="Burglary">Burglary</option>
+        <option value="Counterfeiting_Forgery">Counterfeiting Forgery</option>
+        <option value="Drug_Narcotic Offenses">Drug Narcotic Offenses</option>
+        <option value="Embezzlement">Embezzlement</option>
+        <option value="Extortion_Blackmail">Extortion Blackmail</option>
+        <option value="Fraud Offenses">Fraud Offenses</option>
+        <option value="Homicide Offenses">Homicide Offenses</option>
+        <option value="Larceny Offenses">Larceny Offenses</option>
+        <option value="Motor Vehicle Theft">Motor Vehicle Theft</option>
+        <option value="Pornography_Obscene Material">
+          Pornography Obscene Material
+        </option>
+        <option value="Prostitution Offenses">Prostitution Offenses</option>
+        <option value="Robbery">Robbery</option>
+        <option value="Sex Offenses">Sex Offenses</option>
+        <option value="Stolen Property Offenses">
+          Stolen Property Offenses
+        </option>
+        <option value="Vandalism">Vandalism</option>
+        <option value="Weapon Law Violations">Weapon Law Violations</option>
+      </select>
+    </div>
     <div id="map"></div>
 
     <!-- 
@@ -41,8 +66,10 @@
     ></script>
     <script>
       let map;
-      let globalData;
       var heatMaps = [];
+
+      let selectedYear = 2022;
+      let selectedCrime = "Animal Cruelty Offenses";
 
       function initMap() {
         var portland = new google.maps.LatLng(45.5152, -122.6784);
@@ -138,47 +165,67 @@
           ],
         });
 
-        fetch(
-          "https://raw.githubusercontent.com/colathro/publicsafety/main/publish/Burglary-2022.json"
-        )
-          .then((response) => response.json())
-          .then((json) => {
-            globalData = json;
-            renderHeatMap(globalData);
-          });
+        renderHeatMap();
       }
 
-      function renderHeatMap(listOfPoints) {
+      function renderHeatMap() {
         heatMaps.forEach((existingHeatMap) => {
           existingHeatMap.setMap(null);
         });
+        fetch(
+          "https://raw.githubusercontent.com/colathro/publicsafety/main/publish/" +
+            selectedCrime +
+            "-" +
+            selectedYear +
+            ".json"
+        )
+          .then((response) => response.json())
+          .then((json) => {
+            console.log("test");
+            var heatmapData = [];
 
-        var heatmapData = [];
+            for (let index in json) {
+              let point = json[index];
+              if (
+                point.OpenDataLat.startsWith("45") &&
+                point.OpenDataLon.startsWith("-122")
+              ) {
+                heatmapData.push({
+                  location: new google.maps.LatLng(
+                    Number(point.OpenDataLat),
+                    Number(point.OpenDataLon)
+                  ),
+                  weight: 5,
+                });
+              }
+            }
 
-        for (let index in listOfPoints) {
-          let point = listOfPoints[index];
-          if (
-            point.OpenDataLat.startsWith("45") &&
-            point.OpenDataLon.startsWith("-122")
-          ) {
-            heatmapData.push({
-              location: new google.maps.LatLng(
-                Number(point.OpenDataLat),
-                Number(point.OpenDataLon)
-              ),
-              weight: 5,
+            var heatmap = new google.maps.visualization.HeatmapLayer({
+              data: heatmapData,
+              radius: 25,
             });
-          }
-        }
 
-        var heatmap = new google.maps.visualization.HeatmapLayer({
-          data: heatmapData,
-          radius: 25,
-        });
-
-        heatmap.setMap(map);
-        heatMaps.push(heatmap);
+            heatmap.setMap(map);
+            heatMaps.push(heatmap);
+          });
       }
+
+      var slider = document.getElementById("slider");
+      var output = document.getElementById("sliderTime");
+      var crime = document.getElementById("crime");
+      output.innerHTML = slider.value; // Display the default slider value
+
+      // Update the current slider value (each time you drag the slider handle)
+      slider.oninput = function () {
+        output.innerHTML = this.value;
+        selectedYear = this.value;
+        renderHeatMap();
+      };
+
+      crime.oninput = function () {
+        selectedCrime = this.value;
+        renderHeatMap();
+      };
 
       window.initMap = initMap;
     </script>
