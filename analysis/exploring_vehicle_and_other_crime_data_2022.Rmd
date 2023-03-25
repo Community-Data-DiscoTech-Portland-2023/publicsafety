@@ -1,0 +1,238 @@
+---
+title: "Motor Vehicle Incidents"
+author: "Stephen Christy"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(ggplot2)
+library(dplyr)
+library(rjson)
+library(stringr)
+library(readr)
+
+df <- read.csv("./data/CrimeData-2021.csv") %>%
+  mutate(OffenseCategory = str_replace(OffenseCategory, "/", "_") )
+
+df_motor <- read.csv("./publish/VehicleOffenseData-2022.csv")
+
+df_list <- list.files(path='./data/') %>% 
+  lapply(read_csv) %>% 
+  bind_rows
+
+
+```
+
+```{r}
+for (i in unique(df$OffenseCategory)){
+df1 <- df %>%
+  filter(!is.na(OpenDataLat),
+         OffenseCategory == i) %>%
+  mutate(OpenDataLat = as.character(OpenDataLat),
+         OpenDataLon = as.character(OpenDataLon),
+         OpenDataX = as.character(OpenDataX),
+         OpenDataY = as.character(OpenDataY))
+  jsonlite::write_json(df1, paste0("./publish/", i , "-2021.json"))
+
+}
+```
+
+```{r graph_brand}
+# Graph parameters to pass to ggplot object
+comsafe_theme <-  
+  theme(
+    # plot.title = element_text(face = "bold", size = 12),
+    text = element_text(family = "sans", color = "black"),
+    axis.line.x.bottom = element_line(linewidth = 1, lineend = "square"),
+    axis.line.y.left = element_line(linewidth = 1, lineend = "square"),
+    axis.title.x = element_text(size = 12, face = "bold", color = "black", vjust = -1),
+    axis.title.y = element_text(size = 12, face = "bold", color = "black"),
+    axis.text.x = element_text(size = 10, face = "bold", color = "black", angle = 0, vjust = .03, hjust = 0.5),
+    axis.text.y = element_text(size = 10, face = "bold", color = "black",angle = 0, vjust = 0.3, hjust = 1),
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
+    axis.ticks.x = element_line(linewidth = 1),
+    axis.ticks.y = element_line(linewidth = 1),
+    plot.background = element_rect(fill = "white"),
+    panel.background = element_rect(fill = "white"),
+    legend.title = element_text(size = 12, face = "bold"),
+    legend.text = element_text(size = 10, face = "bold"),
+    plot.margin = margin(r = 5, l = 7, b = 10, t = 6)
+  )
+
+comsafe_colors <- c(
+  `darkblue`= "#003168",
+  `blue`= "#006DB6",
+  `gray` = "#5E5E5E",
+  `orange` = "#FAAA44")
+
+mycols <- function(...) {
+  cols <- c(...)
+  if (is.null(cols))
+  return (mycolors)
+  mycolors[cols]
+}
+
+comsafe_cols <- function(...) {
+  cols <- c(...)
+
+  if (is.null(cols))
+    return (comsafe_colors)
+
+  comsafe_colors[cols]
+}
+
+comsafe_palettes <- list(
+  `main`  = comsafe_cols("darkblue", "blue", "gray", "orange")
+)
+
+comsafe_pal <- function(palette = "main", reverse = FALSE, ...) {
+  pal <- comsafe_palettes[[palette]]
+
+  if (reverse) pal <- rev(pal)
+
+  colorRampPalette(pal, ...)
+}
+
+scale_color_comsafe <- function(palette = "main", discrete = TRUE, reverse = FALSE, ...) {
+  pal <- comsafe_pal(palette = palette, reverse = reverse)
+
+  if (discrete) {
+    discrete_scale("colour", paste0("comsafe_", palette), palette = pal, ...)
+  } else {
+    scale_color_gradientn(colours = pal(256), ...)
+  }
+}
+
+scale_fill_comsafe <- function(palette = "main", discrete = TRUE, 
+reverse = FALSE, ...) {
+  pal <- comsafe_pal(palette = palette, reverse = reverse)
+
+  if (discrete) {
+    discrete_scale("fill", paste0("comsafe_", palette), palette = pal, ...)
+  } else {
+    scale_fill_gradientn(colours = pal(256), ...)
+  }
+}
+
+```
+
+```{r, fig.height=7, fig.width = 5}
+df_motor %>% 
+  group_by(OffenseType) %>% 
+  summarise(n = n()) %>%
+  ggplot(aes(x = OffenseType, y = n, label = n)) +
+    geom_bar(position="stack", stat="identity") +
+      labs(
+        x = "Incident Type",
+        y = "Number of Incidents",
+      ) + 
+    comsafe_theme +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1, size = 10)) +
+    scale_fill_comsafe() +
+    geom_text(size = 3.5, 
+              color = "white", 
+              fontface = "bold", 
+              position = position_stack(vjust = 0.55)) +
+    scale_y_continuous(expand = c(0,0.5)) + 
+    scale_x_discrete(expand = c(0,0.5)) 
+```
+```{r, fig.height=15, fig.width = 35}
+df_motor %>% 
+  group_by(Neighborhood) %>% 
+  summarise(n = n()) %>%
+  mutate_at("Neighborhood", ~na_if(.,"")) %>%
+  ggplot(aes(reorder(x = Neighborhood, n), y = n, label = n)) +
+    geom_bar(position="stack", stat="identity") +
+      labs(
+        x = "Neighborhood",
+        y = "Number of Motor Vehicle Related Thefts",
+      ) + 
+    comsafe_theme +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1, size = 20),
+          axis.text.y = element_text(vjust = 0.5, hjust=1, size = 20),
+          axis.title.x = element_text(size = 25, face = "bold", color = "black", vjust = -1),
+          axis.title.y = element_text(size = 25, face = "bold", color = "black"),) +
+    scale_fill_comsafe() +
+    geom_text(size = 3.5, 
+              color = "white", 
+              fontface = "bold", 
+              position = position_stack(vjust = 0.55)) +
+    scale_y_continuous(expand = c(0,0.5)) + 
+    scale_x_discrete(expand = c(0,0.5)) 
+```
+
+```{r, fig.height=15, fig.width = 35}
+df_motor %>% 
+  group_by(Neighborhood) %>% 
+  summarise(n = n()) %>%
+  mutate_at("Neighborhood", ~na_if(.,"")) %>%
+  ggplot(aes(reorder(x = Neighborhood, n), y = n, label = n)) +
+    geom_bar(position="stack", stat="identity") +
+      labs(
+        x = "Neighborhood",
+        y = "Number of Motor Vehicle Related Thefts",
+      ) + 
+    comsafe_theme +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1, size = 20),
+          axis.text.y = element_text(vjust = 0.5, hjust=1, size = 20),
+          axis.title.x = element_text(size = 25, face = "bold", color = "black", vjust = -1),
+          axis.title.y = element_text(size = 25, face = "bold", color = "black"),) +
+    scale_fill_comsafe() +
+    geom_text(size = 3.5, 
+              color = "white", 
+              fontface = "bold", 
+              position = position_stack(vjust = 0.55)) +
+    scale_y_continuous(expand = c(0,0.5)) + 
+    scale_x_discrete(expand = c(0,0.5)) 
+```
+
+```{r, fig.height=7, fig.width = 5}
+df_motor %>% 
+  mutate("DifferenceDate" = as.Date(ReportDate, format ='%m/%d/%Y') - as.Date(OccurDate, format ='%m/%d/%Y')) %>%
+  group_by(OffenseType) %>% 
+  summarise(mean = mean(DifferenceDate)) %>%
+  ggplot(aes(x = OffenseType, y = mean, label = mean)) +
+    geom_bar(position="stack", stat="identity") +
+      labs(
+        x = "Incident Type",
+        y = "Mean Days to Write Report",
+      ) + 
+    comsafe_theme +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1, size = 10)) +
+    scale_fill_comsafe() +
+    geom_text(size = 3.5, 
+              color = "white", 
+              fontface = "bold", 
+              position = position_stack(vjust = 0.55)) +
+    scale_y_continuous(expand = c(0,0.5)) + 
+    scale_x_discrete(expand = c(0,0.5)) 
+```
+
+```{r, fig.height=15, fig.width = 30}
+df %>% 
+  mutate("DifferenceDate" = as.Date(ReportDate, format ='%m/%d/%Y') - as.Date(OccurDate, format ='%m/%d/%Y')) %>%
+  group_by(OffenseType) %>% 
+  summarise(mean = mean(DifferenceDate)) %>%
+  ggplot(aes(reorder(x = OffenseType, mean), y = mean, label = mean)) +
+    geom_bar(position="stack", stat="identity") +
+      labs(
+        x = "Incident Type",
+        y = "Mean Days to Write Report",
+      ) + 
+    comsafe_theme +
+    theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1, size = 20),
+          axis.text.y = element_text(vjust = 0.5, hjust=1, size = 20),
+          axis.title.x = element_text(size = 25, face = "bold", color = "black", vjust = -1),
+          axis.title.y = element_text(size = 25, face = "bold", color = "black"),) +
+    scale_fill_comsafe() +
+    geom_text(size = 3.5, 
+              color = "white", 
+              fontface = "bold", 
+              position = position_stack(vjust = 0.55)) +
+    scale_y_continuous(expand = c(0,0.5)) + 
+    scale_x_discrete(expand = c(0,0.5)) 
+```
