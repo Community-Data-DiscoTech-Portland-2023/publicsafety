@@ -7,6 +7,7 @@ Antonio - Explore CrimeData
 library(here)
 library(vroom)
 library(dplyr)
+library(stringr)
 library(lubridate)
 library(sf)
 library(ggplot2)
@@ -29,5 +30,68 @@ neighborhoods <- read_sf(here("data", "Neighborhoods_(Regions).geojson"))
 neighborhoods %>% 
   ggplot() +
   geom_sf()
+```
+
+```{r}
+cd_names <- 
+  crimedata %>% 
+  pull(Neighborhood) %>% 
+  unique() %>% 
+  tolower() %>% 
+  str_replace_all("[^A-Za-z]", " ") %>% 
+  str_squish()
+
+nbhds_names <- 
+  neighborhoods %>% 
+  pull(NAME) %>% 
+  unique() %>% 
+  tolower() %>% 
+  str_replace_all("[^A-Za-z]", " ") %>% 
+  str_squish()
+
+setdiff(cd_names, nbhds_names)
+setdiff(nbhds_names, cd_names)
+```
+
+```{r}
+crimedata %>% 
+  filter(is.na(Neighborhood))
+```
+
+# Vehicle offenses only
+
+```{r}
+vehicle <- 
+  vroom(here("publish", "VehicleOffenseData-2022.csv")) %>% 
+  mutate(
+    OccurDate = mdy(OccurDate),
+    ReportDate = mdy(ReportDate)
+  )
+
+vehicle
+```
+
+
+```{r}
+cd_names <- 
+  vehicle %>% 
+  pull(Neighborhood) %>% 
+  unique() %>% 
+  tolower() %>% 
+  str_replace_all("[^A-Za-z]", " ") %>% 
+  str_squish() %>% 
+  sort()
+
+nbhds_names <- 
+  neighborhoods %>% 
+  pull(NAME) %>% 
+  unique() %>% 
+  tolower() %>% 
+  str_replace_all("[^A-Za-z]", " ") %>% 
+  str_squish() %>% 
+  sort()
+
+setdiff(cd_names, nbhds_names)
+setdiff(nbhds_names, cd_names)
 ```
 
