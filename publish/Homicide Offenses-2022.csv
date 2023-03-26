@@ -1,0 +1,4 @@
+"","Address","CaseNumber","CrimeAgainst","Neighborhood","OccurDate","OccurTime","OffenseCategory","OffenseType","OpenDataLat","OpenDataLon","OpenDataX","OpenDataY","ReportDate","OffenseCount"
+"1","NB I5 FWY AT / EXIT 300B & SE WATER AVE","22-335143","Person","Hosford-Abernethy","12/19/2022",515,"Homicide Offenses","Negligent Manslaughter",45.511854147,-122.667216832,7646605,680160,"12/19/2022",1
+"2","SE FOSTER RD / SE 111TH AVE","22-52950","Person","Powellhurst-Gilbert","2/25/2022",1854,"Homicide Offenses","Negligent Manslaughter with a Vehicle",45.476045488,-122.549379146,7676471,666320,"2/25/2022",1
+"3","SE HOLGATE BLVD / SE MCLOUGHLIN BLVD","22-18796","Person","Brooklyn","1/20/2022",2330,"Homicide Offenses","Negligent Manslaughter with a Vehicle",45.490330175,-122.654228931,7649724,672226,"1/20/2022",1

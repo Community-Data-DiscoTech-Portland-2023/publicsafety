@@ -1,0 +1,459 @@
+"","Address","CaseNumber","CrimeAgainst","Neighborhood","OccurDate","OccurTime","OffenseCategory","OffenseType","OpenDataLat","OpenDataLon","OpenDataX","OpenDataY","ReportDate","OffenseCount"
+"1","0 BLOCK OF NE 7TH AVE","22-52421","Society","Kerns","2/25/2022",801,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.523281983,-122.65873828,7648889,684267,"2/25/2022",1
+"2","0 BLOCK OF NW 5TH AVE","22-273188","Society","Old Town/Chinatown","10/11/2022",940,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.523437676,-122.675359906,7644632,684438,"10/13/2022",1
+"3","0 BLOCK OF NW BROADWAY","22-306182","Society","Old Town/Chinatown","11/16/2022",1420,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.523402225,-122.677376481,7644115,684439,"11/16/2022",1
+"4","0 BLOCK OF SW 3RD AVE","22-130457","Society","Old Town/Chinatown","5/17/2022",1450,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.522840132,-122.673299584,7645154,684206,"5/17/2022",1
+"5","0 BLOCK OF SW NAITO PKWY","22-329114","Society","Old Town/Chinatown","12/12/2022",1440,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.521976573,-122.670214341,7645936,683870,"12/12/2022",1
+"6","100 BLOCK OF NE 102ND AVE","22-110816","Society","Hazelwood","4/26/2022",2029,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.523440096,-122.558318177,7674619,683653,"4/26/2022",1
+"7","100 BLOCK OF NE 102ND AVE","22-119522","Society","Hazelwood","5/5/2022",4,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.523440096,-122.558318177,7674619,683653,"5/6/2022",1
+"8","100 BLOCK OF NE 102ND AVE","22-260762","Society","Hazelwood","9/27/2022",2200,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.523440096,-122.558318177,7674619,683653,"9/27/2022",1
+"9","100 BLOCK OF NE 117TH AVE","22-92323","Society","Hazelwood","4/7/2022",645,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.52361998,-122.542857051,7678582,683618,"4/7/2022",1
+"10","100 BLOCK OF NW 2ND AVE","22-85870","Society","Old Town/Chinatown","3/31/2022",1100,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.524205708,-122.672469731,7645380,684698,"3/31/2022",1
+"11","100 BLOCK OF NW 2ND AVE","22-147299","Society","Old Town/Chinatown","6/2/2022",1540,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.524205708,-122.672469731,7645380,684698,"6/6/2022",1
+"12","100 BLOCK OF NW 4TH AVE","22-19175","Society","Old Town/Chinatown","1/21/2022",1022,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.524169707,-122.674373119,7644892,684698,"1/21/2022",1
+"13","100 BLOCK OF NW 4TH AVE","22-90405","Society","Old Town/Chinatown","4/5/2022",815,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.524169707,-122.674373119,7644892,684698,"4/5/2022",1
+"14","100 BLOCK OF NW 5TH AVE","22-24297","Society","Old Town/Chinatown","1/26/2022",1330,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.524150512,-122.675387218,7644632,684698,"1/26/2022",1
+"15","100 BLOCK OF NW 5TH AVE","22-69816","Society","Old Town/Chinatown","3/15/2022",1100,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.524148149,-122.67551203,7644600,684698,"3/15/2022",1
+"16","100 BLOCK OF NW 5TH AVE","22-167802","Society","Old Town/Chinatown","6/23/2022",1115,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.524150512,-122.675387218,7644632,684698,"6/23/2022",1
+"17","100 BLOCK OF NW 5TH AVE","22-168002","Society","Old Town/Chinatown","6/23/2022",1500,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.524148149,-122.67551203,7644600,684698,"6/23/2022",1
+"18","100 BLOCK OF NW 5TH AVE","22-171407","Society","Old Town/Chinatown","6/27/2022",1055,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.524150512,-122.675387218,7644632,684698,"6/27/2022",1
+"19","100 BLOCK OF NW 5TH AVE","22-245921","Society","Old Town/Chinatown","9/12/2022",840,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.524150512,-122.675387218,7644632,684698,"9/15/2022",1
+"20","100 BLOCK OF NW 5TH AVE","22-252892","Society","Old Town/Chinatown","9/19/2022",1430,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.524150512,-122.675387218,7644632,684698,"9/19/2022",1
+"21","100 BLOCK OF NW 5TH AVE","22-268689","Society","Old Town/Chinatown","10/6/2022",1345,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.524150512,-122.675387218,7644632,684698,"10/6/2022",1
+"22","100 BLOCK OF NW 6TH AVE","22-45398","Society","Old Town/Chinatown","2/17/2022",1535,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.524134125,-122.676397521,7644373,684699,"2/17/2022",1
+"23","100 BLOCK OF SW 5TH AVE","22-304343","Society","Downtown","11/14/2022",1121,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.522369039,-122.675720981,7644529,684051,"11/14/2022",1
+"24","100 BLOCK OF SW ANKENY ST","22-56480","Society","Old Town/Chinatown","3/1/2022",1500,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.522482831,-122.671736381,7645551,684065,"3/2/2022",1
+"25","200 BLOCK OF NW 1ST AVE","22-84161","Society","Old Town/Chinatown","3/29/2022",1630,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.52493711,-122.671369676,7645669,684957,"3/31/2022",1
+"26","200 BLOCK OF NW 3RD AVE","22-49665","Society","Old Town/Chinatown","2/22/2022",1138,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.524899442,-122.67350722,7645121,684958,"2/22/2022",1
+"27","200 BLOCK OF NW 4TH AVE","22-97336","Society","Old Town/Chinatown","4/12/2022",1420,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.524880255,-122.674521332,7644861,684958,"4/12/2022",1
+"28","200 BLOCK OF NW 5TH AVE","22-68948","Society","Old Town/Chinatown","3/14/2022",1215,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.524863423,-122.67541063,7644633,684958,"3/14/2022",1
+"29","200 BLOCK OF NW 8TH AVE","22-58263","Society","Pearl","3/3/2022",1030,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.524803119,-122.678448956,7643854,684957,"3/3/2022",1
+"30","200 BLOCK OF SW 4TH AVE","22-143789","Society","Downtown","5/30/2022",1215,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.521543302,-122.674990697,7644708,683745,"5/31/2022",1
+"31","200 BLOCK OF SW HARVEY MILK ST","22-233732","Society","Downtown","8/30/2022",1204,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.520080803,-122.673982361,7644952,683205,"9/1/2022",1
+"32","300 BLOCK OF NW 6TH AVE","22-259320","Society","Old Town/Chinatown","9/26/2022",1036,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.525559797,-122.676452172,7644373,685219,"9/26/2022",1
+"33","300 BLOCK OF NW 8TH AVE","22-91740","Society","Pearl","4/6/2022",1315,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.525521438,-122.678476518,7643854,685219,"4/6/2022",1
+"34","300 BLOCK OF NW FLANDERS ST","22-255769","Society","Old Town/Chinatown","9/22/2022",1541,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.525916419,-122.673991132,7645007,685332,"9/22/2022",1
+"35","300 BLOCK OF NW FLANDERS ST","22-268764","Society","Old Town/Chinatown","10/6/2022",1545,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.526004152,-122.673994492,7645007,685364,"10/6/2022",1
+"36","300 BLOCK OF NW GLISAN ST","22-70592","Society","Old Town/Chinatown","3/16/2022",805,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.526623698,-122.674022119,7645006,685590,"3/16/2022",1
+"37","300 BLOCK OF SE 99TH AVE","22-74857","Society","Hazelwood","3/20/2022",1349,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.520088891,-122.562216565,7673589,682457,"3/20/2022",1
+"38","300 BLOCK OF SE 99TH AVE","22-136648","Society","Hazelwood","5/23/2022",1800,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.520088891,-122.562216565,7673589,682457,"5/23/2022",1
+"39","300 BLOCK OF SE 99TH AVE","22-334595","Society","Hazelwood","12/18/2022",1458,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.520088891,-122.562216565,7673589,682457,"12/18/2022",1
+"40","300 BLOCK OF SE 117TH AVE","22-46823","Society","Hazelwood","2/19/2022",102,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.520042317,-122.54286103,7678548,682314,"2/19/2022",1
+"41","300 BLOCK OF SW 3RD AVE","22-214990","Society","Downtown","8/10/2022",1647,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.520601007,-122.674330127,7644868,683397,"8/10/2022",1
+"42","300 BLOCK OF SW 4TH AVE","22-113372","Society","Downtown","4/29/2022",1025,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.520875247,-122.675351502,7644609,683504,"4/29/2022",1
+"43","300 BLOCK OF SW 12TH AVE","22-281611","Society","Downtown","10/20/2022",1123,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.522616836,-122.683052708,7642653,684192,"10/20/2022",1
+"44","300 BLOCK OF SW BROADWAY","22-267983","Society","Downtown","10/5/2022",1612,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.521695171,-122.678415579,7643832,683824,"10/5/2022",1
+"45","300 BLOCK OF SW HARRISON ST","22-241808","Society","Downtown","9/7/2022",1826,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.510445162,-122.680344914,7643227,679737,"9/7/2022",1
+"46","300 BLOCK OF W BURNSIDE ST","22-302796","Society","Downtown","11/12/2022",1624,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.523067886,-122.673878159,7645008,684293,"11/12/2022",1
+"47","400 BLOCK OF NW 5TH AVE","22-23308","Society","Old Town/Chinatown","1/25/2022",1415,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.526289474,-122.675590179,7644601,685479,"1/26/2022",1
+"48","400 BLOCK OF NW 5TH AVE","22-38630","Society","Old Town/Chinatown","2/10/2022",1545,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.526289474,-122.675590179,7644601,685479,"2/10/2022",1
+"49","400 BLOCK OF NW 5TH AVE","22-171520","Society","Old Town/Chinatown","6/27/2022",1355,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.526289474,-122.675590179,7644601,685479,"6/27/2022",1
+"50","400 BLOCK OF NW 5TH AVE","22-171525","Society","Old Town/Chinatown","6/27/2022",1400,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.526289474,-122.675590179,7644601,685479,"6/27/2022",1
+"51","400 BLOCK OF NW 5TH AVE","22-232572","Society","Old Town/Chinatown","8/29/2022",853,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.526289474,-122.675590179,7644601,685479,"8/30/2022",1
+"52","400 BLOCK OF NW 6TH AVE","22-38619","Society","Old Town/Chinatown","2/10/2022",1525,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.526272707,-122.676475599,7644374,685479,"2/10/2022",1
+"53","400 BLOCK OF NW DAVIS ST","22-255517","Society","Old Town/Chinatown","9/22/2022",920,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.524471555,-122.674950647,7644747,684812,"10/4/2022",1
+"54","400 BLOCK OF NW DAVIS ST","22-266780","Society","Old Town/Chinatown","10/4/2022",1010,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.524471555,-122.674950647,7644747,684812,"10/6/2022",1
+"55","400 BLOCK OF NW DAVIS ST","22-306277","Society","Old Town/Chinatown","11/16/2022",1200,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.524471555,-122.674950647,7644747,684812,"11/16/2022",1
+"56","400 BLOCK OF NW HOYT ST","22-64052","Society","Old Town/Chinatown","3/9/2022",1145,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.527320306,-122.675051974,7644749,685851,"3/10/2022",1
+"57","400 BLOCK OF SW ANKENY ST","22-272456","Society","Downtown","10/10/2022",1415,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.522528673,-122.674969897,7644723,684104,"10/13/2022",1
+"58","400 BLOCK OF SW ANKENY ST","22-311511","Society","Downtown","11/22/2022",1030,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.522528673,-122.674969897,7644723,684104,"11/25/2022",1
+"59","400 BLOCK OF SW OAK ST","22-165931","Society","Downtown","6/21/2022",1515,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.521372618,-122.675600835,7644550,683687,"6/23/2022",1
+"60","400 BLOCK OF SW OAK ST","22-313914","Society","Downtown","11/25/2022",805,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.521292223,-122.675644591,7644538,683658,"11/25/2022",1
+"61","400 BLOCK OF SW WASHINGTON ST","22-239414","Society","Downtown","9/5/2022",1040,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.520036504,-122.67632242,7644352,683205,"9/5/2022",1
+"62","500 BLOCK OF NW 5TH AVE","22-85969","Society","Old Town/Chinatown","3/31/2022",1320,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.52700231,-122.675617496,7644601,685739,"3/31/2022",1
+"63","500 BLOCK OF NW 5TH AVE","22-129360","Society","Old Town/Chinatown","5/16/2022",1441,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.527004673,-122.675492677,7644633,685739,"5/16/2022",1
+"64","500 BLOCK OF NW 6TH AVE","22-23298","Society","Old Town/Chinatown","1/25/2022",1400,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.526983179,-122.676627744,7644342,685739,"1/26/2022",1
+"65","500 BLOCK OF NW COUCH ST","22-186517","Society","Old Town/Chinatown","7/12/2022",1150,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.523742187,-122.675941437,7644486,684553,"7/14/2022",1
+"66","500 BLOCK OF NW EVERETT ST","22-110281","Society","Old Town/Chinatown","4/26/2022",915,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.525167934,-122.675992177,7644487,685073,"4/27/2022",1
+"67","500 BLOCK OF NW GLISAN ST","22-18007","Society","Old Town/Chinatown","1/20/2022",1020,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.52659368,-122.676042918,7644488,685593,"1/24/2022",1
+"68","500 BLOCK OF NW GLISAN ST","22-22454","Society","Old Town/Chinatown","1/24/2022",1625,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.52659368,-122.676042918,7644488,685593,"1/26/2022",1
+"69","500 BLOCK OF NW GLISAN ST","22-23310","Society","Old Town/Chinatown","1/25/2022",1425,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.52659368,-122.676042918,7644488,685593,"1/26/2022",1
+"70","500 BLOCK OF NW GLISAN ST","22-51867","Society","Old Town/Chinatown","2/24/2022",1535,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.526681413,-122.676046281,7644488,685625,"3/1/2022",1
+"71","500 BLOCK OF NW GLISAN ST","22-56164","Society","Old Town/Chinatown","3/1/2022",1030,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.526681413,-122.676046281,7644488,685625,"3/2/2022",1
+"72","500 BLOCK OF NW GLISAN ST","22-68862","Society","Old Town/Chinatown","3/14/2022",1040,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.526681413,-122.676046281,7644488,685625,"3/14/2022",1
+"73","500 BLOCK OF NW GLISAN ST","22-68940","Society","Old Town/Chinatown","3/14/2022",1205,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.526681413,-122.676046281,7644488,685625,"3/14/2022",1
+"74","500 BLOCK OF NW GLISAN ST","22-69010","Society","Old Town/Chinatown","3/14/2022",1335,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.526681413,-122.676046281,7644488,685625,"3/14/2022",1
+"75","500 BLOCK OF NW GLISAN ST","22-69923","Society","Old Town/Chinatown","3/15/2022",1345,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.526681413,-122.676046281,7644488,685625,"3/15/2022",1
+"76","500 BLOCK OF NW GLISAN ST","22-69930","Society","Old Town/Chinatown","3/15/2022",1350,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.526681413,-122.676046281,7644488,685625,"3/15/2022",1
+"77","500 BLOCK OF NW GLISAN ST","22-70032","Society","Old Town/Chinatown","3/15/2022",1545,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.52659368,-122.676042918,7644488,685593,"3/15/2022",1
+"78","500 BLOCK OF NW GLISAN ST","22-77823","Society","Old Town/Chinatown","3/23/2022",1125,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.52659368,-122.676042918,7644488,685593,"3/23/2022",1
+"79","500 BLOCK OF NW GLISAN ST","22-111327","Society","Old Town/Chinatown","4/27/2022",1030,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.526681413,-122.676046281,7644488,685625,"4/27/2022",1
+"80","500 BLOCK OF NW GLISAN ST","22-129319","Society","Old Town/Chinatown","5/16/2022",1400,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.526681413,-122.676046281,7644488,685625,"5/16/2022",1
+"81","500 BLOCK OF NW GLISAN ST","22-137402","Society","Old Town/Chinatown","5/24/2022",1300,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.526681413,-122.676046281,7644488,685625,"5/31/2022",1
+"82","500 BLOCK OF NW GLISAN ST","22-143806","Society","Old Town/Chinatown","5/30/2022",1234,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.526681413,-122.676046281,7644488,685625,"5/31/2022",1
+"83","500 BLOCK OF NW GLISAN ST","22-239605","Society","Old Town/Chinatown","9/5/2022",1425,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.526681413,-122.676046281,7644488,685625,"9/5/2022",1
+"84","500 BLOCK OF NW GLISAN ST","22-253552","Society","Old Town/Chinatown","9/20/2022",800,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.526681413,-122.676046281,7644488,685625,"10/4/2022",1
+"85","500 BLOCK OF NW GLISAN ST","22-254669","Society","Old Town/Chinatown","9/21/2022",1103,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.526681413,-122.676046281,7644488,685625,"9/21/2022",1
+"86","500 BLOCK OF NW GLISAN ST","22-272550","Society","Old Town/Chinatown","10/10/2022",1415,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.526681413,-122.676046281,7644488,685625,"10/13/2022",1
+"87","500 BLOCK OF NW IRVING ST","22-143850","Society","Old Town/Chinatown","5/30/2022",1330,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.528016462,-122.676105259,7644486,686112,"5/31/2022",1
+"88","500 BLOCK OF SE 92ND AVE","22-284378","Society","Montavilla","10/23/2022",1301,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.518885438,-122.569182122,7671793,682064,"10/23/2022",1
+"89","500 BLOCK OF SE 136TH AVE","22-13763","Society","Hazelwood","1/15/2022",2000,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.518761327,-122.52377777,7683426,681724,"1/15/2022",1
+"90","600 BLOCK OF NW 6TH AVE","22-23323","Society","Old Town/Chinatown","1/25/2022",1435,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.527698379,-122.676530254,7644374,685999,"1/26/2022",1
+"91","600 BLOCK OF NW 6TH AVE","22-29868","Society","Old Town/Chinatown","2/1/2022",1230,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.527698379,-122.676530254,7644374,685999,"2/3/2022",1
+"92","600 BLOCK OF NW 6TH AVE","22-118007","Society","Old Town/Chinatown","5/4/2022",1117,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.527698379,-122.676530254,7644374,685999,"5/4/2022",1
+"93","600 BLOCK OF NW 6TH AVE","22-185574","Society","Old Town/Chinatown","7/11/2022",1350,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.527698379,-122.676530254,7644374,685999,"7/14/2022",1
+"94","600 BLOCK OF NW BROADWAY","22-160802","Society","Old Town/Chinatown","6/16/2022",1133,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.52767924,-122.677540515,7644115,685999,"6/20/2022",1
+"95","600 BLOCK OF NW GLISAN ST","22-42034","Society","Old Town/Chinatown","2/14/2022",1120,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.526577213,-122.677057165,7644228,685594,"2/15/2022",1
+"96","600 BLOCK OF NW GLISAN ST","22-97350","Society","Old Town/Chinatown","4/12/2022",1450,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.526577213,-122.677057165,7644228,685594,"4/12/2022",1
+"97","600 BLOCK OF NW GLISAN ST","22-122558","Society","Old Town/Chinatown","5/9/2022",1150,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.526577213,-122.677057165,7644228,685594,"5/9/2022",1
+"98","600 BLOCK OF NW HOYT ST","22-57297","Society","Old Town/Chinatown","3/2/2022",1050,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.527287307,-122.677084395,7644228,685853,"3/2/2022",1
+"99","600 BLOCK OF NW HOYT ST","22-58225","Society","Old Town/Chinatown","3/3/2022",955,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.527287307,-122.677084395,7644228,685853,"3/3/2022",1
+"100","600 BLOCK OF NW HOYT ST","22-76965","Society","Old Town/Chinatown","3/22/2022",1510,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.527287307,-122.677084395,7644228,685853,"3/23/2022",1
+"101","600 BLOCK OF NW HOYT ST","22-77745","Society","Old Town/Chinatown","3/23/2022",1017,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.527287307,-122.677084395,7644228,685853,"3/23/2022",1
+"102","600 BLOCK OF NW HOYT ST","22-85806","Society","Old Town/Chinatown","3/31/2022",1000,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.527287307,-122.677084395,7644228,685853,"3/31/2022",1
+"103","600 BLOCK OF NW HOYT ST","22-157577","Society","Old Town/Chinatown","6/13/2022",1340,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.527287307,-122.677084395,7644228,685853,"6/14/2022",1
+"104","600 BLOCK OF NW HOYT ST","22-172427","Society","Old Town/Chinatown","6/28/2022",1130,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.52737504,-122.677087759,7644228,685885,"6/29/2022",1
+"105","600 BLOCK OF NW HOYT ST","22-316670","Society","Old Town/Chinatown","11/27/2022",1145,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.527287307,-122.677084395,7644228,685853,"11/27/2022",1
+"106","600 BLOCK OF S PALATINE HILL RD","22-257160","Society","Collins View","9/24/2022",19,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.450652266,-122.672496836,7644652,657890,"9/24/2022",1
+"107","600 BLOCK OF SE 122ND AVE","22-301138","Society","Mill Park","11/10/2022",1800,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.517986185,-122.537830738,7679818,681532,"11/10/2022",1
+"108","600 BLOCK OF SE 122ND AVE","22-302115","Society","Mill Park","11/11/2022",2010,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.517986185,-122.537830738,7679818,681532,"11/11/2022",1
+"109","600 BLOCK OF SE 122ND AVE","22-314484","Society","Mill Park","11/25/2022",2110,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.517986185,-122.537830738,7679818,681532,"11/25/2022",1
+"110","600 BLOCK OF SE 122ND AVE","22-318915","Society","Mill Park","11/30/2022",1915,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.517986185,-122.537830738,7679818,681532,"11/30/2022",1
+"111","700 BLOCK OF NW 6TH AVE","22-23329","Society","Old Town/Chinatown","1/25/2022",1445,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.528227522,-122.67655054,7644374,686192,"1/26/2022",1
+"112","700 BLOCK OF NW 9TH AVE","22-131187","Society","Pearl","5/18/2022",808,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.528339562,-122.680337328,7643405,686259,"5/18/2022",1
+"113","700 BLOCK OF NW HOYT ST","22-55299","Society","Pearl","2/28/2022",1250,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.527349907,-122.678413962,7643888,685885,"3/1/2022",1
+"114","700 BLOCK OF SW WASHINGTON ST","22-298138","Society","Downtown","11/7/2022",902,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.520848769,-122.67935495,7643583,683522,"11/7/2022",1
+"115","800 BLOCK OF NE 81ST AVE","22-293871","Society","Montavilla","11/2/2022",1608,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.528806605,-122.579950183,7669127,685751,"11/2/2022",1
+"116","800 BLOCK OF NW COUCH ST","22-69031","Society","Pearl","3/14/2022",1350,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.5236727,-122.679607763,7643546,684553,"3/14/2022",1
+"117","800 BLOCK OF NW DAVIS ST","22-110625","Society","Pearl","4/26/2022",1600,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.52438561,-122.679631228,7643547,684813,"4/27/2022",1
+"118","800 BLOCK OF NW FLANDERS ST","22-160984","Society","Pearl","6/16/2022",1500,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.525811281,-122.679685961,7643547,685333,"6/20/2022",1
+"119","800 BLOCK OF NW GLISAN ST","22-110310","Society","Pearl","4/26/2022",954,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.52652419,-122.679709428,7643548,685593,"4/27/2022",1
+"120","800 BLOCK OF SW KING AVE","22-26086","Society","Goose Hollow","1/28/2022",736,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.522270785,-122.695455158,7639472,684152,"1/28/2022",1
+"121","900 BLOCK OF NE MARINE DR","22-272026","Society","Bridgeton","10/10/2022",259,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.600800378,-122.655221171,7650544,712497,"10/10/2022",1
+"122","1000 BLOCK OF NE 77TH AVE","22-149289","Society","Montavilla","6/4/2022",1850,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.53017957,-122.583974252,7668109,686278,"6/4/2022",1
+"123","1000 BLOCK OF SE 96TH AVE","22-160705","Society","Hazelwood","6/16/2022",1000,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.515606562,-122.564012832,7673087,680835,"6/16/2022",1
+"124","1100 BLOCK OF NE 102ND AVE","22-17269","Society","Hazelwood","1/19/2022",1417,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.530955058,-122.558145642,7674733,686391,"1/19/2022",1
+"125","1100 BLOCK OF NE 102ND AVE","22-191648","Society","Hazelwood","7/17/2022",2020,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.530955058,-122.558145642,7674733,686391,"7/17/2022",1
+"126","1100 BLOCK OF NE 102ND AVE","22-324695","Society","Hazelwood","12/7/2022",1103,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.530955058,-122.558145642,7674733,686391,"12/7/2022",1
+"127","1100 BLOCK OF SW 2ND AVE","22-680274","Society","Downtown","3/3/2022",1430,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.515006335,-122.676231105,7644326,681371,"3/3/2022",1
+"128","1100 BLOCK OF SW 2ND AVE","22-681232","Society","Downtown","11/22/2022",1140,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.515006335,-122.676231105,7644326,681371,"11/22/2022",1
+"129","1200 BLOCK OF SW 1ST AVE","22-802633","Society","Downtown","9/20/2022",800,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.51405078,-122.675546668,7644492,681018,"9/27/2022",1
+"130","1300 BLOCK OF SW PARK AVE","22-183153","Society","Downtown","7/9/2022",431,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.515258695,-122.68288691,7642623,681509,"7/9/2022",1
+"131","1400 BLOCK OF NE 81ST AVE","22-118921","Society","Montavilla","5/5/2022",1119,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.533271178,-122.580059109,7669141,687379,"5/5/2022",1
+"132","1500 BLOCK OF NE 103RD PL","22-205054","Society","Parkrose Heights","7/31/2022",1155,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.533855519,-122.556583908,7675160,687438,"7/31/2022",1
+"133","1500 BLOCK OF W BURNSIDE ST","22-324763","Society","Northwest","12/7/2022",1221,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.522922578,-122.686885635,7641674,684330,"12/7/2022",1
+"134","1900 BLOCK OF NE 58TH AVE","22-61834","Society","Rose City Park","3/7/2022",803,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.536838443,-122.603691755,7663121,688836,"3/7/2022",1
+"135","2000 BLOCK OF SW MORRISON ST","22-1785","Society","Goose Hollow","1/3/2022",600,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.52284938,-122.692885843,7640136,684345,"1/3/2022",1
+"136","2100 BLOCK OF N WILLIS BLVD","22-228208","Society","Kenton","8/24/2022",1355,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.583861295,-122.688504672,7641861,706552,"8/24/2022",1
+"137","2200 BLOCK OF NE 46TH AVE","22-173372","Society","Grant Park","6/29/2022",840,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.53846676,-122.616022718,7659978,689512,"6/29/2022",1
+"138","2300 BLOCK OF SE 157TH AVE","22-173170","Society","Centennial","6/29/2022",205,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.506068294,-122.501779957,7688948,676957,"6/29/2022",1
+"139","2300 BLOCK OF SE MADISON ST","22-275219","Society","Buckman East","10/13/2022",1320,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.512840036,-122.642005896,7653075,680347,"10/13/2022",1
+"140","2400 BLOCK OF SE 93RD AVE","22-286002","Society","Montavilla","10/25/2022",913,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.504964949,-122.567481045,7672099,676979,"10/25/2022",1
+"141","2500 BLOCK OF SE 50TH AVE","22-132751","Society","Richmond","5/19/2022",1807,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.504594736,-122.611065787,7660925,677133,"5/19/2022",1
+"142","2600 BLOCK OF N FARRAGUT ST","22-343568","Society","Kenton","12/29/2022",800,"Drug_Narcotic Offenses","Drug Equipment Violations",45.579194852,-122.694239844,7640347,704891,"12/29/2022",1
+"143","2600 BLOCK OF NE 82ND AVE","22-302791","Society","Madison South","11/12/2022",1553,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.541219635,-122.57882773,7669531,690268,"11/12/2022",1
+"144","2600 BLOCK OF SE 85TH AVE","22-330947","Society","Powellhurst-Gilbert","12/14/2022",1321,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.50362829,-122.574814344,7670207,676540,"12/14/2022",1
+"145","2600 BLOCK OF SE 122ND AVE","22-98440","Society","Powellhurst-Gilbert","4/13/2022",1836,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.502752283,-122.537615816,7679733,675978,"4/13/2022",1
+"146","2700 BLOCK OF SE 82ND AVE","22-263881","Society","Powellhurst-Gilbert","10/1/2022",504,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.502835165,-122.578620664,7669224,676276,"10/1/2022",1
+"147","2700 BLOCK OF SE 122ND AVE","22-125081","Society","Powellhurst-Gilbert","5/12/2022",17,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.502025883,-122.537734114,7679696,675714,"5/12/2022",1
+"148","2800 BLOCK OF SE 122ND AVE","22-243092","Society","Powellhurst-Gilbert","9/9/2022",221,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.501447083,-122.537728955,7679692,675503,"9/9/2022",1
+"149","2800 BLOCK OF SE 136TH AVE","22-236047","Society","Powellhurst-Gilbert","9/1/2022",1830,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.501397132,-122.523638977,7683303,675394,"9/1/2022",1
+"150","2900 BLOCK OF N WILLIAMS AVE","22-146379","Society","Eliot","6/1/2022",2047,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.544203035,-122.666718429,7647049,691947,"6/1/2022",1
+"151","2900 BLOCK OF NE 122ND AVE","22-197573","Society","Russell","7/23/2022",1917,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.543339036,-122.537378372,7680167,690770,"7/23/2022",1
+"152","2900 BLOCK OF SE 89TH AVE","22-163662","Society","Powellhurst-Gilbert","6/19/2022",1240,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.500860757,-122.57188468,7670932,675512,"6/19/2022",1
+"153","3000 BLOCK OF SE 136TH AVE","22-280493","Society","Powellhurst-Gilbert","10/19/2022",120,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.500034098,-122.523609925,7683298,674897,"10/19/2022",1
+"154","3000 BLOCK OF SE 140TH AVE","22-46536","Society","Powellhurst-Gilbert","2/18/2022",1848,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.500034589,-122.519373066,7684384,674870,"2/18/2022",1
+"155","3000 BLOCK OF SE 140TH AVE","22-227583","Society","Powellhurst-Gilbert","8/23/2022",2106,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.500034589,-122.519373066,7684384,674870,"8/24/2022",1
+"156","3100 BLOCK OF SW IOWA ST","22-321997","Society","Hayhurst","12/4/2022",631,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.479713104,-122.709048854,7635565,668736,"12/4/2022",1
+"157","3200 BLOCK OF SE 111TH AVE","22-99426","Society","Powellhurst-Gilbert","4/14/2022",2013,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.498512269,-122.549249493,7676712,674508,"4/14/2022",1
+"158","3200 BLOCK OF SE 122ND AVE","22-281976","Society","Powellhurst-Gilbert","10/20/2022",1805,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.4987745,-122.537594068,7679702,674528,"10/20/2022",1
+"159","3300 BLOCK OF SE 54TH AVE","22-317478","Society","South Tabor","11/29/2022",956,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.498556475,-122.607006335,7661908,674905,"11/29/2022",1
+"160","3300 BLOCK OF SE 82ND AVE","22-193239","Society","Powellhurst-Gilbert","7/19/2022",1105,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.498258341,-122.578648249,7669174,674608,"7/19/2022",1
+"161","3300 BLOCK OF SE 82ND AVE","22-197219","Society","Powellhurst-Gilbert","7/23/2022",1031,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.498258341,-122.578648249,7669174,674608,"7/23/2022",1
+"162","3500 BLOCK OF NE 82ND AVE","22-225295","Society","Roseway","8/21/2022",1404,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.548504413,-122.578793902,7669608,692923,"8/21/2022",1
+"163","3500 BLOCK OF SE 141ST AVE","22-277013","Society","Powellhurst-Gilbert","10/15/2022",1121,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.497013561,-122.518458135,7684591,673763,"10/15/2022",1
+"164","3800 BLOCK OF NE 82ND AVE","22-103063","Society","Madison South","4/18/2022",1600,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.550594904,-122.578647897,7669665,693684,"4/18/2022",1
+"165","3800 BLOCK OF NE 82ND AVE","22-125265","Society","Madison South","5/12/2022",634,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.550594904,-122.578647897,7669665,693684,"5/12/2022",1
+"166","3800 BLOCK OF SE 122ND AVE","22-298081","Society","Powellhurst-Gilbert","11/7/2022",614,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.494145864,-122.537607494,7679656,672841,"11/7/2022",1
+"167","3900 BLOCK OF SE 28TH AVE","22-249745","Society","Creston-Kenilworth","9/16/2022",949,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.494438819,-122.637563066,7654036,673610,"9/16/2022",1
+"168","3900 BLOCK OF SE 82ND AVE","22-91625","Society","Lents","4/6/2022",1130,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.493782535,-122.578702933,7669118,672977,"4/6/2022",1
+"169","4000 BLOCK OF NE HALSEY ST","22-240065","Society","Hollywood","9/6/2022",7,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.5337201,-122.621689764,7658481,687820,"9/6/2022",1
+"170","4300 BLOCK OF NE 133RD AVE","22-344703","Society","Argay","12/30/2022",830,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.554348648,-122.525898221,7683208,694709,"12/30/2022",1
+"171","4500 BLOCK OF SE 82ND AVE","22-87106","Society","Lents","4/1/2022",1838,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.489882993,-122.578751389,7669069,671556,"4/1/2022",1
+"172","4700 BLOCK OF N GIRARD ST","22-313124","Society","Portsmouth","11/24/2022",611,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.581682443,-122.716751727,7634610,705955,"11/24/2022",1
+"173","4900 BLOCK OF SE POWELL BLVD","22-322257","Society","Richmond","12/4/2022",1359,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.497559826,-122.611974732,7660625,674575,"12/4/2022",1
+"174","5000 BLOCK OF SE BROOKLYN ST","22-157199","Society","Richmond","6/13/2022",259,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.50101585,-122.610683075,7660989,675826,"6/13/2022",1
+"175","5000 BLOCK OF SW IOWA ST","22-335508","Society","Hayhurst","12/19/2022",1338,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.479959833,-122.728793616,7630505,668965,"12/19/2022",1
+"176","5100 BLOCK OF NE CORNFOOT RD","22-208343","Society","","8/3/2022",1701,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.577316748,-122.6089591,7662157,703625,"8/3/2022",1
+"177","5100 BLOCK OF NE CORNFOOT RD","22-680070","Society","","1/20/2022",1045,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.577316748,-122.6089591,7662157,703625,"1/20/2022",1
+"178","5100 BLOCK OF SE BUSH ST","22-122580","Society","Creston-Kenilworth","5/9/2022",1222,"Drug_Narcotic Offenses","Drug Equipment Violations",45.49550229,-122.60972529,7661182,673810,"5/9/2022",1
+"179","5400 BLOCK OF SE 82ND AVE","22-5054","Society","Lents","1/6/2022",1522,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.48316979,-122.578880209,7668973,669110,"1/6/2022",1
+"180","5400 BLOCK OF SE 84TH AVE","22-245301","Society","Lents","9/11/2022",1523,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.483209843,-122.57681843,7669502,669111,"9/11/2022",1
+"181","5900 BLOCK OF SE 92ND AVE","22-34002","Society","Lents","2/5/2022",1752,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.479469223,-122.568671094,7671556,667694,"2/5/2022",1
+"182","6100 BLOCK OF E BURNSIDE ST","22-185719","Society","Mt Tabor","7/11/2022",1651,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.522823298,-122.600288147,7663860,683705,"7/11/2022",1
+"183","6700 BLOCK OF NE ALDERWOOD RD","22-80906","Society","","3/26/2022",1211,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.572889513,-122.583925979,7668523,701845,"3/26/2022",1
+"184","6800 BLOCK OF N CUTTER CIR","22-94399","Society","Overlook","4/9/2022",915,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.572181621,-122.708883765,7636529,702437,"4/9/2022",1
+"185","6800 BLOCK OF N CUTTER CIR","22-323379","Society","Overlook","12/5/2022",2222,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.572181621,-122.708883765,7636529,702437,"12/5/2022",1
+"186","7200 BLOCK OF NE AIRPORT WAY","22-223635","Society","","8/19/2022",1642,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.585632992,-122.590896016,7666859,706536,"8/19/2022",1
+"187","7500 BLOCK OF SW BARBUR BLVD","22-156541","Society","Hillsdale","6/12/2022",1200,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.470503663,-122.689360773,7640522,665242,"6/12/2022",1
+"188","7600 BLOCK OF SE 82ND AVE","22-170969","Society","Lents","6/26/2022",2355,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.467655572,-122.578979501,7668802,663456,"6/27/2022",1
+"189","7600 BLOCK OF SE 82ND AVE","22-274723","Society","Lents","10/12/2022",2209,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.467655572,-122.578979501,7668802,663456,"10/12/2022",1
+"190","7800 BLOCK OF N CENTRAL ST","22-48953","Society","St Johns","2/21/2022",1512,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.590235958,-122.746375277,7627115,709282,"2/21/2022",1
+"191","8000 BLOCK OF SE POWELL BLVD","22-60626","Society","South Tabor","3/5/2022",2050,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.497464573,-122.580363063,7668727,674330,"3/5/2022",1
+"192","8100 BLOCK OF NE FREMONT ST","22-192937","Society","Roseway","7/19/2022",259,"Drug_Narcotic Offenses","Drug Equipment Violations",45.548103804,-122.5792517,7669487,692780,"7/19/2022",1
+"193","9100 BLOCK OF SE FLAVEL ST","22-77736","Society","Lents","3/23/2022",1001,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.468421855,-122.569824787,7671157,663675,"3/23/2022",1
+"194","9100 BLOCK OF SE POWELL BLVD","22-274996","Society","Lents","10/13/2022",759,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.497343092,-122.56901381,7671635,674211,"10/13/2022",1
+"195","9200 BLOCK OF SE STARK ST","22-311881","Society","Montavilla","11/22/2022",1810,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.519025538,-122.568562792,7671953,682111,"11/22/2022",1
+"196","9300 BLOCK OF SE STARK ST","22-343138","Society","Montavilla","12/28/2022",1839,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.519018477,-122.567430746,7672243,682101,"12/28/2022",1
+"197","9600 BLOCK OF SE STARK ST","22-97059","Society","Hazelwood","4/12/2022",902,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.51900011,-122.564026909,7673115,682072,"4/12/2022",1
+"198","9600 BLOCK OF SE STARK ST","22-294497","Society","Hazelwood","11/3/2022",957,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.51900011,-122.564026909,7673115,682072,"11/3/2022",1
+"199","9700 BLOCK OF SE FOSTER RD","22-281120","Society","Lents","10/19/2022",1855,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.478248229,-122.563034161,7672990,667212,"10/19/2022",1
+"200","9800 BLOCK OF SE WASHINGTON ST","22-117951","Society","Hazelwood","5/4/2022",1015,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.518282661,-122.561811436,7673676,681796,"5/4/2022",1
+"201","9900 BLOCK OF NE CASCADES PKWY","22-308709","Society","","11/19/2022",327,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.573435705,-122.560616615,7674495,701891,"11/19/2022",1
+"202","9900 BLOCK OF NE SANDY BLVD","22-326161","Society","Parkrose","12/9/2022",150,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.559389325,-122.560282259,7674450,696769,"12/9/2022",1
+"203","9900 BLOCK OF SE STARK ST","22-181947","Society","Hazelwood","7/7/2022",2206,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.519005182,-122.561299097,7673814,682056,"7/7/2022",1
+"204","9900 BLOCK OF SE WASHINGTON ST","22-5984","Society","Hazelwood","1/7/2022",1734,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.518287074,-122.560800807,7673935,681791,"1/7/2022",1
+"205","10000 BLOCK OF NE HALSEY ST","22-282014","Society","Hazelwood","10/20/2022",1913,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.533490931,-122.560396329,7674180,687330,"10/20/2022",1
+"206","10000 BLOCK OF NE HALSEY ST","22-324877","Society","Hazelwood","12/7/2022",1500,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.533490931,-122.560396329,7674180,687330,"12/7/2022",1
+"207","10100 BLOCK OF NE HALSEY ST","22-309243","Society","Hazelwood","11/19/2022",1830,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.533494322,-122.559135555,7674503,687323,"11/19/2022",1
+"208","10100 BLOCK OF SE WASHINGTON ST","22-4764","Society","Hazelwood","1/6/2022",1104,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.518296519,-122.558896652,7674423,681782,"1/6/2022",1
+"209","10200 BLOCK OF SE RAMONA ST","22-17521","Society","Lents","1/19/2022",925,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.480507775,-122.55790181,7674327,668002,"1/19/2022",1
+"210","10300 BLOCK OF SE HOLGATE BLVD","22-202958","Society","Lents","7/29/2022",313,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.489749371,-122.556457846,7674783,671361,"7/29/2022",1
+"211","10300 BLOCK OF SE MAIN ST","22-343357","Society","Hazelwood","12/28/2022",2351,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.514027798,-122.557196549,7674819,680215,"12/28/2022",1
+"212","10500 BLOCK OF NE HALSEY ST","22-236469","Society","Hazelwood","9/2/2022",632,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.533473428,-122.554017047,7675814,687282,"9/2/2022",1
+"213","11100 BLOCK OF NE HALSEY ST","22-226724","Society","Hazelwood","8/23/2022",4,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.533424121,-122.547863049,7677390,687224,"8/23/2022",1
+"214","11200 BLOCK OF SE FOSTER RD","22-7129","Society","Pleasant Valley","1/9/2022",206,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.47614795,-122.548095923,7676801,666349,"1/9/2022",1
+"215","11500 BLOCK OF SE HOLGATE BLVD","22-60755","Society","Powellhurst-Gilbert","3/6/2022",9,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.48966169,-122.544003695,7677975,671248,"3/6/2022",1
+"216","11500 BLOCK OF SE MORRISON ST","22-308459","Society","Mill Park","11/18/2022",1922,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.516806873,-122.544602243,7678072,681146,"11/18/2022",1
+"217","11600 BLOCK OF NE FARGO ST","22-239277","Society","Parkrose Heights","9/5/2022",708,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.545464007,-122.543014665,7678743,691581,"9/5/2022",1
+"218","11700 BLOCK OF SE STARK ST","22-137871","Society","Hazelwood","5/24/2022",2123,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.519042764,-122.542294304,7678684,681946,"5/24/2022",1
+"219","12000 BLOCK OF NE AIRPORT WAY","22-680106","Society","Parkrose","6/10/2022",1230,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.567221998,-122.536724407,7680554,699471,"6/10/2022",1
+"220","12100 BLOCK OF E BURNSIDE ST","22-322294","Society","Hazelwood","12/4/2022",1459,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.522366663,-122.538194808,7679765,683131,"12/4/2022",1
+"221","12200 BLOCK OF E BURNSIDE ST","22-106845","Society","Hazelwood","4/22/2022",1808,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.5223608,-122.537133005,7680037,683122,"4/22/2022",1
+"222","12300 BLOCK OF NE GLISAN ST","22-125591","Society","Hazelwood","5/12/2022",1359,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.526354941,-122.536230262,7680305,684572,"5/12/2022",1
+"223","12600 BLOCK OF SE POWELL BLVD","22-148339","Society","Powellhurst-Gilbert","6/3/2022",1801,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.497188855,-122.532941601,7680880,673920,"6/3/2022",1
+"224","12600 BLOCK OF SE POWELL BLVD","22-175138","Society","Powellhurst-Gilbert","6/30/2022",2325,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.497188855,-122.532941601,7680880,673920,"7/1/2022",1
+"225","12600 BLOCK OF SE POWELL BLVD","22-345991","Society","Powellhurst-Gilbert","12/31/2022",2110,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.497188855,-122.532941601,7680880,673920,"12/31/2022",1
+"226","13000 BLOCK OF SE POWELL BLVD","22-593","Society","Powellhurst-Gilbert","1/1/2022",1700,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.497443745,-122.529232886,7681833,673989,"1/1/2022",1
+"227","13000 BLOCK OF SE STARK ST","22-158428","Society","Hazelwood","5/27/2022",645,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.519115038,-122.529078502,7682071,681887,"5/27/2022",1
+"228","13800 BLOCK OF SE TAYLOR ST","22-319704","Society","Hazelwood","12/1/2022",1815,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.515618644,-122.521671628,7683937,680565,"12/1/2022",1
+"229","13900 BLOCK OF SE STARK ST","22-37169","Society","Hazelwood","2/9/2022",614,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.519060747,-122.520326776,7684313,681811,"2/9/2022",1
+"230","14000 BLOCK OF NE GLISAN ST","22-59645","Society","Hazelwood","3/4/2022",1931,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.526514107,-122.51881215,7684769,684518,"3/4/2022",1
+"231","14200 BLOCK OF NE SANDY BLVD","22-680772","Society","Argay","7/12/2022",1848,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.55353717,-122.516969673,7685487,694356,"7/12/2022",1
+"232","14800 BLOCK OF SE POWELL BLVD","22-314510","Society","Centennial","11/25/2022",2208,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.497909441,-122.510238921,7686706,674037,"11/25/2022",1
+"233","14900 BLOCK OF SE STARK ST","22-146436","Society","Glenfair","6/1/2022",1954,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.51919988,-122.509419868,7687109,681792,"6/1/2022",1
+"234","15000 BLOCK OF SE TIBBETTS ST","22-79502","Society","Centennial","3/25/2022",111,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.50011338,-122.508463776,7687181,674829,"3/25/2022",1
+"235","15100 BLOCK OF SE YAMHILL ST","22-215141","Society","Centennial","8/10/2022",1941,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.515845164,-122.507658237,7687530,680558,"8/10/2022",1
+"236","15100 BLOCK OF SE YAMHILL ST","22-242831","Society","Centennial","9/8/2022",1931,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.515845164,-122.507658237,7687530,680558,"9/8/2022",1
+"237","15100 BLOCK OF SE YAMHILL ST","22-344009","Society","Centennial","12/29/2022",1815,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.515845164,-122.507658237,7687530,680558,"12/29/2022",1
+"238","15200 BLOCK OF SE MAIN ST","22-224409","Society","Centennial","8/20/2022",1602,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.513549433,-122.506367373,7687840,679713,"8/20/2022",1
+"239","15800 BLOCK OF NE GLISAN ST","22-53915","Society","Glenfair","2/26/2022",2215,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.526386394,-122.500228591,7689529,684353,"2/26/2022",1
+"240","15900 BLOCK OF E BURNSIDE ST","22-116426","Society","Glenfair","5/2/2022",1841,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.522079547,-122.499413388,7689699,682778,"5/2/2022",1
+"241","16300 BLOCK OF NE SANDY BLVD","22-254631","Society","Wilkes","9/21/2022",1004,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.549264684,-122.49437348,7691235,692655,"9/21/2022",1
+"242","E BURNSIDE ST / NE 148TH AVE","22-71221","Society","Glenfair","3/16/2022",2016,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.522374527,-122.510652343,7686822,682957,"3/16/2022",1
+"243","E BURNSIDE ST / SE 102ND AVE","22-141166","Society","Hazelwood","5/27/2022",1902,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.522557102,-122.558293974,7674617,683331,"5/27/2022",1
+"244","EB STEEL BRG AT / EASTEND","22-112436","Society","","4/28/2022",1201,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.528125708,-122.667857495,7646600,686095,"4/28/2022",1
+"245","N DELAWARE AVE / N AINSWORTH ST","22-310140","Society","Arbor Lodge","11/20/2022",1945,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.566360013,-122.69251691,7640661,700201,"11/20/2022",1
+"246","N INTERSTATE PL / N COLUMBIA BLVD","22-188104","Society","Kenton","7/13/2022",2314,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.584680208,-122.682659562,7643365,706810,"7/13/2022",1
+"247","N WILLIAMS AVE / N STANTON ST","22-101151","Society","Eliot","4/16/2022",1656,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.543778884,-122.666659286,7647060,691792,"4/16/2022",1
+"248","NE 33RD AVE / NE AINSWORTH ST","22-336064","Society","Concordia","12/20/2022",600,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.566403546,-122.630649915,7656500,699793,"12/20/2022",1
+"249","NE 81ST AVE / NE GLISAN ST&FLANDERS ST ALY","22-313519","Society","Montavilla","11/24/2022",1839,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.525996217,-122.580003354,7669087,684727,"11/24/2022",1
+"250","NE 82ND AVE / NE MILTON ST","22-211881","Society","Roseway","8/7/2022",1351,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.548862322,-122.578725011,7669629,693053,"8/7/2022",1
+"251","NE 82ND AVE / NE SANDY BLVD","22-261612","Society","Madison South","9/28/2022",1840,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.552427235,-122.578668153,7669677,694352,"9/28/2022",1
+"252","NE 88TH AVE / NE RUSSELL ST","22-235377","Society","Madison South","9/1/2022",159,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.540866552,-122.572400147,7671174,690097,"9/1/2022",1
+"253","NE 102ND AVE / NE MORRIS ST","22-275882","Society","Parkrose Heights","10/14/2022",708,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.543577816,-122.557857625,7674924,690990,"10/14/2022",1
+"254","NE 102ND AVE / NE THOMPSON ST","22-231218","Society","Parkrose Heights","8/27/2022",2100,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.538933641,-122.557974254,7674851,689298,"8/27/2022",1
+"255","NE 102ND AVE / NE WASCO ST","22-292029","Society","Hazelwood","10/31/2022",1831,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.532051123,-122.558068271,7674763,686790,"10/31/2022",1
+"256","NE 105TH AVE / NE SIMPSON ST","22-44684","Society","Parkrose","2/16/2022",2346,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.565310758,-122.554712662,7675931,698891,"2/16/2022",1
+"257","NE 115TH AVE / NE WYGANT ST","22-201630","Society","Parkrose","7/27/2022",1858,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.557191592,-122.544151575,7678560,695863,"7/27/2022",1
+"258","NE 122ND AVE / E BURNSIDE ST","22-275680","Society","Hazelwood","10/14/2022",41,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.52258553,-122.537765536,7679877,683208,"10/14/2022",1
+"259","NE 122ND AVE / NE HALSEY ST","22-30518","Society","Russell","2/2/2022",253,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.533572958,-122.537636848,7680011,687212,"2/2/2022",1
+"260","NE 122ND AVE / NE HOLLADAY ST","22-275325","Society","Hazelwood","10/13/2022",1625,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.530241306,-122.537692925,7679966,685998,"10/13/2022",1
+"261","NE 122ND AVE / NE SANDY BLVD","22-162112","Society","Argay","6/17/2022",1830,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.557204384,-122.537712176,7680209,695826,"6/17/2022",1
+"262","NE 131ST PL / NE SANDY BLVD","22-218068","Society","Argay","8/13/2022",1925,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.555633067,-122.528517595,7682549,695194,"8/13/2022",1
+"263","NE BEECH ST / NE 82ND AVE","22-319852","Society","Madison South","12/1/2022",1936,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.549575882,-122.578712099,7669639,693313,"12/1/2022",1
+"264","NE EVERETT ST / NE 97TH AVE","22-117062","Society","Hazelwood","5/3/2022",1140,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.524731303,-122.563575631,7673284,684158,"5/3/2022",1
+"265","NE EVERETT ST / NE 97TH AVE","22-146520","Society","Hazelwood","6/1/2022",2113,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.524731303,-122.563575631,7673284,684158,"6/1/2022",1
+"266","NE GLISAN ST / NE 102ND AVE","22-124469","Society","Hazelwood","5/11/2022",1045,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.526271695,-122.558151511,7674688,684684,"5/11/2022",1
+"267","NE GLISAN ST / NE 162ND AVE","22-39830","Society","","2/11/2022",2050,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.526423183,-122.496377483,7690516,684342,"2/11/2022",1
+"268","NE HALSEY ST / NE 34TH AVE","22-175686","Society","Laurelhurst","7/1/2022",1327,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.533742258,-122.629244453,7656546,687879,"7/1/2022",1
+"269","NE KILLINGSWORTH ST / NE 89TH AVE","22-65518","Society","Sumner","3/10/2022",2152,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.562731105,-122.571269328,7671668,698059,"3/10/2022",1
+"270","NE KLICKITAT ST / NE 83RD AVE","22-239404","Society","Madison South","9/5/2022",1032,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.546336665,-122.577750063,7669855,692126,"9/5/2022",1
+"271","NE MARTIN LUTHER KING JR BLVD / NE SUMNER ST","22-143454","Society","King","5/30/2022",125,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.560631917,-122.661471622,7648553,697899,"5/30/2022",1
+"272","NE MULTNOMAH ST / NE 31ST AVE","22-76596","Society","Kerns","3/22/2022",811,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.531725484,-122.632807033,7655614,687168,"3/22/2022",1
+"273","NE OREGON ST / NE 81ST AVE","22-16010","Society","Montavilla","1/18/2022",923,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.528386398,-122.580126053,7669078,685599,"1/18/2022",1
+"274","NE PRESCOTT ST / NE 82ND AVE","22-260544","Society","Sumner","9/27/2022",1730,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.555424111,-122.578617818,7669718,695444,"9/27/2022",1
+"275","NE RODNEY AVE / NE KNOTT ST","22-73167","Society","Eliot","3/18/2022",1818,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.54188668,-122.664135082,7647688,691085,"3/18/2022",1
+"276","NE RODNEY AVE / NE KNOTT ST","22-142167","Society","Eliot","5/28/2022",1908,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.54188668,-122.664135082,7647688,691085,"5/28/2022",1
+"277","NE RODNEY AVE / NE KNOTT ST","22-164484","Society","Eliot","6/20/2022",604,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.54188668,-122.664135082,7647688,691085,"6/20/2022",1
+"278","NE SANDY BLVD / NE 100TH AVE","22-51091","Society","Parkrose","2/23/2022",1843,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.5592969,-122.559775096,7674579,696732,"2/23/2022",1
+"279","NE SANDY BLVD / NE 118TH AVE","22-324592","Society","Parkrose","12/7/2022",900,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.55762769,-122.54137887,7679274,696004,"12/7/2022",1
+"280","NE SANDY BLVD / NE 162ND AVE","22-267175","Society","Wilkes","10/4/2022",1841,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.549511912,-122.49593625,7690837,692755,"10/4/2022",1
+"281","NW 2ND AVE / NW COUCH ST","22-91634","Society","Old Town/Chinatown","4/6/2022",1150,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.523850469,-122.672393687,7645396,684568,"4/6/2022",1
+"282","NW 2ND AVE / NW DAVIS ST","22-44149","Society","Old Town/Chinatown","2/16/2022",1230,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.524563381,-122.672417062,7645397,684828,"2/17/2022",1
+"283","NW 3RD AVE / NW COUCH ST","22-53792","Society","Old Town/Chinatown","2/26/2022",1708,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.523831293,-122.673407781,7645136,684568,"2/26/2022",1
+"284","NW 3RD AVE / NW DAVIS ST","22-268625","Society","Old Town/Chinatown","10/6/2022",1216,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.524544204,-122.673431169,7645137,684828,"10/6/2022",1
+"285","NW 3RD AVE / W BURNSIDE ST","22-29834","Society","Old Town/Chinatown","2/1/2022",1241,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.52312416,-122.673369003,7645139,684310,"2/1/2022",1
+"286","NW 4TH AVE / NW DAVIS ST","22-23157","Society","Old Town/Chinatown","1/25/2022",1115,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.524525018,-122.674445275,7644877,684828,"1/25/2022",1
+"287","NW 4TH AVE / NW DAVIS ST","22-216722","Society","Old Town/Chinatown","8/12/2022",1022,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.524525018,-122.674445275,7644877,684828,"8/12/2022",1
+"288","NW 4TH AVE / NW DAVIS ST","22-248916","Society","Old Town/Chinatown","9/15/2022",1139,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.524525018,-122.674445275,7644877,684828,"9/15/2022",1
+"289","NW 4TH AVE / NW DAVIS ST","22-259341","Society","Old Town/Chinatown","9/26/2022",1100,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.524525018,-122.674445275,7644877,684828,"9/26/2022",1
+"290","NW 4TH AVE / NW FLANDERS ST","22-242532","Society","Old Town/Chinatown","9/8/2022",1306,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.525950691,-122.674499878,7644877,685348,"9/8/2022",1
+"291","NW 4TH AVE / NW GLISAN ST","22-2842","Society","Old Town/Chinatown","1/4/2022",1116,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.526663528,-122.67452718,7644877,685608,"1/4/2022",1
+"292","NW 4TH AVE / NW GLISAN ST","22-64262","Society","Old Town/Chinatown","3/9/2022",1545,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.526663528,-122.67452718,7644877,685608,"3/9/2022",1
+"293","NW 4TH PL / NW 5TH ST","22-175674","Society","Linnton","7/1/2022",1313,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.597618856,-122.788714212,7616357,712277,"7/1/2022",1
+"294","NW 5TH AVE / NW COUCH ST","22-226183","Society","Old Town/Chinatown","8/22/2022",1220,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.523792913,-122.675435967,7644616,684568,"8/23/2022",1
+"295","NW 5TH AVE / NW COUCH ST","22-261267","Society","Old Town/Chinatown","9/28/2022",1129,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.523792913,-122.675435967,7644616,684568,"9/28/2022",1
+"296","NW 5TH AVE / NW DAVIS ST","22-25332","Society","Old Town/Chinatown","1/27/2022",1300,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.524505823,-122.67545938,7644617,684828,"1/28/2022",1
+"297","NW 5TH AVE / NW DAVIS ST","22-30832","Society","Old Town/Chinatown","2/2/2022",1146,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.524505823,-122.67545938,7644617,684828,"2/2/2022",1
+"298","NW 5TH AVE / NW DAVIS ST","22-46287","Society","Old Town/Chinatown","2/18/2022",1409,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.524505823,-122.67545938,7644617,684828,"2/18/2022",1
+"299","NW 5TH AVE / NW DAVIS ST","22-58450","Society","Old Town/Chinatown","3/3/2022",1419,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.524505823,-122.67545938,7644617,684828,"3/3/2022",1
+"300","NW 5TH AVE / NW DAVIS ST","22-201097","Society","Old Town/Chinatown","7/27/2022",1028,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.524505823,-122.67545938,7644617,684828,"7/27/2022",1
+"301","NW 5TH AVE / NW DAVIS ST","22-219508","Society","Old Town/Chinatown","8/15/2022",1204,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.524505823,-122.67545938,7644617,684828,"8/15/2022",1
+"302","NW 5TH AVE / NW DAVIS ST","22-220398","Society","Old Town/Chinatown","8/16/2022",1007,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.524505823,-122.67545938,7644617,684828,"8/16/2022",1
+"303","NW 5TH AVE / NW DAVIS ST","22-220583","Society","Old Town/Chinatown","8/16/2022",1417,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.524505823,-122.67545938,7644617,684828,"8/16/2022",1
+"304","NW 5TH AVE / NW DAVIS ST","22-246907","Society","Old Town/Chinatown","9/13/2022",903,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.524505823,-122.67545938,7644617,684828,"9/13/2022",1
+"305","NW 5TH AVE / NW DAVIS ST","22-249022","Society","Old Town/Chinatown","9/15/2022",1410,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.524505823,-122.67545938,7644617,684828,"9/15/2022",1
+"306","NW 5TH AVE / NW DAVIS ST","22-253566","Society","Old Town/Chinatown","9/20/2022",832,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.524505823,-122.67545938,7644617,684828,"9/20/2022",1
+"307","NW 5TH AVE / NW DAVIS ST","22-253882","Society","Old Town/Chinatown","9/20/2022",1455,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.524505823,-122.67545938,7644617,684828,"9/20/2022",1
+"308","NW 5TH AVE / NW DAVIS ST","22-254642","Society","Old Town/Chinatown","9/21/2022",1016,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.524505823,-122.67545938,7644617,684828,"9/21/2022",1
+"309","NW 5TH AVE / NW DAVIS ST","22-254701","Society","Old Town/Chinatown","9/21/2022",1133,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.524505823,-122.67545938,7644617,684828,"9/21/2022",1
+"310","NW 5TH AVE / NW DAVIS ST","22-255484","Society","Old Town/Chinatown","9/22/2022",850,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.524505823,-122.67545938,7644617,684828,"9/22/2022",1
+"311","NW 5TH AVE / NW EVERETT ST","22-241382","Society","Old Town/Chinatown","9/7/2022",949,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.52521866,-122.675486694,7644617,685088,"9/7/2022",1
+"312","NW 5TH AVE / NW GLISAN ST","22-4721","Society","Old Town/Chinatown","1/6/2022",1013,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.526647074,-122.675541429,7644617,685609,"1/6/2022",1
+"313","NW 5TH AVE / NW GLISAN ST","22-5581","Society","Old Town/Chinatown","1/7/2022",939,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.526647074,-122.675541429,7644617,685609,"1/7/2022",1
+"314","NW 5TH AVE / NW GLISAN ST","22-10518","Society","Old Town/Chinatown","1/12/2022",1302,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.526647074,-122.675541429,7644617,685609,"1/12/2022",1
+"315","NW 5TH AVE / NW GLISAN ST","22-12493","Society","Old Town/Chinatown","1/14/2022",1300,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.526647074,-122.675541429,7644617,685609,"1/14/2022",1
+"316","NW 5TH AVE / NW GLISAN ST","22-19324","Society","Old Town/Chinatown","1/21/2022",1247,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.526647074,-122.675541429,7644617,685609,"1/21/2022",1
+"317","NW 5TH AVE / NW GLISAN ST","22-50536","Society","Old Town/Chinatown","2/23/2022",1001,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.526647074,-122.675541429,7644617,685609,"2/23/2022",1
+"318","NW 5TH AVE / NW GLISAN ST","22-50861","Society","Old Town/Chinatown","2/23/2022",1410,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.526647074,-122.675541429,7644617,685609,"2/23/2022",1
+"319","NW 5TH AVE / NW HOYT ST","22-77868","Society","Old Town/Chinatown","3/23/2022",1210,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.527357242,-122.675564739,7644618,685868,"3/23/2022",1
+"320","NW 5TH AVE / NW HOYT ST","22-85137","Society","Old Town/Chinatown","3/30/2022",1545,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.527357242,-122.675564739,7644618,685868,"3/30/2022",1
+"321","NW 6TH AVE / NW DAVIS ST","22-90664","Society","Old Town/Chinatown","4/5/2022",1305,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.524489435,-122.67646969,7644358,684829,"4/5/2022",1
+"322","NW 6TH AVE / NW DAVIS ST","22-306271","Society","Old Town/Chinatown","11/16/2022",1159,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.524489435,-122.67646969,7644358,684829,"11/16/2022",1
+"323","NW 6TH AVE / NW HOYT ST","22-39269","Society","Old Town/Chinatown","2/11/2022",946,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.527340779,-122.676578999,7644358,685869,"2/11/2022",1
+"324","NW 6TH AVE / NW HOYT ST","22-147272","Society","Old Town/Chinatown","6/2/2022",1521,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.527340779,-122.676578999,7644358,685869,"6/7/2022",1
+"325","NW 17TH AVE / W BURNSIDE ST","22-29713","Society","Northwest","2/1/2022",1001,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.522919191,-122.688216476,7641333,684338,"2/1/2022",1
+"326","NW 19TH AVE / NW SAVIER ST","22-97965","Society","Northwest","4/13/2022",1002,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.534925414,-122.690670321,7640823,688731,"4/13/2022",1
+"327","NW 19TH AVE / NW SAVIER ST","22-103688","Society","Northwest","4/19/2022",929,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.534925414,-122.690670321,7640823,688731,"4/19/2022",1
+"328","NW 21ST AVE / NW DAVIS ST","22-91818","Society","Northwest","4/6/2022",1846,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.52416058,-122.694337747,7639777,684833,"4/6/2022",1
+"329","NW 22ND AVE / NW GLISAN ST","22-269303","Society","Northwest","10/7/2022",735,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.526263067,-122.696448767,7639257,685614,"10/7/2022",1
+"330","NW BROADWAY / NW EVERETT ST","22-262118","Society","Old Town/Chinatown","9/29/2022",900,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.525182984,-122.677515033,7644097,685089,"9/29/2022",1
+"331","NW BROADWAY / NW HOYT ST","22-79937","Society","Old Town/Chinatown","3/25/2022",1327,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.527321565,-122.677593154,7644098,685869,"3/29/2022",1
+"332","NW DAVIS ST / NW 8TH AVE","22-20170","Society","Pearl","1/22/2022",839,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.524439886,-122.678505277,7643836,684825,"1/22/2022",1
+"333","NW FLANDERS ST / NW 1ST AVE","22-70696","Society","Old Town/Chinatown","3/16/2022",1011,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.526001339,-122.671531381,7645638,685346,"3/16/2022",1
+"334","NW FLANDERS ST / NW 5TH AVE","22-253763","Society","Old Town/Chinatown","9/20/2022",1243,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.525931496,-122.675514008,7644617,685348,"9/20/2022",1
+"335","NW FLANDERS ST / NW BROADWAY","22-3731","Society","Old Town/Chinatown","1/5/2022",1220,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.52589582,-122.677542373,7644097,685349,"1/5/2022",1
+"336","NW GLISAN ST / NW 2ND AVE","22-112351","Society","Old Town/Chinatown","4/28/2022",1012,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.52670167,-122.672510592,7645394,685608,"4/28/2022",1
+"337","NW GLISAN ST / NW 6TH AVE","22-12400","Society","Old Town/Chinatown","1/14/2022",953,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.526630759,-122.676547876,7644359,685610,"1/14/2022",1
+"338","NW GLISAN ST / NW 6TH AVE","22-48962","Society","Old Town/Chinatown","2/21/2022",1530,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.526630759,-122.676547876,7644359,685610,"2/21/2022",1
+"339","NW GLISAN ST / NW 6TH AVE","22-56372","Society","Old Town/Chinatown","3/1/2022",1310,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.526630759,-122.676547876,7644359,685610,"3/1/2022",1
+"340","NW GLISAN ST / NW 6TH AVE","22-70941","Society","Old Town/Chinatown","3/16/2022",1443,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.526630759,-122.676547876,7644359,685610,"3/16/2022",1
+"341","NW GLISAN ST / NW 6TH AVE","22-110234","Society","Old Town/Chinatown","4/26/2022",800,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.526630759,-122.676547876,7644359,685610,"4/26/2022",1
+"342","NW GLISAN ST / NW 6TH AVE","22-181415","Society","Old Town/Chinatown","7/7/2022",1147,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.526630759,-122.676547876,7644359,685610,"7/7/2022",1
+"343","NW GLISAN ST / NW 6TH AVE","22-254875","Society","Old Town/Chinatown","9/21/2022",1535,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.526630759,-122.676547876,7644359,685610,"9/21/2022",1
+"344","NW GLISAN ST / NW PARK AVE","22-76841","Society","Pearl","3/22/2022",1300,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.526577674,-122.679204042,7643678,685609,"3/22/2022",1
+"345","NW INDUSTRIAL ST / NW 30TH AVE","22-43858","Society","Northwest Industrial","2/16/2022",705,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.54121439,-122.712418578,7635315,691175,"2/16/2022",1
+"346","NW INDUSTRIAL ST / NW 30TH AVE","22-43880","Society","Northwest Industrial","2/16/2022",740,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.54121439,-122.712418578,7635315,691175,"2/16/2022",1
+"347","NW IRVING ST / NW 6TH AVE","22-88225","Society","Old Town/Chinatown","4/2/2022",2318,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.528053615,-122.676606329,7644358,686129,"4/2/2022",1
+"348","NW IRVING ST / NW 6TH AVE","22-262358","Society","Old Town/Chinatown","9/29/2022",1421,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.528053615,-122.676606329,7644358,686129,"9/29/2022",1
+"349","NW JOHNSON ST / NW 11TH AVE","22-127222","Society","Pearl","5/14/2022",1124,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.52865555,-122.682336359,7642896,686388,"5/14/2022",1
+"350","NW OVERTON ST / NW 17TH AVE","22-305379","Society","Northwest","11/15/2022",1106,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.532115181,-122.688547527,7641339,687692,"11/15/2022",1
+"351","NW PARK AVE / NW COUCH ST","22-99020","Society","Pearl","4/14/2022",1344,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.523726184,-122.679102402,7643676,684569,"4/14/2022",1
+"352","NW PARK AVE / NW FLANDERS ST","22-124534","Society","Pearl","5/11/2022",1152,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.525864765,-122.679180581,7643677,685349,"5/11/2022",1
+"353","NW THURMAN ST / NW 29TH AVE","22-114569","Society","Northwest","4/30/2022",1935,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.53527179,-122.71098062,7635624,688999,"4/30/2022",1
+"354","SB SW BARBUR BLVD TO / WB SW CAPITOL HWY","22-206819","Society","South Portland","8/2/2022",744,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.480664061,-122.680255194,7642957,668882,"8/2/2022",1
+"355","SE 4TH AVE / SE DIVISION PL","22-226320","Society","Hosford-Abernethy","8/22/2022",1450,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.504895485,-122.661867164,7647908,677587,"8/22/2022",1
+"356","SE 7TH AVE / SE CLAY ST","22-83802","Society","Hosford-Abernethy","3/29/2022",1024,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.511514845,-122.658716327,7648780,679978,"3/29/2022",1
+"357","SE 8TH AVE / SE TAYLOR ST","22-325648","Society","Buckman West","12/8/2022",1512,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.515070219,-122.657715839,7649071,681267,"12/8/2022",1
+"358","SE 9TH AVE / SE ANKENY ST","22-322796","Society","Buckman West","12/5/2022",843,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.52220449,-122.656652114,7649413,683860,"12/5/2022",1
+"359","SE 9TH AVE / SE WASHINGTON ST","22-144723","Society","Buckman West","5/31/2022",855,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.518640021,-122.656676746,7649372,682561,"5/31/2022",1
+"360","SE 16TH AVE / SE RHONE ST","22-139726","Society","Brooklyn","5/26/2022",1303,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.49603846,-122.649319168,7651038,674273,"5/26/2022",1
+"361","SE 21ST AVE / SE POWELL BLVD","22-261262","Society","Hosford-Abernethy","9/28/2022",1400,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.499349772,-122.644637855,7652270,675448,"9/28/2022",1
+"362","SE 23RD AVE / SE TOLMAN ST","22-58242","Society","Sellwood-Moreland","3/3/2022",1011,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.477751775,-122.642278311,7652666,667560,"3/3/2022",1
+"363","SE 37TH AVE / SE OAK ST","22-110229","Society","Laurelhurst","4/26/2022",1404,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.520287315,-122.625847865,7657287,682952,"4/26/2022",1
+"364","SE 44TH AVE / SE STARK ST","22-72622","Society","North Tabor","3/18/2022",743,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.519281741,-122.617306005,7659466,682528,"3/18/2022",1
+"365","SE 44TH AVE / SE WOODSTOCK BLVD","22-319115","Society","Woodstock","12/1/2022",39,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.479180436,-122.617473177,7659040,667913,"12/1/2022",1
+"366","SE 53RD AVE / SE LONG ST","22-264468","Society","Woodstock","10/1/2022",2114,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.489100034,-122.607857045,7661600,671464,"10/1/2022",1
+"367","SE 70TH AVE / SE WOODWARD ST","22-304873","Society","South Tabor","11/15/2022",48,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.501427319,-122.591639279,7665874,675849,"11/15/2022",1
+"368","SE 80TH AVE / SE WOODSTOCK BLVD","22-131511","Society","Mt Scott-Arleta","5/18/2022",1446,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.479608743,-122.581596948,7668243,667830,"5/18/2022",1
+"369","SE 80TH AVE / SE YAMHILL ST","22-83180","Society","Montavilla","3/28/2022",1733,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.516032697,-122.581453076,7668622,681105,"3/28/2022",1
+"370","SE 82ND AVE / SE BROOKLYN ST","22-299771","Society","Powellhurst-Gilbert","11/9/2022",155,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.500507522,-122.578679839,7669187,675428,"11/9/2022",1
+"371","SE 94TH AVE / SE PARDEE ST","22-44771","Society","Lents","2/17/2022",123,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.488906613,-122.567333543,7671987,671125,"2/17/2022",1
+"372","SE 99TH AVE / SE PINE ST","22-334694","Society","Hazelwood","12/18/2022",1542,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.520417135,-122.562271417,7673578,682577,"12/18/2022",1
+"373","SE 99TH AVE / SE STARK ST","22-110918","Society","Hazelwood","4/26/2022",2350,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.51905581,-122.56230003,7673558,682081,"4/27/2022",1
+"374","SE 99TH AVE / SE STARK ST","22-181811","Society","Hazelwood","7/7/2022",1925,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.51905581,-122.56230003,7673558,682081,"7/7/2022",1
+"375","SE 100TH AVE / SE MAIN ST","22-330732","Society","Hazelwood","12/14/2022",950,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.513994372,-122.560898682,7673870,680227,"12/14/2022",1
+"376","SE 101ST AVE / SE DIVISION ST","22-100695","Society","Hazelwood","4/16/2022",322,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.504330792,-122.55956091,7674123,676696,"4/16/2022",1
+"377","SE 102ND AVE / SE WASHINGTON ST","22-201230","Society","Mill Park","7/27/2022",1029,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.518340478,-122.558433829,7674542,681795,"7/27/2022",1
+"378","SE 102ND AVE / SE WASHINGTON ST","22-210280","Society","Mill Park","8/5/2022",1848,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.518340478,-122.558433829,7674542,681795,"8/5/2022",1
+"379","SE 115TH AVE / SE DIVISION ST","22-336630","Society","Powellhurst-Gilbert","12/20/2022",1822,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.504136294,-122.545418076,7677746,676533,"12/20/2022",1
+"380","SE 119TH AVE / SE CLINTON ST","22-125746","Society","Powellhurst-Gilbert","5/12/2022",1744,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.502461082,-122.540882669,7678893,675893,"5/12/2022",1
+"381","SE 119TH AVE / SE STARK ST","22-57278","Society","Hazelwood","3/2/2022",1033,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.519011052,-122.540373041,7679176,681922,"3/2/2022",1
+"382","SE 122ND AVE / E BURNSIDE ST","22-270766","Society","Hazelwood","10/8/2022",2043,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.522409916,-122.53776704,7679875,683144,"10/8/2022",1
+"383","SE 122ND AVE / SE SHERMAN ST","22-94088","Society","Mill Park","4/8/2022",2332,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.506010667,-122.537670284,7679749,677166,"4/8/2022",1
+"384","SE 126TH AVE / SE STARK ST","22-249214","Society","Hazelwood","9/15/2022",1849,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.519046327,-122.533895853,7680836,681893,"9/15/2022",1
+"385","SE 130TH AVE / SE SHERMAN ST","22-191561","Society","Hazelwood","7/17/2022",1751,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.50587297,-122.529951535,7681726,677066,"7/17/2022",1
+"386","SE 136TH AVE / SE HOLGATE BLVD","22-225080","Society","Powellhurst-Gilbert","8/21/2022",857,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.488712153,-122.523569413,7683205,670770,"8/21/2022",1
+"387","SE 136TH AVE / SE POWELL BLVD","22-337701","Society","Powellhurst-Gilbert","12/21/2022",2216,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.497856809,-122.523547966,7683294,674103,"12/21/2022",1
+"388","SE 138TH AVE / SE DIVISION ST","22-254331","Society","Powellhurst-Gilbert","9/21/2022",11,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.504048821,-122.521376864,7683907,676346,"9/21/2022",1
+"389","SE 138TH AVE / SE WOODWARD CT","22-216256","Society","Powellhurst-Gilbert","8/11/2022",2215,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.500841698,-122.521371974,7683879,675177,"8/12/2022",1
+"390","SE ANKENY ST / SE 119TH AVE","22-290231","Society","Hazelwood","10/29/2022",2132,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.521768502,-122.540362848,7679204,682927,"10/29/2022",1
+"391","SE CLINTON CT / SE 137TH AVE","22-278758","Society","Powellhurst-Gilbert","10/17/2022",759,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.503097801,-122.522099924,7683713,676004,"10/17/2022",1
+"392","SE CORA ST / SE 94TH AVE","22-111523","Society","Lents","4/27/2022",1327,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.49093709,-122.567321614,7672009,671865,"4/27/2022",1
+"393","SE CRYSTAL SPRINGS BLVD / SE 86TH AVE","22-242379","Society","Lents","9/8/2022",1004,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.465010151,-122.574461245,7669936,662462,"9/8/2022",1
+"394","SE DIVISION ST / SE 92ND AVE","22-67741","Society","Montavilla","3/13/2022",842,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.504475044,-122.568633729,7671799,676808,"3/13/2022",1
+"395","SE DIVISION ST / SE 112TH AVE","22-32104","Society","Mill Park","2/3/2022",1816,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.504197163,-122.548007079,7677083,676572,"2/3/2022",1
+"396","SE DIVISION ST / SE 112TH AVE","22-185838","Society","Mill Park","7/11/2022",1925,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.504197163,-122.548007079,7677083,676572,"7/11/2022",1
+"397","SE DIVISION ST / SE 112TH AVE","22-198618","Society","Mill Park","7/24/2022",2307,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.504197163,-122.548007079,7677083,676572,"7/25/2022",1
+"398","SE DIVISION ST / SE 119TH AVE","22-110295","Society","Powellhurst-Gilbert","4/26/2022",932,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.504123384,-122.540899481,7678904,676499,"4/26/2022",1
+"399","SE DIVISION ST / SE 122ND AVE","22-127936","Society","Mill Park","5/15/2022",255,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.504092685,-122.537683411,7679728,676467,"5/15/2022",1
+"400","SE DIVISION ST / SE 122ND AVE","22-177850","Society","Mill Park","7/3/2022",1954,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.504092685,-122.537683411,7679728,676467,"7/3/2022",1
+"401","SE DIVISION ST / SE 130TH AVE","22-315319","Society","Hazelwood","11/26/2022",2119,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.50405685,-122.529945152,7681711,676404,"11/26/2022",1
+"402","SE FLAVEL ST / I205 FWY NB","22-136490","Society","Lents","5/23/2022",1433,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.46834812,-122.565540735,7672255,663620,"5/23/2022",1
+"403","SE FLAVEL ST / SE 82ND AVE","22-139021","Society","Brentwood-Darlington","5/25/2022",2035,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.468661321,-122.579043586,7668795,663823,"5/25/2022",1
+"404","SE FOSTER RD / SE 73RD AVE","22-67939","Society","Mt Scott-Arleta","3/13/2022",1400,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.486062198,-122.587918131,7666683,670224,"3/13/2022",1
+"405","SE FOSTER RD / SE 135TH AVE","22-288216","Society","Pleasant Valley","10/27/2022",1932,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.476888514,-122.5244392,7682874,666466,"10/27/2022",1
+"406","SE FOSTER RD / SE I205 FWY&FOSTER RD RAMP","22-300457","Society","Lents","11/9/2022",2131,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.479339954,-122.56686069,7672019,667635,"11/9/2022",1
+"407","SE GLADSTONE ST / SE 94TH AVE","22-124172","Society","Lents","5/11/2022",436,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.492447175,-122.566955269,7672117,672413,"5/11/2022",1
+"408","SE HARNEY ST / SE 87TH AVE","22-158555","Society","Lents","6/14/2022",1210,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.463214489,-122.573775785,7670095,661803,"6/14/2022",1
+"409","SE HARNEY ST / SE 87TH AVE","22-278201","Society","Lents","10/16/2022",1658,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.463214489,-122.573775785,7670095,661803,"10/16/2022",1
+"410","SE KELLY ST / SE 122ND AVE","22-308623","Society","Powellhurst-Gilbert","11/18/2022",2325,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.499108103,-122.537656752,7679689,674650,"11/19/2022",1
+"411","SE LINCOLN ST / SE 120TH AVE","22-27589","Society","Mill Park","1/29/2022",2102,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.507837342,-122.539710191,7679243,677845,"1/29/2022",1
+"412","SE LINCOLN ST / SE 122ND AVE","22-66394","Society","Mill Park","3/11/2022",1915,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.507826924,-122.537669115,7679766,677828,"3/11/2022",1
+"413","SE MAIN ST / SE WATER AVE","22-273084","Society","Buckman West","10/11/2022",753,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.513677242,-122.665838589,7646976,680815,"10/11/2022",1
+"414","SE MAIN ST / SE WATER AVE","22-281516","Society","Buckman West","10/20/2022",634,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.513677242,-122.665838589,7646976,680815,"10/20/2022",1
+"415","SE MALDEN ST / SE 82ND AVE","22-261005","Society","Brentwood-Darlington","9/28/2022",526,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.467994568,-122.57904649,7668788,663580,"9/28/2022",1
+"416","SE MARTINS ST / SE 103RD AVE","22-120677","Society","Lents","5/7/2022",924,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.478340987,-122.557406048,7674434,667209,"5/7/2022",1
+"417","SE MILL ST / SE 139TH AVE","22-78998","Society","Hazelwood","3/24/2022",1430,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.510236795,-122.52099229,7684062,678599,"3/24/2022",1
+"418","SE MILL ST / SE 139TH AVE","22-189743","Society","Hazelwood","7/15/2022",1735,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.510236795,-122.52099229,7684062,678599,"7/15/2022",1
+"419","SE MILWAUKIE AVE / SE HAROLD ST","22-322241","Society","Sellwood-Moreland","12/4/2022",1337,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.483118329,-122.649622197,7650835,669566,"12/4/2022",1
+"420","SE POWELL BLVD / SE 92ND AVE","22-236040","Society","Powellhurst-Gilbert","9/1/2022",1818,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.497382732,-122.568488587,7671770,674222,"9/1/2022",1
+"421","SE POWELL BLVD / SE 111TH AVE","22-230325","Society","Powellhurst-Gilbert","8/26/2022",1843,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.496445181,-122.549315365,7676676,673755,"8/26/2022",1
+"422","SE POWELL BLVD / SE 130TH AVE","22-303086","Society","Powellhurst-Gilbert","11/12/2022",2229,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.497367318,-122.529986986,7681639,673966,"11/13/2022",1
+"423","SE POWELL BLVD / SE 131ST AVE","22-81198","Society","Powellhurst-Gilbert","3/26/2022",1910,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.497429756,-122.528471655,7682028,673979,"3/26/2022",1
+"424","SE SANDY BLVD / SE 9TH AVE","22-213930","Society","Buckman West","8/9/2022",1442,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.52077866,-122.656605763,7649411,683340,"8/9/2022",1
+"425","SE STARK ST / SE 92ND AVE","22-324356","Society","Montavilla","12/6/2022",2336,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.519070472,-122.569114713,7671812,682131,"12/7/2022",1
+"426","SE STARK ST / SE 102ND AVE","22-8040","Society","Hazelwood","1/10/2022",111,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.5190513,-122.55842057,7674552,682054,"1/10/2022",1
+"427","SE STARK ST / SE 106TH AVE","22-76168","Society","Hazelwood","3/21/2022",2009,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.519018663,-122.553958594,7675695,682013,"3/21/2022",1
+"428","SE STARK ST / SE 148TH AVE","22-10045","Society","Hazelwood","1/12/2022",5,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.519155361,-122.510710072,7686778,681784,"1/12/2022",1
+"429","SE STARK ST / SE 151ST AVE","22-106634","Society","Glenfair","4/22/2022",1321,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.519153904,-122.508126461,7687440,681767,"4/22/2022",1
+"430","SE STARK ST / SE 155TH AVE","22-277388","Society","Glenfair","10/15/2022",1949,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.51915894,-122.504223985,7688440,681744,"10/15/2022",1
+"431","SE STARK ST / SE 174TH AVE","22-187040","Society","","7/12/2022",2153,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.519146106,-122.484573742,7693475,681615,"7/12/2022",1
+"432","SE STARK ST / SE CESAR E CHAVEZ BLVD","22-296939","Society","Laurelhurst","11/5/2022",2246,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.51929673,-122.623035881,7657998,682572,"11/5/2022",1
+"433","SE STARK ST / SE WATER AVE","22-153686","Society","Buckman West","6/9/2022",755,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.519331263,-122.6654376,7647134,682873,"6/9/2022",1
+"434","SE TIBBETTS ST / SE 122ND AVE","22-176979","Society","Powellhurst-Gilbert","7/2/2022",2325,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.500043756,-122.537651303,7679699,674991,"7/2/2022",1
+"435","SE WOODWARD ST / SE 8TH AVE","22-32665","Society","Hosford-Abernethy","2/4/2022",911,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.502104812,-122.657800747,7648923,676542,"2/4/2022",1
+"436","SE WOODWARD ST / SE 127TH AVE","22-100371","Society","Powellhurst-Gilbert","4/15/2022",1949,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.501251208,-122.532525185,7681024,675398,"4/15/2022",1
+"437","SW 2ND AVE / SW HARVEY MILK ST","22-19189","Society","Old Town/Chinatown","1/21/2022",1039,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.519989027,-122.673467564,7645083,683168,"1/21/2022",1
+"438","SW 2ND AVE / SW PINE ST","22-36590","Society","Old Town/Chinatown","2/8/2022",1438,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.521322382,-122.672745808,7645281,683649,"2/8/2022",1
+"439","SW 2ND AVE / SW PINE ST","22-50459","Society","Old Town/Chinatown","2/23/2022",846,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.521322382,-122.672745808,7645281,683649,"2/23/2022",1
+"440","SW 3RD AVE / SW ANKENY ST","22-301806","Society","Downtown","11/11/2022",1632,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.522553669,-122.673358875,7645136,684102,"11/11/2022",1
+"441","SW 3RD AVE / SW PINE ST","22-209058","Society","Old Town/Chinatown","8/4/2022",1147,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.521591374,-122.673755277,7645025,683754,"8/4/2022",1
+"442","SW 4TH AVE / SW ANKENY ST","22-261469","Society","Downtown","9/28/2022",1520,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.522528558,-122.674396137,7644870,684100,"9/28/2022",1
+"443","SW 4TH AVE / SW ANKENY ST","22-306282","Society","Downtown","11/16/2022",1216,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.522528558,-122.674396137,7644870,684100,"11/16/2022",1
+"444","SW 4TH AVE / SW MADISON ST","22-119492","Society","Downtown","5/5/2022",2311,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.515204435,-122.678373417,7643779,681458,"5/6/2022",1
+"445","SW 4TH AVE / SW WASHINGTON ST","22-222350","Society","Downtown","8/18/2022",916,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.519859155,-122.675835564,7644475,683137,"8/18/2022",1
+"446","SW 4TH AVE / SW WASHINGTON ST","22-301703","Society","Downtown","11/11/2022",1040,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.519859155,-122.675835564,7644475,683137,"11/11/2022",1
+"447","SW 5TH AVE / SW OAK ST","22-253821","Society","Downtown","9/20/2022",1332,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.521472315,-122.676131564,7644415,683727,"9/20/2022",1
+"448","SW 5TH AVE / SW OAK ST","22-254718","Society","Downtown","9/21/2022",1147,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.521472315,-122.676131564,7644415,683727,"9/21/2022",1
+"449","SW 11TH AVE / SW ALDER ST","22-178194","Society","Downtown","7/3/2022",1700,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.520948712,-122.682762199,7642711,683582,"7/4/2022",1
+"450","SW ANKENY ST / SW 1ST AVE","22-333967","Society","Old Town/Chinatown","12/17/2022",2012,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.522521908,-122.671265601,7645672,684076,"12/17/2022",1
+"451","SW ASH ST / SW 3RD AVE","22-312336","Society","Old Town/Chinatown","11/23/2022",811,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.522254383,-122.673370837,7645130,683993,"11/23/2022",1
+"452","SW BROADWAY / SW COLUMBIA ST","22-221313","Society","Downtown","8/17/2022",742,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.514677382,-122.682146491,7642807,681292,"8/17/2022",1
+"453","SW BROADWAY / SW PINE ST","22-188587","Society","Downtown","7/14/2022",1345,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.522615531,-122.67777175,7644006,684155,"7/14/2022",1
+"454","SW NAITO PKWY / SW HARVEY MILK ST","22-47226","Society","Old Town/Chinatown","2/19/2022",1356,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.519444955,-122.671479686,7645587,682956,"2/19/2022",1
+"455","SW PARK AVE / SW WASHINGTON ST","22-299095","Society","Downtown","11/8/2022",1016,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.520937925,-122.679861858,7643454,683558,"11/8/2022",1
+"456","SW SALMON ST / SW 18TH AVE","22-24797","Society","Goose Hollow","1/26/2022",2252,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.520014601,-122.691476681,7640469,683302,"1/26/2022",1
+"457","W BURNSIDE ST / SW 4TH AVE","22-255750","Society","Downtown","9/22/2022",1519,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.52309927,-122.674394575,7644876,684308,"9/22/2022",1
+"458","WB SUNSET HWY EO / SW ZOO RD","22-125382","Society","Arlington Heights","5/12/2022",1152,"Drug_Narcotic Offenses","Drug/Narcotic Violations",45.506854626,-122.717276558,7633727,678686,"5/12/2022",1

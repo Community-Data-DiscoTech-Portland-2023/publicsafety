@@ -1,0 +1,796 @@
+"","Address","CaseNumber","CrimeAgainst","Neighborhood","OccurDate","OccurTime","OffenseCategory","OffenseType","OpenDataLat","OpenDataLon","OpenDataX","OpenDataY","ReportDate","OffenseCount"
+"1","0 BLOCK OF NE 122ND AVE","22-222807","Society","Hazelwood","8/18/2022",1956,"Weapon Law Violations","Weapons Law Violations",45.522897265,-122.53782356,7679865,683322,"8/18/2022",1
+"2","0 BLOCK OF NE STANTON ST","22-55499","Society","Eliot","2/28/2022",1645,"Weapon Law Violations","Weapons Law Violations",45.543782918,-122.665862913,7647264,691788,"2/28/2022",1
+"3","0 BLOCK OF SE 80TH AVE","22-299630","Society","Montavilla","11/8/2022",2239,"Weapon Law Violations","Weapons Law Violations",45.522384975,-122.581404929,7668694,683420,"11/8/2022",1
+"4","0 BLOCK OF SE 127TH AVE","22-67358","Society","Hazelwood","3/12/2022",1840,"Weapon Law Violations","Weapons Law Violations",45.522083937,-122.532626943,7681189,682992,"3/12/2022",1
+"5","0 BLOCK OF SE 127TH AVE","22-94783","Society","Hazelwood","4/9/2022",1741,"Weapon Law Violations","Weapons Law Violations",45.522083937,-122.532626943,7681189,682992,"4/9/2022",1
+"6","0 BLOCK OF SE MARTIN LUTHER KING JR BLVD","22-238035","Society","Buckman West","9/3/2022",2203,"Weapon Law Violations","Weapons Law Violations",45.522579095,-122.661830118,7648090,684032,"9/3/2022",1
+"7","0 BLOCK OF SW 1ST AVE","22-216969","Society","Old Town/Chinatown","8/12/2022",1604,"Weapon Law Violations","Weapons Law Violations",45.522103904,-122.671171555,7645692,683923,"8/12/2022",1
+"8","0 BLOCK OF SW 3RD AVE","22-168714","Society","Old Town/Chinatown","6/23/2022",459,"Weapon Law Violations","Weapons Law Violations",45.522840132,-122.673299584,7645154,684206,"6/24/2022",1
+"9","0 BLOCK OF SW NAITO PKWY","22-329114","Society","Old Town/Chinatown","12/12/2022",1440,"Weapon Law Violations","Weapons Law Violations",45.521976573,-122.670214341,7645936,683870,"12/12/2022",1
+"10","100 BLOCK OF NE 102ND AVE","22-110816","Society","Hazelwood","4/26/2022",2029,"Weapon Law Violations","Weapons Law Violations",45.523440096,-122.558318177,7674619,683653,"4/26/2022",1
+"11","100 BLOCK OF NE 102ND AVE","22-119522","Society","Hazelwood","5/5/2022",4,"Weapon Law Violations","Weapons Law Violations",45.523440096,-122.558318177,7674619,683653,"5/6/2022",1
+"12","100 BLOCK OF NE 117TH AVE","22-92323","Society","Hazelwood","4/7/2022",645,"Weapon Law Violations","Weapons Law Violations",45.52361998,-122.542857051,7678582,683618,"4/7/2022",1
+"13","100 BLOCK OF NE SACRAMENTO ST","22-262672","Society","Eliot","9/29/2022",2051,"Weapon Law Violations","Weapons Law Violations",45.539921584,-122.663732198,7647772,690366,"9/29/2022",1
+"14","100 BLOCK OF NW 2ND AVE","22-1329","Society","Old Town/Chinatown","1/2/2022",1545,"Weapon Law Violations","Weapons Law Violations",45.524205708,-122.672469731,7645380,684698,"1/2/2022",1
+"15","100 BLOCK OF NW 2ND AVE","22-87718","Society","Old Town/Chinatown","4/2/2022",1225,"Weapon Law Violations","Weapons Law Violations",45.524205708,-122.672469731,7645380,684698,"4/2/2022",1
+"16","100 BLOCK OF NW 3RD AVE","22-275394","Society","Old Town/Chinatown","10/13/2022",1731,"Weapon Law Violations","Weapons Law Violations",45.524188892,-122.673359019,7645152,684698,"10/13/2022",1
+"17","100 BLOCK OF NW FLANDERS ST","22-113221","Society","Old Town/Chinatown","4/29/2022",842,"Weapon Law Violations","Weapons Law Violations",45.526039028,-122.672005126,7645517,685363,"4/29/2022",1
+"18","100 BLOCK OF NW GLISAN ST","22-45191","Society","Old Town/Chinatown","2/17/2022",1241,"Weapon Law Violations","Weapons Law Violations",45.526663763,-122.672048543,7645512,685591,"2/17/2022",1
+"19","100 BLOCK OF SW 5TH AVE","22-326962","Society","Downtown","12/10/2022",42,"Weapon Law Violations","Weapons Law Violations",45.522369039,-122.675720981,7644529,684051,"12/10/2022",1
+"20","100 BLOCK OF SW ANKENY ST","22-150914","Society","Old Town/Chinatown","6/6/2022",1056,"Weapon Law Violations","Weapons Law Violations",45.522570638,-122.671735836,7645552,684097,"6/6/2022",1
+"21","100 BLOCK OF SW BROADWAY","22-96703","Society","Downtown","4/11/2022",2046,"Weapon Law Violations","Weapons Law Violations",45.522742831,-122.677714183,7644022,684201,"4/11/2022",1
+"22","100 BLOCK OF W BURNSIDE ST","22-48650","Society","Old Town/Chinatown","2/21/2022",754,"Weapon Law Violations","Weapons Law Violations",45.523169371,-122.67184851,7645529,684316,"2/21/2022",1
+"23","200 BLOCK OF N LOMBARD ST","22-105320","Society","Piedmont","4/21/2022",48,"Weapon Law Violations","Weapons Law Violations",45.577263009,-122.6687978,7646840,704011,"4/21/2022",1
+"24","200 BLOCK OF NE 122ND AVE","22-267729","Society","Hazelwood","10/5/2022",1138,"Weapon Law Violations","Weapons Law Violations",45.524362563,-122.537809799,7679882,683856,"10/5/2022",1
+"25","200 BLOCK OF NW DAVIS ST","22-155646","Society","Old Town/Chinatown","6/11/2022",833,"Weapon Law Violations","Weapons Law Violations",45.52459766,-122.672925794,7645267,684844,"6/11/2022",1
+"26","200 BLOCK OF NW DAVIS ST","22-272872","Society","Old Town/Chinatown","10/10/2022",2337,"Weapon Law Violations","Weapons Law Violations",45.52459766,-122.672925794,7645267,684844,"10/11/2022",1
+"27","200 BLOCK OF NW DAVIS ST","22-276484","Society","Old Town/Chinatown","10/14/2022",2039,"Weapon Law Violations","Weapons Law Violations",45.52459766,-122.672925794,7645267,684844,"10/14/2022",1
+"28","200 BLOCK OF SW 8TH AVE","22-91780","Society","Downtown","4/6/2022",1624,"Weapon Law Violations","Weapons Law Violations",45.522686396,-122.678375548,7643852,684185,"4/6/2022",1
+"29","200 BLOCK OF SW 8TH AVE","22-290768","Society","Downtown","10/30/2022",1018,"Weapon Law Violations","Weapons Law Violations",45.522686396,-122.678375548,7643852,684185,"10/30/2022",1
+"30","200 BLOCK OF SW ASH ST","22-315582","Society","Old Town/Chinatown","11/27/2022",305,"Weapon Law Violations","Weapons Law Violations",45.522087693,-122.672899992,7645249,683929,"11/27/2022",1
+"31","300 BLOCK OF NW 6TH AVE","22-145819","Society","Old Town/Chinatown","6/1/2022",843,"Weapon Law Violations","Weapons Law Violations",45.525559797,-122.676452172,7644373,685219,"6/1/2022",1
+"32","300 BLOCK OF NW GLISAN ST","22-236993","Society","Old Town/Chinatown","9/2/2022",1943,"Weapon Law Violations","Weapons Law Violations",45.526623698,-122.674022119,7645006,685590,"9/2/2022",1
+"33","300 BLOCK OF S MONTGOMERY ST","22-226071","Society","Downtown","8/22/2022",929,"Weapon Law Violations","Weapons Law Violations",45.509403194,-122.673651663,7644932,679311,"8/22/2022",1
+"34","300 BLOCK OF SE 99TH AVE","22-337152","Society","Hazelwood","12/21/2022",1004,"Weapon Law Violations","Weapons Law Violations",45.520088891,-122.562216565,7673589,682457,"12/21/2022",1
+"35","300 BLOCK OF SW 4TH AVE","22-113372","Society","Downtown","4/29/2022",1025,"Weapon Law Violations","Weapons Law Violations",45.520875247,-122.675351502,7644609,683504,"4/29/2022",1
+"36","300 BLOCK OF SW 4TH AVE","22-258302","Society","Downtown","9/25/2022",713,"Weapon Law Violations","Weapons Law Violations",45.520875247,-122.675351502,7644609,683504,"9/25/2022",1
+"37","300 BLOCK OF SW 12TH AVE","22-281611","Society","Downtown","10/20/2022",1123,"Weapon Law Violations","Weapons Law Violations",45.522616836,-122.683052708,7642653,684192,"10/20/2022",1
+"38","300 BLOCK OF SW HARRISON ST","22-170372","Society","Downtown","6/26/2022",914,"Weapon Law Violations","Weapons Law Violations",45.510445162,-122.680344914,7643227,679737,"6/26/2022",1
+"39","300 BLOCK OF SW PINE ST","22-165435","Society","Downtown","6/21/2022",535,"Weapon Law Violations","Weapons Law Violations",45.521766138,-122.674234236,7644904,683821,"6/21/2022",1
+"40","300 BLOCK OF W BURNSIDE ST","22-269788","Society","Downtown","10/7/2022",1853,"Weapon Law Violations","Weapons Law Violations",45.523067886,-122.673878159,7645008,684293,"10/7/2022",1
+"41","300 BLOCK OF W BURNSIDE ST","22-302796","Society","Downtown","11/12/2022",1624,"Weapon Law Violations","Weapons Law Violations",45.523067886,-122.673878159,7645008,684293,"11/12/2022",1
+"42","400 BLOCK OF N GRAHAM ST","22-312591","Society","Eliot","11/23/2022",1510,"Weapon Law Violations","Weapons Law Violations",45.5427813,-122.670236754,7646134,691453,"11/23/2022",1
+"43","400 BLOCK OF NE HASSALO ST","22-149728","Society","Lloyd","6/5/2022",234,"Weapon Law Violations","Weapons Law Violations",45.530839104,-122.661160944,7648342,687038,"6/5/2022",1
+"44","400 BLOCK OF NW 9TH AVE","22-41335","Society","Pearl","2/13/2022",1601,"Weapon Law Violations","Weapons Law Violations",45.526203503,-122.680270909,7643401,685480,"2/13/2022",1
+"45","400 BLOCK OF ROSS ISLAND BRG","22-190133","Society","","7/16/2022",147,"Weapon Law Violations","Weapons Law Violations",45.501297227,-122.663247941,7647519,676285,"7/16/2022",1
+"46","400 BLOCK OF SW YAMHILL ST","22-284487","Society","Downtown","10/23/2022",1539,"Weapon Law Violations","Weapons Law Violations",45.517951705,-122.677460185,7644040,682453,"10/23/2022",1
+"47","400 BLOCK OF W BURNSIDE ST","22-327497","Society","Downtown","12/10/2022",1648,"Weapon Law Violations","Weapons Law Violations",45.523045807,-122.674899935,7644746,684292,"12/10/2022",1
+"48","500 BLOCK OF NE COLUMBIA BLVD","22-135023","Society","Sunderland","5/22/2022",209,"Weapon Law Violations","Weapons Law Violations",45.580738595,-122.659788112,7649180,705216,"5/22/2022",1
+"49","500 BLOCK OF NE HOLLADAY ST","22-801696","Society","Lloyd","5/17/2022",1310,"Weapon Law Violations","Weapons Law Violations",45.530095324,-122.660152827,7648593,686760,"5/17/2022",1
+"50","500 BLOCK OF NE IVY ST","22-225788","Society","Eliot","8/22/2022",44,"Weapon Law Violations","Weapons Law Violations",45.547941445,-122.660074562,7648787,693264,"8/22/2022",1
+"51","500 BLOCK OF SE GRAND AVE","22-111289","Society","Buckman West","4/27/2022",1002,"Weapon Law Violations","Weapons Law Violations",45.519009832,-122.660796574,7648320,682724,"4/27/2022",1
+"52","500 BLOCK OF SE GRAND AVE","22-231912","Society","Buckman West","8/28/2022",1400,"Weapon Law Violations","Weapons Law Violations",45.519009437,-122.660671668,7648352,682723,"8/28/2022",1
+"53","500 BLOCK OF SE MORRISON ST","22-235942","Society","Buckman West","9/1/2022",1606,"Weapon Law Violations","Weapons Law Violations",45.517269869,-122.66023862,7648446,682086,"9/1/2022",1
+"54","500 BLOCK OF SE MORRISON ST","22-253092","Society","Buckman West","9/19/2022",1815,"Weapon Law Violations","Weapons Law Violations",45.517269869,-122.66023862,7648446,682086,"9/19/2022",1
+"55","500 BLOCK OF SW 4TH AVE","22-28711","Society","Downtown","1/31/2022",643,"Weapon Law Violations","Weapons Law Violations",45.519541876,-122.676073191,7644411,683023,"1/31/2022",1
+"56","500 BLOCK OF SW 4TH AVE","22-120278","Society","Downtown","5/6/2022",2040,"Weapon Law Violations","Weapons Law Violations",45.519541876,-122.676073191,7644411,683023,"5/6/2022",1
+"57","500 BLOCK OF SW 4TH AVE","22-190668","Society","Downtown","7/16/2022",1835,"Weapon Law Violations","Weapons Law Violations",45.519541876,-122.676073191,7644411,683023,"7/16/2022",1
+"58","500 BLOCK OF SW 13TH AVE","22-161826","Society","Downtown","6/17/2022",1306,"Weapon Law Violations","Weapons Law Violations",45.521847747,-122.684685842,7642227,683923,"6/17/2022",1
+"59","600 BLOCK OF NE 101ST AVE","22-263142","Society","Hazelwood","9/30/2022",1153,"Weapon Law Violations","Weapons Law Violations",45.526597958,-122.559388953,7674374,684811,"9/30/2022",1
+"60","600 BLOCK OF NE SUMNER ST","22-85383","Society","King","3/30/2022",2108,"Weapon Law Violations","Weapons Law Violations",45.560580072,-122.658973908,7649192,697863,"3/30/2022",1
+"61","600 BLOCK OF NW 6TH AVE","22-33966","Society","Old Town/Chinatown","2/5/2022",1636,"Weapon Law Violations","Weapons Law Violations",45.527696015,-122.676655074,7644342,685999,"2/5/2022",1
+"62","600 BLOCK OF NW 21ST AVE","22-249475","Society","Northwest","9/16/2022",44,"Weapon Law Violations","Weapons Law Violations",45.52736959,-122.69439542,7639794,686003,"9/16/2022",1
+"63","600 BLOCK OF NW NAITO PKWY","22-204177","Society","Old Town/Chinatown","7/30/2022",1217,"Weapon Law Violations","Weapons Law Violations",45.527841953,-122.673003125,7645279,686027,"7/30/2022",1
+"64","600 BLOCK OF S LOWELL ST","22-92504","Society","South Portland","4/7/2022",957,"Weapon Law Violations","Weapons Law Violations",45.493909929,-122.671459369,7645342,673649,"4/7/2022",1
+"65","600 BLOCK OF S LOWELL ST","22-314390","Society","South Portland","11/25/2022",2017,"Weapon Law Violations","Weapons Law Violations",45.493909929,-122.671459369,7645342,673649,"11/25/2022",1
+"66","600 BLOCK OF SE 122ND AVE","22-106814","Society","Mill Park","4/22/2022",1708,"Weapon Law Violations","Weapons Law Violations",45.517986185,-122.537830738,7679818,681532,"4/22/2022",1
+"67","600 BLOCK OF SE 122ND AVE","22-156781","Society","Mill Park","6/12/2022",1831,"Weapon Law Violations","Weapons Law Violations",45.517986185,-122.537830738,7679818,681532,"6/12/2022",1
+"68","600 BLOCK OF SE 122ND AVE","22-301138","Society","Mill Park","11/10/2022",1800,"Weapon Law Violations","Weapons Law Violations",45.517986185,-122.537830738,7679818,681532,"11/10/2022",1
+"69","600 BLOCK OF SE 122ND AVE","22-333009","Society","Mill Park","12/16/2022",1915,"Weapon Law Violations","Weapons Law Violations",45.517986185,-122.537830738,7679818,681532,"12/16/2022",1
+"70","600 BLOCK OF SE 162ND AVE","22-39443","Society","Centennial","2/1/2022",100,"Weapon Law Violations","Weapons Law Violations",45.517783037,-122.496424952,7690426,681193,"2/11/2022",1
+"71","600 BLOCK OF SE DIVISION PL","22-50331","Society","Hosford-Abernethy","2/23/2022",323,"Weapon Law Violations","Weapons Law Violations",45.504919653,-122.65926944,7648574,677578,"2/23/2022",1
+"72","600 BLOCK OF SW 3RD AVE","22-258317","Society","Downtown","9/25/2022",752,"Weapon Law Violations","Weapons Law Violations",45.518602328,-122.675412732,7644571,682676,"9/25/2022",1
+"73","600 BLOCK OF SW ALDER ST","22-133691","Society","Downtown","5/20/2022",1719,"Weapon Law Violations","Weapons Law Violations",45.519836478,-122.678769687,7643723,683149,"5/20/2022",1
+"74","700 BLOCK OF E BURNSIDE ST","22-213501","Society","Buckman West","8/9/2022",456,"Weapon Law Violations","Weapons Law Violations",45.522878317,-122.658172595,7649030,684116,"8/9/2022",1
+"75","700 BLOCK OF NE 90TH AVE","22-342387","Society","Montavilla","12/27/2022",2150,"Weapon Law Violations","Weapons Law Violations",45.528058583,-122.571390053,7671313,685422,"12/27/2022",1
+"76","700 BLOCK OF NE BROADWAY","22-336648","Society","Irvington","12/20/2022",1857,"Weapon Law Violations","Weapons Law Violations",45.535105549,-122.658090912,7649170,688572,"12/20/2022",1
+"77","700 BLOCK OF NE MARTIN LUTHER KING JR BLVD","22-212943","Society","Lloyd","8/8/2022",1506,"Weapon Law Violations","Weapons Law Violations",45.528301097,-122.661751341,7648166,686117,"8/8/2022",1
+"78","700 BLOCK OF NW HOYT ST","22-131978","Society","Pearl","5/18/2022",2311,"Weapon Law Violations","Weapons Law Violations",45.527349907,-122.678413962,7643888,685885,"5/19/2022",1
+"79","700 BLOCK OF NW NAITO PKWY","22-171556","Society","Old Town/Chinatown","6/27/2022",1530,"Weapon Law Violations","Weapons Law Violations",45.528595912,-122.673902467,7645056,686308,"6/27/2022",1
+"80","700 BLOCK OF SE 29TH AVE","22-167709","Society","Sunnyside","6/23/2022",927,"Weapon Law Violations","Weapons Law Violations",45.517500946,-122.636140329,7654623,682006,"6/23/2022",1
+"81","700 BLOCK OF SE 106TH AVE","22-342643","Society","Mill Park","12/28/2022",712,"Weapon Law Violations","Weapons Law Violations",45.517399332,-122.553993684,7675671,681423,"12/28/2022",1
+"82","700 BLOCK OF SE 146TH AVE","22-255917","Society","Centennial","9/22/2022",1855,"Weapon Law Violations","Weapons Law Violations",45.517016017,-122.513338763,7686085,681021,"9/22/2022",1
+"83","700 BLOCK OF SE WASHINGTON ST","22-311572","Society","Buckman West","11/22/2022",1142,"Weapon Law Violations","Weapons Law Violations",45.518600934,-122.658173938,7648988,682557,"11/22/2022",1
+"84","700 BLOCK OF SW SALMON ST","22-166522","Society","Downtown","6/22/2022",438,"Weapon Law Violations","Weapons Law Violations",45.517519157,-122.681170732,7643085,682321,"6/22/2022",1
+"85","800 BLOCK OF N LOMBARD ST","22-108687","Society","Piedmont","4/24/2022",1530,"Weapon Law Violations","Weapons Law Violations",45.577264238,-122.67556062,7645109,704058,"4/24/2022",1
+"86","800 BLOCK OF NE 60TH AVE","22-274810","Society","Rose City Park","10/12/2022",2305,"Weapon Law Violations","Weapons Law Violations",45.528976434,-122.602280139,7663408,685961,"10/13/2022",1
+"87","800 BLOCK OF NE COLUMBIA BLVD","22-141407","Society","Sunderland","5/28/2022",6,"Weapon Law Violations","Weapons Law Violations",45.579764004,-122.65645739,7650023,704838,"5/28/2022",1
+"88","800 BLOCK OF SE 174TH AVE","22-128467","Society","Centennial","5/15/2022",1753,"Weapon Law Violations","Weapons Law Violations",45.516267479,-122.484613628,7693439,680566,"5/15/2022",1
+"89","800 BLOCK OF SW 10TH AVE","22-60196","Society","Downtown","3/5/2022",1034,"Weapon Law Violations","Weapons Law Violations",45.519023834,-122.682699912,7642708,682880,"3/5/2022",1
+"90","800 BLOCK OF SW 10TH AVE","22-94593","Society","Downtown","4/9/2022",1408,"Weapon Law Violations","Weapons Law Violations",45.519023834,-122.682699912,7642708,682880,"4/9/2022",1
+"91","800 BLOCK OF SW 15TH AVE","22-279270","Society","Goose Hollow","10/17/2022",1846,"Weapon Law Violations","Weapons Law Violations",45.520350934,-122.687649143,7641453,683398,"10/17/2022",1
+"92","800 BLOCK OF SW BROADWAY","22-29644","Society","Downtown","2/1/2022",900,"Weapon Law Violations","Weapons Law Violations",45.518363056,-122.680219638,7643337,682622,"2/1/2022",1
+"93","900 BLOCK OF N ANCHOR WAY","22-191759","Society","Bridgeton","7/17/2022",2244,"Weapon Law Violations","Weapons Law Violations",45.603538037,-122.676381194,7645157,713640,"7/17/2022",1
+"94","900 BLOCK OF NE 82ND AVE","22-36573","Society","Montavilla","2/8/2022",1405,"Weapon Law Violations","Weapons Law Violations",45.529828442,-122.578972716,7669387,686117,"2/8/2022",1
+"95","900 BLOCK OF NE 122ND AVE","22-73762","Society","Hazelwood","3/19/2022",912,"Weapon Law Violations","Weapons Law Violations",45.529241217,-122.537774131,7679936,685634,"3/19/2022",1
+"96","900 BLOCK OF SW MORRISON ST","22-270704","Society","Downtown","10/8/2022",1823,"Weapon Law Violations","Weapons Law Violations",45.519920057,-122.681594709,7643000,683199,"10/8/2022",1
+"97","900 BLOCK OF SW MORRISON ST","22-341025","Society","Downtown","12/26/2022",1102,"Weapon Law Violations","Weapons Law Violations",45.519920057,-122.681594709,7643000,683199,"12/26/2022",1
+"98","1000 BLOCK OF NE BROADWAY","22-78259","Society","Irvington","3/23/2022",1909,"Weapon Law Violations","Weapons Law Violations",45.535096773,-122.655049411,7649949,688548,"3/23/2022",1
+"99","1000 BLOCK OF NW COUCH ST","22-243730","Society","Pearl","9/9/2022",2001,"Weapon Law Violations","Weapons Law Violations",45.523727354,-122.681643421,7643025,684587,"9/9/2022",1
+"100","1000 BLOCK OF SE 69TH AVE","22-802716","Society","Mt Tabor","8/25/2022",2118,"Weapon Law Violations","Weapons Law Violations",45.515874651,-122.592268992,7665849,681119,"10/3/2022",1
+"101","1100 BLOCK OF N ANCHOR WAY","22-137821","Society","Bridgeton","5/24/2022",2020,"Weapon Law Violations","Weapons Law Violations",45.604429239,-122.678580846,7644603,713980,"5/24/2022",1
+"102","1100 BLOCK OF N ANCHOR WAY","22-140695","Society","Bridgeton","5/27/2022",910,"Weapon Law Violations","Weapons Law Violations",45.604429239,-122.678580846,7644603,713980,"5/27/2022",1
+"103","1100 BLOCK OF NE 82ND AVE","22-255238","Society","Montavilla","9/21/2022",2325,"Weapon Law Violations","Weapons Law Violations",45.531274751,-122.579099848,7669368,686645,"9/21/2022",1
+"104","1100 BLOCK OF NE 99TH AVE","22-344375","Society","Hazelwood","12/30/2022",550,"Weapon Law Violations","Weapons Law Violations",45.530904206,-122.562359608,7673653,686400,"12/30/2022",1
+"105","1100 BLOCK OF NE 102ND AVE","22-156372","Society","Hazelwood","6/12/2022",732,"Weapon Law Violations","Weapons Law Violations",45.530955058,-122.558145642,7674733,686391,"6/12/2022",1
+"106","1100 BLOCK OF NE 102ND AVE","22-234671","Society","Hazelwood","8/31/2022",1114,"Weapon Law Violations","Weapons Law Violations",45.530955058,-122.558145642,7674733,686391,"8/31/2022",1
+"107","1100 BLOCK OF NE SOUTH SHORE RD","22-311280","Society","East Columbia","11/22/2022",531,"Weapon Law Violations","Weapons Law Violations",45.596303476,-122.653471357,7650948,710846,"11/22/2022",1
+"108","1100 BLOCK OF SE 96TH AVE","22-86284","Society","Hazelwood","3/31/2022",2024,"Weapon Law Violations","Weapons Law Violations",45.514957127,-122.564274105,7673014,680600,"3/31/2022",1
+"109","1100 BLOCK OF SW 2ND AVE","22-343845","Society","Downtown","1/18/2022",1200,"Weapon Law Violations","Weapons Law Violations",45.515006335,-122.676231105,7644326,681371,"1/18/2022",1
+"110","1100 BLOCK OF SW 13TH AVE","22-23229","Society","Downtown","1/25/2022",1030,"Weapon Law Violations","Weapons Law Violations",45.517809212,-122.686696508,7641672,682465,"1/25/2022",1
+"111","1100 BLOCK OF SW NAITO PKWY","22-256955","Society","Downtown","9/23/2022",1933,"Weapon Law Violations","Weapons Law Violations",45.514143685,-122.674262395,7644822,681043,"9/23/2022",1
+"112","1200 BLOCK OF E BURNSIDE ST","22-308415","Society","Buckman East","11/18/2022",1844,"Weapon Law Violations","Weapons Law Violations",45.522864537,-122.652910699,7650378,684075,"11/18/2022",1
+"113","1200 BLOCK OF LLOYD CENTER","22-43678","Society","Lloyd","2/16/2022",25,"Weapon Law Violations","Weapons Law Violations",45.532256896,-122.654621497,7650031,687510,"2/16/2022",1
+"114","1200 BLOCK OF N ANCHOR WAY","22-70826","Society","Bridgeton","3/16/2022",1624,"Weapon Law Violations","Weapons Law Violations",45.604658607,-122.679652841,7644331,714071,"3/16/2022",1
+"115","1200 BLOCK OF NW HOYT ST","22-105139","Society","Pearl","4/20/2022",2019,"Weapon Law Violations","Weapons Law Violations",45.527250481,-122.68379688,7642508,685886,"4/20/2022",1
+"116","1200 BLOCK OF NW NAITO PKWY","22-189280","Society","Pearl","7/15/2022",705,"Weapon Law Violations","Weapons Law Violations",45.532041488,-122.678273888,7643970,687594,"7/15/2022",1
+"117","1200 BLOCK OF SE 122ND AVE","22-99008","Society","Mill Park","4/14/2022",1117,"Weapon Law Violations","Weapons Law Violations",45.513998006,-122.537777377,7679795,680078,"4/14/2022",1
+"118","1200 BLOCK OF SE 122ND AVE","22-230185","Society","Mill Park","8/26/2022",1513,"Weapon Law Violations","Weapons Law Violations",45.513998006,-122.537777377,7679795,680078,"8/26/2022",1
+"119","1200 BLOCK OF SE 122ND AVE","22-800173","Society","Mill Park","1/20/2022",1330,"Weapon Law Violations","Weapons Law Violations",45.513998006,-122.537777377,7679795,680078,"1/21/2022",1
+"120","1200 BLOCK OF SE 122ND AVE","22-800720","Society","Mill Park","2/10/2022",930,"Weapon Law Violations","Weapons Law Violations",45.513998006,-122.537777377,7679795,680078,"2/10/2022",1
+"121","1200 BLOCK OF SW ALDER ST","22-803833","Society","Downtown","12/6/2022",715,"Weapon Law Violations","Weapons Law Violations",45.521402786,-122.684278418,7642327,683758,"12/6/2022",1
+"122","1200 BLOCK OF SW COLUMBIA ST","22-86373","Society","Downtown","3/31/2022",2227,"Weapon Law Violations","Weapons Law Violations",45.51598872,-122.687203997,7641524,681805,"3/31/2022",1
+"123","1200 BLOCK OF SW COLUMBIA ST","22-147673","Society","Downtown","6/2/2022",2315,"Weapon Law Violations","Weapons Law Violations",45.51598872,-122.687203997,7641524,681805,"6/2/2022",1
+"124","1200 BLOCK OF SW MAIN ST","22-28866","Society","Downtown","1/31/2022",1115,"Weapon Law Violations","Weapons Law Violations",45.517982474,-122.686098246,7641827,682524,"1/31/2022",1
+"125","1300 BLOCK OF NW LOVEJOY ST","22-281821","Society","Pearl","10/20/2022",1350,"Weapon Law Violations","Weapons Law Violations",45.530090985,-122.684909379,7642251,686929,"10/20/2022",1
+"126","1300 BLOCK OF SW 11TH AVE","22-85184","Society","Downtown","3/30/2022",1631,"Weapon Law Violations","Weapons Law Violations",45.515968466,-122.685528976,7641953,681786,"3/30/2022",1
+"127","1300 BLOCK OF SW PARK AVE","22-183153","Society","Downtown","7/9/2022",431,"Weapon Law Violations","Weapons Law Violations",45.515258695,-122.68288691,7642623,681509,"7/9/2022",1
+"128","1400 BLOCK OF N HAYDEN ISLAND DR","22-224044","Society","Hayden Island","8/20/2022",330,"Weapon Law Violations","Weapons Law Violations",45.613772773,-122.681539687,7643938,717406,"8/20/2022",1
+"129","1400 BLOCK OF N LOMBARD ST","22-284504","Society","Arbor Lodge","10/23/2022",1653,"Weapon Law Violations","Weapons Law Violations",45.577103011,-122.681610063,7643559,704041,"10/23/2022",1
+"130","1400 BLOCK OF SE 122ND AVE","22-145187","Society","Mill Park","5/31/2022",1732,"Weapon Law Violations","Weapons Law Violations",45.512977707,-122.537760277,7679790,679706,"5/31/2022",1
+"131","1400 BLOCK OF SW JEFFERSON ST","22-78844","Society","Goose Hollow","3/24/2022",1102,"Weapon Law Violations","Weapons Law Violations",45.517177646,-122.688885044,7641105,682250,"3/24/2022",1
+"132","1500 BLOCK OF NE 6TH AVE","22-197233","Society","Lloyd","7/22/2022",1845,"Weapon Law Violations","Weapons Law Violations",45.534000103,-122.659684605,7648751,688180,"7/23/2022",1
+"133","1500 BLOCK OF NE 66TH AVE","22-333836","Society","Madison South","12/17/2022",1656,"Weapon Law Violations","Weapons Law Violations",45.53396853,-122.595738789,7665131,687737,"12/17/2022",1
+"134","1500 BLOCK OF NE 102ND AVE","22-250029","Society","Woodland Park","9/16/2022",1643,"Weapon Law Violations","Weapons Law Violations",45.533833697,-122.558109474,7674769,687440,"9/16/2022",1
+"135","1500 BLOCK OF NW 19TH AVE","22-170551","Society","Northwest","6/26/2022",1409,"Weapon Law Violations","Weapons Law Violations",45.533857496,-122.690703283,7640804,688342,"6/26/2022",1
+"136","1500 BLOCK OF NW THURMAN ST","22-2062","Society","Northwest","1/3/2022",1417,"Weapon Law Violations","Weapons Law Violations",45.535664509,-122.6871579,7641730,688976,"1/3/2022",1
+"137","1500 BLOCK OF S HARBOR WAY","22-46984","Society","Downtown","2/19/2022",734,"Weapon Law Violations","Weapons Law Violations",45.511666791,-122.674663161,7644695,680143,"2/19/2022",1
+"138","1500 BLOCK OF SE 96TH AVE","22-78938","Society","Hazelwood","3/24/2022",1307,"Weapon Law Violations","Weapons Law Violations",45.512140962,-122.564191251,7673009,679573,"3/24/2022",1
+"139","1500 BLOCK OF SW 12TH AVE","22-190780","Society","Downtown","7/16/2022",2034,"Weapon Law Violations","Weapons Law Violations",45.514903754,-122.687267578,7641497,681410,"7/16/2022",1
+"140","1600 BLOCK OF NE 64TH AVE","22-267626","Society","Rose City Park","10/5/2022",833,"Weapon Law Violations","Weapons Law Violations",45.534620516,-122.597597658,7664661,687987,"10/5/2022",1
+"141","1600 BLOCK OF NE 66TH AVE","22-285460","Society","Madison South","10/24/2022",1612,"Weapon Law Violations","Weapons Law Violations",45.534506428,-122.594977883,7665331,687928,"10/24/2022",1
+"142","1600 BLOCK OF NE 162ND AVE","22-248254","Society","Wilkes","9/14/2022",1730,"Weapon Law Violations","Weapons Law Violations",45.534610879,-122.495841741,7690727,687323,"9/14/2022",1
+"143","1600 BLOCK OF NW MARSHALL ST","22-101861","Society","Northwest","4/17/2022",1225,"Weapon Law Violations","Weapons Law Violations",45.530742891,-122.687994952,7641467,687188,"4/17/2022",1
+"144","1700 BLOCK OF NE BROADWAY","22-187031","Society","Sullivan's Gulch","7/12/2022",2200,"Weapon Law Violations","Weapons Law Violations",45.534987105,-122.648010378,7651751,688460,"7/13/2022",1
+"145","1700 BLOCK OF NW 23RD AVE","22-110831","Society","Northwest","4/26/2022",2040,"Weapon Law Violations","Weapons Law Violations",45.535136145,-122.698744096,7638757,688864,"4/26/2022",1
+"146","1700 BLOCK OF SE 122ND AVE","22-315503","Society","Mill Park","11/27/2022",24,"Weapon Law Violations","Weapons Law Violations",45.511178318,-122.537738635,7679779,679050,"11/27/2022",1
+"147","1700 BLOCK OF SE TACOMA ST","22-320141","Society","Sellwood-Moreland","12/2/2022",321,"Weapon Law Violations","Weapons Law Violations",45.464362389,-122.64655,7651441,662709,"12/2/2022",1
+"148","1700 BLOCK OF SW YAMHILL ST","22-116181","Society","Goose Hollow","5/2/2022",1345,"Weapon Law Violations","Weapons Law Violations",45.521318254,-122.690016523,7640856,683767,"5/2/2022",1
+"149","1700 BLOCK OF W BURNSIDE ST","22-16617","Society","Northwest","1/18/2022",2040,"Weapon Law Violations","Weapons Law Violations",45.522970608,-122.688398002,7641287,684358,"1/18/2022",1
+"150","1800 BLOCK OF NE 162ND AVE","22-83228","Society","Wilkes","3/28/2022",1840,"Weapon Law Violations","Weapons Law Violations",45.536040456,-122.495829543,7690743,687844,"3/28/2022",1
+"151","1800 BLOCK OF SE 11TH AVE","22-251968","Society","Hosford-Abernethy","9/16/2022",1300,"Weapon Law Violations","Weapons Law Violations",45.509720038,-122.654648356,7649805,679296,"9/18/2022",1
+"152","1800 BLOCK OF SE 122ND AVE","22-194749","Society","Mill Park","7/20/2022",2044,"Weapon Law Violations","Weapons Law Violations",45.510714078,-122.537616621,7679806,678880,"7/20/2022",1
+"153","1800 BLOCK OF SE 135TH AVE","22-258386","Society","Hazelwood","9/25/2022",936,"Weapon Law Violations","Weapons Law Violations",45.509968318,-122.524865269,7683067,678526,"9/25/2022",1
+"154","1800 BLOCK OF SW 4TH AVE","22-319179","Society","Downtown","12/1/2022",249,"Weapon Law Violations","Weapons Law Violations",45.510704148,-122.680721673,7643133,679834,"12/1/2022",1
+"155","1800 BLOCK OF SW JEFFERSON ST","22-172272","Society","Goose Hollow","6/28/2022",756,"Weapon Law Violations","Weapons Law Violations",45.518107859,-122.693483292,7639936,682621,"6/28/2022",1
+"156","1900 BLOCK OF NW OVERTON ST","22-184335","Society","Northwest","7/10/2022",1142,"Weapon Law Violations","Weapons Law Violations",45.53201333,-122.69158854,7640559,687676,"7/10/2022",1
+"157","1900 BLOCK OF SE 106TH AVE","22-81972","Society","Hazelwood","3/27/2022",1501,"Weapon Law Violations","Weapons Law Violations",45.509442153,-122.553733214,7675664,678521,"3/27/2022",1
+"158","1900 BLOCK OF W BURNSIDE ST","22-252706","Society","Goose Hollow","9/19/2022",1227,"Weapon Law Violations","Weapons Law Violations",45.522994408,-122.690748614,7640685,684383,"9/19/2022",1
+"159","2000 BLOCK OF NE 8TH AVE","22-168155","Society","Irvington","6/23/2022",1930,"Weapon Law Violations","Weapons Law Violations",45.537229423,-122.6576368,7649307,689343,"6/23/2022",1
+"160","2000 BLOCK OF S RIVER PKWY","22-61647","Society","Downtown","3/6/2022",2346,"Weapon Law Violations","Weapons Law Violations",45.507293972,-122.674921046,7644586,678551,"3/6/2022",1
+"161","2000 BLOCK OF SE 92ND AVE","22-237857","Society","Montavilla","9/3/2022",1801,"Weapon Law Violations","Weapons Law Violations",45.507793878,-122.568988729,7671739,678020,"9/3/2022",1
+"162","2000 BLOCK OF SE INSLEY ST","22-178522","Society","Sellwood-Moreland","7/3/2022",1130,"Weapon Law Violations","Weapons Law Violations",45.4838782,-122.644787139,7652082,669810,"7/4/2022",1
+"163","2000 BLOCK OF SW MORRISON ST","22-1785","Society","Goose Hollow","1/3/2022",600,"Weapon Law Violations","Weapons Law Violations",45.52284938,-122.692885843,7640136,684345,"1/3/2022",1
+"164","2000 BLOCK OF W BURNSIDE ST","22-15625","Society","Goose Hollow","1/17/2022",2105,"Weapon Law Violations","Weapons Law Violations",45.523098139,-122.692790065,7640163,684435,"1/17/2022",1
+"165","2100 BLOCK OF N ARGYLE ST","22-174138","Society","Kenton","6/30/2022",15,"Weapon Law Violations","Weapons Law Violations",45.584576932,-122.688528379,7641862,706813,"6/30/2022",1
+"166","2100 BLOCK OF N LOMBARD ST","22-95670","Society","Arbor Lodge","4/10/2022",1755,"Weapon Law Violations","Weapons Law Violations",45.577087023,-122.688661336,7641754,704084,"4/10/2022",1
+"167","2100 BLOCK OF NE FLANDERS ST","22-284693","Society","Kerns","10/23/2022",2034,"Weapon Law Violations","Weapons Law Violations",45.525775065,-122.64398496,7652693,685075,"10/23/2022",1
+"168","2100 BLOCK OF NW 23RD AVE","22-130512","Society","Northwest","5/17/2022",1555,"Weapon Law Violations","Weapons Law Violations",45.537987533,-122.698850644,7638758,689904,"5/17/2022",1
+"169","2100 BLOCK OF S RIVER PKWY","22-35470","Society","Downtown","2/7/2022",1232,"Weapon Law Violations","Weapons Law Violations",45.506854403,-122.672921987,7645094,678377,"2/7/2022",1
+"170","2100 BLOCK OF SE 7TH AVE","22-109483","Society","Hosford-Abernethy","4/25/2022",1136,"Weapon Law Violations","Weapons Law Violations",45.507592551,-122.658801363,7648720,678549,"4/25/2022",1
+"171","2100 BLOCK OF SW JEFFERSON ST","22-251493","Society","Goose Hollow","9/18/2022",254,"Weapon Law Violations","Weapons Law Violations",45.518901126,-122.696050804,7639286,682928,"9/18/2022",1
+"172","2100 BLOCK OF W BURNSIDE ST","22-223372","Society","Northwest","8/19/2022",1047,"Weapon Law Violations","Weapons Law Violations",45.52333866,-122.695855543,7639380,684544,"8/19/2022",1
+"173","2200 BLOCK OF LLOYD CENTER","22-162056","Society","Lloyd","6/11/2022",1830,"Weapon Law Violations","Weapons Law Violations",45.531806118,-122.65246906,7650578,687331,"6/17/2022",1
+"174","2200 BLOCK OF NE 82ND AVE","22-48408","Society","Madison South","2/20/2022",2250,"Weapon Law Violations","Weapons Law Violations",45.538895596,-122.578992479,7669467,689422,"2/20/2022",1
+"175","2200 BLOCK OF NW WILSON ST","22-42285","Society","Northwest","2/14/2022",1525,"Weapon Law Violations","Weapons Law Violations",45.537598167,-122.698121098,7638941,689757,"2/14/2022",1
+"176","2200 BLOCK OF SE 30TH AVE","22-290883","Society","Richmond","10/30/2022",1304,"Weapon Law Violations","Weapons Law Violations",45.507017622,-122.634657378,7654902,678175,"10/30/2022",1
+"177","2200 BLOCK OF SE 117TH AVE","22-122888","Society","Mill Park","5/9/2022",1800,"Weapon Law Violations","Weapons Law Violations",45.50656316,-122.542863933,7678423,677401,"5/9/2022",1
+"178","2200 BLOCK OF SE SPRUCE AVE","22-153538","Society","Hosford-Abernethy","6/9/2022",154,"Weapon Law Violations","Weapons Law Violations",45.506561587,-122.65335794,7650105,678136,"6/9/2022",1
+"179","2300 BLOCK OF NE 52ND AVE","22-183658","Society","Rose City Park","7/9/2022",1747,"Weapon Law Violations","Weapons Law Violations",45.539579592,-122.609961955,7661541,689877,"7/9/2022",1
+"180","2300 BLOCK OF NW 21ST AVE","22-74673","Society","Northwest","3/20/2022",1015,"Weapon Law Violations","Weapons Law Violations",45.539622773,-122.694974552,7639767,690473,"3/20/2022",1
+"181","2300 BLOCK OF NW VAUGHN ST","22-193415","Society","Northwest","7/19/2022",1408,"Weapon Law Violations","Weapons Law Violations",45.536951931,-122.699345392,7638621,689530,"7/19/2022",1
+"182","2300 BLOCK OF SE 122ND AVE","22-60917","Society","Mill Park","3/6/2022",527,"Weapon Law Violations","Weapons Law Violations",45.505559557,-122.537736037,7679728,677002,"3/6/2022",1
+"183","2300 BLOCK OF SE 157TH AVE","22-173170","Society","Centennial","6/29/2022",205,"Weapon Law Violations","Weapons Law Violations",45.506068294,-122.501779957,7688948,676957,"6/29/2022",1
+"184","2300 BLOCK OF SE ANKENY ST","22-83490","Society","Buckman East","3/29/2022",35,"Weapon Law Violations","Weapons Law Violations",45.522199805,-122.641941374,7653182,683758,"3/29/2022",1
+"185","2400 BLOCK OF NE 10TH AVE","22-47724","Society","Irvington","2/20/2022",417,"Weapon Law Violations","Weapons Law Violations",45.540156899,-122.655589013,7649860,690396,"2/20/2022",1
+"186","2400 BLOCK OF SE 135TH AVE","22-64569","Society","Hazelwood","3/9/2022",2257,"Weapon Law Violations","Weapons Law Violations",45.504465742,-122.524809561,7683031,676520,"3/9/2022",1
+"187","2400 BLOCK OF SE NEHALEM ST","22-97766","Society","Sellwood-Moreland","4/13/2022",459,"Weapon Law Violations","Weapons Law Violations",45.46566177,-122.63999781,7653134,663138,"4/13/2022",1
+"188","2500 BLOCK OF SE 29TH AVE","22-169623","Society","Richmond","6/25/2022",1135,"Weapon Law Violations","Weapons Law Violations",45.504488151,-122.63553386,7654653,677259,"6/25/2022",1
+"189","2600 BLOCK OF N HAYDEN ISLAND DR","22-14478","Society","Hayden Island","1/16/2022",1605,"Weapon Law Violations","Weapons Law Violations",45.616577653,-122.692320811,7641208,718503,"1/16/2022",1
+"190","2600 BLOCK OF NE 82ND AVE","22-302791","Society","Madison South","11/12/2022",1553,"Weapon Law Violations","Weapons Law Violations",45.541219635,-122.57882773,7669531,690268,"11/12/2022",1
+"191","2600 BLOCK OF SE 85TH AVE","22-330947","Society","Powellhurst-Gilbert","12/14/2022",1321,"Weapon Law Violations","Weapons Law Violations",45.50362829,-122.574814344,7670207,676540,"12/14/2022",1
+"192","2600 BLOCK OF SE MADISON ST","22-26778","Society","Buckman East","1/29/2022",25,"Weapon Law Violations","Weapons Law Violations",45.512833973,-122.638649616,7653935,680322,"1/29/2022",1
+"193","2700 BLOCK OF SE 82ND AVE","22-263881","Society","Powellhurst-Gilbert","10/1/2022",504,"Weapon Law Violations","Weapons Law Violations",45.502835165,-122.578620664,7669224,676276,"10/1/2022",1
+"194","2800 BLOCK OF SE 136TH AVE","22-236047","Society","Powellhurst-Gilbert","9/1/2022",1830,"Weapon Law Violations","Weapons Law Violations",45.501397132,-122.523638977,7683303,675394,"9/1/2022",1
+"195","2800 BLOCK OF SE COLT DR","22-176497","Society","Reed","7/2/2022",1033,"Weapon Law Violations","Weapons Law Violations",45.486426644,-122.636715543,7654176,670684,"7/2/2022",1
+"196","2900 BLOCK OF N WILLIAMS AVE","22-35493","Society","Eliot","2/7/2022",1300,"Weapon Law Violations","Weapons Law Violations",45.544203035,-122.666718429,7647049,691947,"2/7/2022",1
+"197","2900 BLOCK OF N WILLIAMS AVE","22-127704","Society","Eliot","5/14/2022",2109,"Weapon Law Violations","Weapons Law Violations",45.544203035,-122.666718429,7647049,691947,"5/14/2022",1
+"198","2900 BLOCK OF N WILLIAMS AVE","22-242385","Society","Eliot","9/8/2022",1009,"Weapon Law Violations","Weapons Law Violations",45.544203035,-122.666718429,7647049,691947,"9/8/2022",1
+"199","2900 BLOCK OF SE 122ND AVE","22-72509","Society","Powellhurst-Gilbert","3/18/2022",209,"Weapon Law Violations","Weapons Law Violations",45.501010926,-122.537725013,7679689,675344,"3/18/2022",1
+"200","2900 BLOCK OF SE HAWTHORNE BLVD","22-288457","Society","Sunnyside","10/28/2022",144,"Weapon Law Violations","Weapons Law Violations",45.512114371,-122.635446017,7654749,680038,"10/28/2022",1
+"201","2900 BLOCK OF SE STEELE ST","22-86121","Society","Reed","3/31/2022",1642,"Weapon Law Violations","Weapons Law Violations",45.484755401,-122.635112014,7654571,670064,"3/31/2022",1
+"202","3000 BLOCK OF NE SANDY BLVD","22-230310","Society","Kerns","8/26/2022",1826,"Weapon Law Violations","Weapons Law Violations",45.530475784,-122.633618872,7655394,686718,"8/26/2022",1
+"203","3000 BLOCK OF NE WEIDLER ST","22-324021","Society","Sullivan's Gulch","12/6/2022",1535,"Weapon Law Violations","Weapons Law Violations",45.534419891,-122.634571311,7655188,688162,"12/6/2022",1
+"204","3000 BLOCK OF SE 136TH AVE","22-38961","Society","Powellhurst-Gilbert","2/10/2022",2327,"Weapon Law Violations","Weapons Law Violations",45.500034098,-122.523609925,7683298,674897,"2/10/2022",1
+"205","3000 BLOCK OF SE 136TH AVE","22-280493","Society","Powellhurst-Gilbert","10/19/2022",120,"Weapon Law Violations","Weapons Law Violations",45.500034098,-122.523609925,7683298,674897,"10/19/2022",1
+"206","3000 BLOCK OF SE 140TH AVE","22-46536","Society","Powellhurst-Gilbert","2/18/2022",1848,"Weapon Law Violations","Weapons Law Violations",45.500034589,-122.519373066,7684384,674870,"2/18/2022",1
+"207","3000 BLOCK OF SE 140TH AVE","22-227583","Society","Powellhurst-Gilbert","8/23/2022",2106,"Weapon Law Violations","Weapons Law Violations",45.500034589,-122.519373066,7684384,674870,"8/24/2022",1
+"208","3200 BLOCK OF SE 11TH AVE","22-278645","Society","Brooklyn","10/17/2022",430,"Weapon Law Violations","Weapons Law Violations",45.499935006,-122.654854603,7649657,675731,"10/17/2022",1
+"209","3200 BLOCK OF SE 111TH AVE","22-53015","Society","Powellhurst-Gilbert","2/25/2022",1926,"Weapon Law Violations","Weapons Law Violations",45.498512269,-122.549249493,7676712,674508,"2/25/2022",1
+"210","3200 BLOCK OF SE 111TH AVE","22-86606","Society","Powellhurst-Gilbert","4/1/2022",754,"Weapon Law Violations","Weapons Law Violations",45.498512269,-122.549249493,7676712,674508,"4/1/2022",1
+"211","3200 BLOCK OF SE 111TH AVE","22-99426","Society","Powellhurst-Gilbert","4/14/2022",2013,"Weapon Law Violations","Weapons Law Violations",45.498512269,-122.549249493,7676712,674508,"4/14/2022",1
+"212","3200 BLOCK OF SE 124TH AVE","22-52136","Society","Powellhurst-Gilbert","2/24/2022",2330,"Weapon Law Violations","Weapons Law Violations",45.498336323,-122.536002241,7680106,674358,"2/25/2022",1
+"213","3300 BLOCK OF NE 82ND AVE","22-325671","Society","Madison South","12/8/2022",1325,"Weapon Law Violations","Weapons Law Violations",45.546785832,-122.578703621,7669615,692296,"12/8/2022",1
+"214","3300 BLOCK OF NE 162ND AVE","22-8045","Society","Wilkes","1/10/2022",110,"Weapon Law Violations","Weapons Law Violations",45.546843649,-122.495869746,7690830,691782,"1/10/2022",1
+"215","3400 BLOCK OF NE 82ND AVE","22-182059","Society","Madison South","7/8/2022",59,"Weapon Law Violations","Weapons Law Violations",45.547694338,-122.578682231,7669629,692627,"7/8/2022",1
+"216","3400 BLOCK OF NE 149TH AVE","22-18373","Society","Wilkes","1/20/2022",1450,"Weapon Law Violations","Weapons Law Violations",45.548223686,-122.509096465,7687455,692369,"1/20/2022",1
+"217","3500 BLOCK OF NE ROCKY BUTTE RD","22-325230","Society","Madison South","12/7/2022",2253,"Weapon Law Violations","Weapons Law Violations",45.548224133,-122.563590323,7673499,692721,"12/7/2022",1
+"218","3500 BLOCK OF NW YEON AVE","22-76353","Society","Northwest Industrial","3/22/2022",28,"Weapon Law Violations","Weapons Law Violations",45.547248942,-122.712927166,7635245,693378,"3/22/2022",1
+"219","3500 BLOCK OF SE 92ND AVE","22-27675","Society","Lents","1/29/2022",2336,"Weapon Law Violations","Weapons Law Violations",45.49637129,-122.568436153,7671774,673853,"1/29/2022",1
+"220","3500 BLOCK OF SE 122ND AVE","22-120275","Society","Powellhurst-Gilbert","5/6/2022",1959,"Weapon Law Violations","Weapons Law Violations",45.496687119,-122.537722055,7679650,673768,"5/6/2022",1
+"221","3500 BLOCK OF SE 141ST AVE","22-226671","Society","Powellhurst-Gilbert","8/23/2022",30,"Weapon Law Violations","Weapons Law Violations",45.497013561,-122.518458135,7684591,673763,"8/23/2022",1
+"222","3500 BLOCK OF SE CORA DR","22-64618","Society","Creston-Kenilworth","3/10/2022",45,"Weapon Law Violations","Weapons Law Violations",45.492707992,-122.628529553,7656335,672918,"3/10/2022",1
+"223","3500 BLOCK OF SE OAK ST","22-241368","Society","Laurelhurst","9/7/2022",911,"Weapon Law Violations","Weapons Law Violations",45.520241335,-122.627739039,7656802,682948,"9/7/2022",1
+"224","3700 BLOCK OF NE COLUMBIA BLVD","22-43146","Society","Sunderland","2/15/2022",1240,"Weapon Law Violations","Weapons Law Violations",45.572647488,-122.624743441,7658072,702029,"2/15/2022",1
+"225","3700 BLOCK OF NE GARFIELD AVE","22-55502","Society","King","2/28/2022",1650,"Weapon Law Violations","Weapons Law Violations",45.549851018,-122.662701088,7648133,693978,"2/28/2022",1
+"226","3700 BLOCK OF SE 84TH AVE","22-126432","Society","Lents","5/13/2022",1235,"Weapon Law Violations","Weapons Law Violations",45.495149414,-122.576396691,7669722,673460,"5/13/2022",1
+"227","3700 BLOCK OF SW COUNCIL CREST DR","22-217015","Society","Southwest Hills","8/12/2022",1723,"Weapon Law Violations","Weapons Law Violations",45.496585256,-122.702998563,7637284,674843,"8/12/2022",1
+"228","3800 BLOCK OF NE 82ND AVE","22-28005","Society","Madison South","1/30/2022",1010,"Weapon Law Violations","Weapons Law Violations",45.550594904,-122.578647897,7669665,693684,"1/30/2022",1
+"229","3800 BLOCK OF NE 82ND AVE","22-103063","Society","Madison South","4/18/2022",1600,"Weapon Law Violations","Weapons Law Violations",45.550594904,-122.578647897,7669665,693684,"4/18/2022",1
+"230","3800 BLOCK OF NE 82ND AVE","22-160165","Society","Madison South","6/15/2022",1943,"Weapon Law Violations","Weapons Law Violations",45.550594904,-122.578647897,7669665,693684,"6/15/2022",1
+"231","3800 BLOCK OF SE 82ND AVE","22-194664","Society","Lents","7/20/2022",1850,"Weapon Law Violations","Weapons Law Violations",45.494465805,-122.578696727,7669126,673226,"7/20/2022",1
+"232","3800 BLOCK OF SE HAWTHORNE BLVD","22-125808","Society","Sunnyside","5/12/2022",1859,"Weapon Law Violations","Weapons Law Violations",45.5120948,-122.624218301,7657626,679955,"5/12/2022",1
+"233","3800 BLOCK OF SE STEPHENS ST","22-302016","Society","Richmond","11/11/2022",1718,"Weapon Law Violations","Weapons Law Violations",45.509534512,-122.623353816,7657823,679016,"11/11/2022",1
+"234","3900 BLOCK OF SE 82ND AVE","22-91625","Society","Lents","4/6/2022",1130,"Weapon Law Violations","Weapons Law Violations",45.493782535,-122.578702933,7669118,672977,"4/6/2022",1
+"235","3900 BLOCK OF SE 99TH AVE","22-36999","Society","Lents","2/8/2022",2320,"Weapon Law Violations","Weapons Law Violations",45.493134702,-122.561675009,7673477,672629,"2/8/2022",1
+"236","3900 BLOCK OF SE 128TH AVE","22-56162","Society","Powellhurst-Gilbert","3/1/2022",1022,"Weapon Law Violations","Weapons Law Violations",45.493481286,-122.532223786,7681030,672564,"3/1/2022",1
+"237","4000 BLOCK OF N INTERSTATE AVE","22-304258","Society","Overlook","11/14/2022",848,"Weapon Law Violations","Weapons Law Violations",45.552760052,-122.680814796,7643523,695163,"11/14/2022",1
+"238","4000 BLOCK OF SE 118TH PL","22-183112","Society","Powellhurst-Gilbert","7/9/2022",213,"Weapon Law Violations","Weapons Law Violations",45.492707593,-122.541351462,7678683,672341,"7/9/2022",1
+"239","4000 BLOCK OF SW FAIRVIEW BLVD","22-232710","Society","Arlington Heights","8/20/2022",830,"Weapon Law Violations","Weapons Law Violations",45.514899789,-122.71667748,7633961,681614,"8/29/2022",1
+"240","4000 BLOCK OF SW FAIRVIEW BLVD","22-234635","Society","Arlington Heights","8/29/2022",1640,"Weapon Law Violations","Weapons Law Violations",45.514899789,-122.71667748,7633961,681614,"8/31/2022",1
+"241","4200 BLOCK OF N ALASKA ST","22-101626","Society","Portsmouth","4/17/2022",514,"Weapon Law Violations","Weapons Law Violations",45.58812941,-122.710939039,7636162,708264,"4/17/2022",1
+"242","4200 BLOCK OF NE 122ND AVE","22-33562","Society","Argay","2/5/2022",554,"Weapon Law Violations","Weapons Law Violations",45.553266851,-122.537125613,7680323,694387,"2/5/2022",1
+"243","4200 BLOCK OF NE 122ND AVE","22-297779","Society","Argay","11/6/2022",1953,"Weapon Law Violations","Weapons Law Violations",45.553266851,-122.537125613,7680323,694387,"11/6/2022",1
+"244","4200 BLOCK OF NE HALSEY ST","22-22969","Society","Hollywood","1/25/2022",709,"Weapon Law Violations","Weapons Law Violations",45.533751401,-122.619696093,7658992,687818,"1/25/2022",1
+"245","4200 BLOCK OF NE HALSEY ST","22-299166","Society","Hollywood","11/8/2022",1137,"Weapon Law Violations","Weapons Law Violations",45.533751401,-122.619696093,7658992,687818,"11/8/2022",1
+"246","4200 BLOCK OF SE 122ND AVE","22-145619","Society","Powellhurst-Gilbert","6/1/2022",233,"Weapon Law Violations","Weapons Law Violations",45.491163677,-122.537757986,7679590,671755,"6/1/2022",1
+"247","4300 BLOCK OF NE 14TH AVE","22-243112","Society","Sabin","9/9/2022",406,"Weapon Law Violations","Weapons Law Violations",45.554746873,-122.651816184,7650968,695688,"9/9/2022",1
+"248","4300 BLOCK OF SE 122ND AVE","22-66538","Society","Powellhurst-Gilbert","3/11/2022",2225,"Weapon Law Violations","Weapons Law Violations",45.490504626,-122.537636828,7679615,671514,"3/11/2022",1
+"249","4400 BLOCK OF SE 52ND AVE","22-32437","Society","Creston-Kenilworth","2/4/2022",242,"Weapon Law Violations","Weapons Law Violations",45.490822898,-122.609060012,7661308,672100,"2/4/2022",1
+"250","4500 BLOCK OF NE 18TH AVE","22-108159","Society","Sabin","4/24/2022",54,"Weapon Law Violations","Weapons Law Violations",45.555897916,-122.646747719,7652277,696073,"4/24/2022",1
+"251","4500 BLOCK OF NE 60TH AVE","22-25899","Society","Cully","1/28/2022",202,"Weapon Law Violations","Weapons Law Violations",45.556062959,-122.600979503,7663998,695825,"1/28/2022",1
+"252","4500 BLOCK OF NE 96TH AVE","22-216552","Society","Parkrose","8/12/2022",715,"Weapon Law Violations","Weapons Law Violations",45.555834269,-122.563921744,7673485,695497,"8/12/2022",1
+"253","4500 BLOCK OF NE KILLINGSWORTH ST","22-44556","Society","Cully","2/16/2022",2150,"Weapon Law Violations","Weapons Law Violations",45.562827311,-122.616161795,7660175,698392,"2/16/2022",1
+"254","4500 BLOCK OF SE WOODSTOCK BLVD","22-253699","Society","Woodstock","9/20/2022",1128,"Weapon Law Violations","Weapons Law Violations",45.479222239,-122.615949816,7659431,667918,"9/20/2022",1
+"255","4600 BLOCK OF N FESSENDEN ST","22-681039","Society","Portsmouth","3/2/2022",1238,"Weapon Law Violations","Weapons Law Violations",45.591293451,-122.715755763,7634961,709451,"9/17/2022",1
+"256","4600 BLOCK OF NE ALBERTA CT","22-295743","Society","Cully","11/4/2022",1930,"Weapon Law Violations","Weapons Law Violations",45.558199551,-122.615379952,7660331,696700,"11/4/2022",1
+"257","4700 BLOCK OF NE MARINE DR","22-18450","Society","","1/20/2022",1559,"Weapon Law Violations","Weapons Law Violations",45.599506377,-122.61405622,7661064,711747,"1/20/2022",1
+"258","4700 BLOCK OF SE 17TH AVE","22-302757","Society","Brooklyn","11/12/2022",1540,"Weapon Law Violations","Weapons Law Violations",45.488065592,-122.648280312,7651227,671360,"11/12/2022",1
+"259","4800 BLOCK OF N WILLIS BLVD","22-27431","Society","Portsmouth","1/29/2022",1753,"Weapon Law Violations","Weapons Law Violations",45.584134966,-122.716910105,7634594,706850,"1/29/2022",1
+"260","4800 BLOCK OF NW FRONT AVE","22-313500","Society","Northwest Industrial","11/24/2022",1920,"Weapon Law Violations","Weapons Law Violations",45.557186459,-122.729264956,7631161,697115,"11/24/2022",1
+"261","5000 BLOCK OF SE 30TH AVE","22-278632","Society","Reed","10/17/2022",309,"Weapon Law Violations","Weapons Law Violations",45.486738539,-122.634402522,7654772,670782,"10/17/2022",1
+"262","5000 BLOCK OF SE 82ND AVE","22-38481","Society","Foster-Powell","2/10/2022",1250,"Weapon Law Violations","Weapons Law Violations",45.485673261,-122.578960108,7668976,670023,"2/10/2022",1
+"263","5100 BLOCK OF NE 48TH AVE","22-243878","Society","Cully","9/9/2022",2302,"Weapon Law Violations","Weapons Law Violations",45.559957627,-122.613172441,7660913,697326,"9/9/2022",1
+"264","5100 BLOCK OF NE COLUMBIA BLVD","22-248871","Society","Cully","9/15/2022",1037,"Weapon Law Violations","Weapons Law Violations",45.570134072,-122.609707717,7661897,701012,"9/15/2022",1
+"265","5100 BLOCK OF SE POWELL BLVD","22-212864","Society","Foster-Powell","8/8/2022",1330,"Weapon Law Violations","Weapons Law Violations",45.497444725,-122.609578961,7661238,674517,"8/8/2022",1
+"266","5200 BLOCK OF N INTERSTATE AVE","22-210082","Society","Overlook","7/11/2022",534,"Weapon Law Violations","Weapons Law Violations",45.560761601,-122.682059719,7643283,698088,"8/5/2022",1
+"267","5300 BLOCK OF NE 33RD AVE","22-222869","Society","Concordia","8/18/2022",2020,"Weapon Law Violations","Weapons Law Violations",45.561411214,-122.630595238,7656466,697973,"8/18/2022",1
+"268","5300 BLOCK OF NE MARTIN LUTHER KING JR BLVD","22-266013","Society","King","10/3/2022",1350,"Weapon Law Violations","Weapons Law Violations",45.561714874,-122.661512878,7648553,698294,"10/3/2022",1
+"269","5300 BLOCK OF SE 19TH AVE","22-75617","Society","Sellwood-Moreland","3/21/2022",610,"Weapon Law Violations","Weapons Law Violations",45.484294223,-122.646456627,7651658,669973,"3/21/2022",1
+"270","5400 BLOCK OF SE 82ND AVE","22-5054","Society","Lents","1/6/2022",1522,"Weapon Law Violations","Weapons Law Violations",45.48316979,-122.578880209,7668973,669110,"1/6/2022",1
+"271","5400 BLOCK OF SE 86TH AVE","22-20310","Society","Lents","1/22/2022",1104,"Weapon Law Violations","Weapons Law Violations",45.483227145,-122.574950832,7669981,669105,"1/22/2022",1
+"272","5500 BLOCK OF SE SCHILLER ST","22-129995","Society","Woodstock","5/17/2022",500,"Weapon Law Violations","Weapons Law Violations",45.487841034,-122.605895127,7662091,670992,"5/17/2022",1
+"273","5600 BLOCK OF SE DUKE ST","22-19798","Society","Woodstock","1/21/2022",2054,"Weapon Law Violations","Weapons Law Violations",45.475872091,-122.605361879,7662114,666626,"1/21/2022",1
+"274","5600 BLOCK OF SE GLADSTONE ST","22-184192","Society","Creston-Kenilworth","7/10/2022",546,"Weapon Law Violations","Weapons Law Violations",45.493016283,-122.604955688,7662381,672872,"7/10/2022",1
+"275","5800 BLOCK OF N COMMERCIAL AVE","22-198142","Society","Humboldt","7/24/2022",400,"Weapon Law Violations","Weapons Law Violations",45.565478338,-122.671311992,7646081,699733,"7/24/2022",1
+"276","5800 BLOCK OF NE MARTIN LUTHER KING JR BLVD","22-164081","Society","King","6/19/2022",1730,"Weapon Law Violations","Weapons Law Violations",45.565331684,-122.661474902,7648598,699612,"6/19/2022",1
+"277","5800 BLOCK OF NE PRESCOTT ST","22-344509","Society","Cully","12/30/2022",940,"Weapon Law Violations","Weapons Law Violations",45.555425719,-122.602670321,7663559,695604,"12/30/2022",1
+"278","5800 BLOCK OF SE 99TH AVE","22-115950","Society","Lents","5/2/2022",911,"Weapon Law Violations","Weapons Law Violations",45.480218649,-122.561783584,7673329,667922,"5/2/2022",1
+"279","5800 BLOCK OF SE 111TH AVE","22-307726","Society","Powellhurst-Gilbert","11/18/2022",118,"Weapon Law Violations","Weapons Law Violations",45.479436733,-122.548908658,7676623,667553,"11/18/2022",1
+"280","5900 BLOCK OF N COMMERCIAL AVE","22-17382","Society","Humboldt","1/19/2022",1607,"Weapon Law Violations","Weapons Law Violations",45.566123215,-122.671305424,7646089,699968,"1/19/2022",1
+"281","6000 BLOCK OF N FESSENDEN ST","22-254235","Society","Portsmouth","9/20/2022",2141,"Weapon Law Violations","Weapons Law Violations",45.591338735,-122.727051343,7632071,709547,"9/20/2022",1
+"282","6200 BLOCK OF N COLUMBIA WAY","22-334469","Society","St Johns","12/18/2022",1110,"Weapon Law Violations","Weapons Law Violations",45.593591863,-122.730137314,7631304,710390,"12/18/2022",1
+"283","6200 BLOCK OF SE 111TH AVE","22-257636","Society","Lents","9/24/2022",1538,"Weapon Law Violations","Weapons Law Violations",45.476770901,-122.54916352,7676533,666583,"9/24/2022",1
+"284","6500 BLOCK OF SE 82ND AVE","22-165056","Society","Lents","6/20/2022",1915,"Weapon Law Violations","Weapons Law Violations",45.475518314,-122.579005871,7668869,666322,"6/20/2022",1
+"285","6500 BLOCK OF SE 82ND AVE","22-325552","Society","Lents","12/8/2022",1049,"Weapon Law Violations","Weapons Law Violations",45.475518314,-122.579005871,7668869,666322,"12/8/2022",1
+"286","6600 BLOCK OF NE 78TH CT","22-147263","Society","Cully","6/2/2022",1547,"Weapon Law Violations","Weapons Law Violations",45.57005336,-122.581919454,7669010,700798,"6/2/2022",1
+"287","6600 BLOCK OF NE HANCOCK CT","22-223725","Society","Madison South","8/19/2022",1912,"Weapon Law Violations","Weapons Law Violations",45.536610837,-122.594973566,7665352,688695,"8/19/2022",1
+"288","6600 BLOCK OF NE MARTIN LUTHER KING JR BLVD","22-802813","Society","Woodlawn","10/8/2022",1309,"Weapon Law Violations","Weapons Law Violations",45.570885173,-122.661307578,7648695,701635,"10/8/2022",1
+"289","6600 BLOCK OF SE 72ND AVE","22-269170","Society","Brentwood-Darlington","10/7/2022",211,"Weapon Law Violations","Weapons Law Violations",45.474294722,-122.589279632,7666223,665944,"10/7/2022",1
+"290","6600 BLOCK OF SE CARLTON ST","22-163037","Society","Mt Scott-Arleta","6/18/2022",2103,"Weapon Law Violations","Weapons Law Violations",45.478290225,-122.595108769,7664766,667439,"6/18/2022",1
+"291","6700 BLOCK OF N BASIN AVE","22-216050","Society","Overlook","8/11/2022",1807,"Weapon Law Violations","Weapons Law Violations",45.571495028,-122.717615438,7634287,702248,"8/11/2022",1
+"292","6700 BLOCK OF NE GARFIELD AVE","22-292053","Society","Piedmont","10/31/2022",1830,"Weapon Law Violations","Weapons Law Violations",45.57148911,-122.662311106,7648444,701862,"10/31/2022",1
+"293","7000 BLOCK OF N SYRACUSE ST","22-242563","Society","Cathedral Park","9/8/2022",1345,"Weapon Law Violations","Weapons Law Violations",45.584597477,-122.741040988,7628423,707189,"9/8/2022",1
+"294","7000 BLOCK OF NE 11TH AVE","22-298695","Society","Woodlawn","11/7/2022",2300,"Weapon Law Violations","Weapons Law Violations",45.574053234,-122.653599421,7650699,702737,"11/7/2022",1
+"295","7000 BLOCK OF NE ALDERWOOD RD","22-335784","Society","","12/19/2022",2015,"Weapon Law Violations","Weapons Law Violations",45.574492762,-122.581445617,7669173,702413,"12/19/2022",1
+"296","7000 BLOCK OF NE LOMBARD ST","22-250405","Society","Cully","9/17/2022",14,"Weapon Law Violations","Weapons Law Violations",45.562838178,-122.590368445,7666779,698224,"9/17/2022",1
+"297","7000 BLOCK OF NE MARINE DR","22-79360","Society","","3/24/2022",2234,"Weapon Law Violations","Weapons Law Violations",45.593774703,-122.586272277,7668119,709473,"3/25/2022",1
+"298","7000 BLOCK OF SE 116TH AVE","22-257604","Society","Pleasant Valley","9/24/2022",1852,"Weapon Law Violations","Weapons Law Violations",45.471801353,-122.543981336,7677816,664738,"9/24/2022",1
+"299","7000 BLOCK OF SE 116TH AVE","22-257797","Society","Pleasant Valley","9/24/2022",1852,"Weapon Law Violations","Weapons Law Violations",45.471801353,-122.543981336,7677816,664738,"9/24/2022",1
+"300","7100 BLOCK OF SE 66TH AVE","22-21934","Society","Brentwood-Darlington","1/24/2022",201,"Weapon Law Violations","Weapons Law Violations",45.471365296,-122.595259023,7664662,664916,"1/24/2022",1
+"301","7200 BLOCK OF NE BROADWAY","22-151591","Society","Montavilla","6/7/2022",203,"Weapon Law Violations","Weapons Law Violations",45.53517907,-122.588772146,7666927,688132,"6/7/2022",1
+"302","7200 BLOCK OF SE RAYMOND ST","22-301658","Society","Foster-Powell","11/11/2022",824,"Weapon Law Violations","Weapons Law Violations",45.486665017,-122.588564368,7666523,670448,"11/11/2022",1
+"303","7300 BLOCK OF NE TILLAMOOK ST","22-167413","Society","Madison South","6/23/2022",212,"Weapon Law Violations","Weapons Law Violations",45.537213579,-122.587480612,7667277,688865,"6/23/2022",1
+"304","7300 BLOCK OF NE TILLAMOOK ST","22-250442","Society","Madison South","9/17/2022",46,"Weapon Law Violations","Weapons Law Violations",45.537213579,-122.587480612,7667277,688865,"9/17/2022",1
+"305","7300 BLOCK OF SE POWELL BLVD","22-217943","Society","South Tabor","8/13/2022",1550,"Weapon Law Violations","Weapons Law Violations",45.497476633,-122.58756133,7666882,674382,"8/13/2022",1
+"306","7600 BLOCK OF N OMAHA AVE","22-33290","Society","Kenton","2/4/2022",2148,"Weapon Law Violations","Weapons Law Violations",45.578314893,-122.690169916,7641380,704542,"2/4/2022",1
+"307","7600 BLOCK OF N PORTSMOUTH AVE","22-98731","Society","Portsmouth","4/14/2022",137,"Weapon Law Violations","Weapons Law Violations",45.582992891,-122.723769692,7632827,706482,"4/14/2022",1
+"308","7600 BLOCK OF S FULTON PARK PL","22-287353","Society","South Portland","10/26/2022",2004,"Weapon Law Violations","Weapons Law Violations",45.468835247,-122.673780713,7644501,664526,"10/26/2022",1
+"309","7600 BLOCK OF SE 82ND AVE","22-170969","Society","Lents","6/26/2022",2355,"Weapon Law Violations","Weapons Law Violations",45.467655572,-122.578979501,7668802,663456,"6/27/2022",1
+"310","7900 BLOCK OF SE 82ND AVE","22-178066","Society","Brentwood-Darlington","7/4/2022",56,"Weapon Law Violations","Weapons Law Violations",45.465990648,-122.579105757,7668754,662850,"7/4/2022",1
+"311","7900 BLOCK OF SE POWELL BLVD","22-29907","Society","South Tabor","2/1/2022",1308,"Weapon Law Violations","Weapons Law Violations",45.497464694,-122.581416407,7668457,674337,"2/1/2022",1
+"312","7900 BLOCK OF SE WASHINGTON ST","22-315079","Society","Montavilla","11/26/2022",1505,"Weapon Law Violations","Weapons Law Violations",45.518425102,-122.581907626,7668528,681980,"11/26/2022",1
+"313","8000 BLOCK OF N HURST AVE","22-195910","Society","Portsmouth","7/21/2022",2256,"Weapon Law Violations","Weapons Law Violations",45.581582171,-122.709128749,7636560,705865,"7/21/2022",1
+"314","8000 BLOCK OF SE RAMONA ST","22-162642","Society","Mt Scott-Arleta","6/18/2022",806,"Weapon Law Violations","Weapons Law Violations",45.480943217,-122.580932113,7668426,668312,"6/18/2022",1
+"315","8100 BLOCK OF N FESSENDEN ST","22-308342","Society","St Johns","11/18/2022",1705,"Weapon Law Violations","Weapons Law Violations",45.596193442,-122.74646669,7627152,711454,"11/18/2022",1
+"316","8100 BLOCK OF NE FREMONT ST","22-192937","Society","Roseway","7/19/2022",259,"Weapon Law Violations","Weapons Law Violations",45.548103804,-122.5792517,7669487,692780,"7/19/2022",1
+"317","8100 BLOCK OF SE FOSTER RD","22-257913","Society","Mt Scott-Arleta","9/24/2022",2024,"Weapon Law Violations","Weapons Law Violations",45.482887565,-122.579314512,7668859,669010,"9/24/2022",1
+"318","8100 BLOCK OF SE MALDEN ST","22-199887","Society","Brentwood-Darlington","7/26/2022",455,"Weapon Law Violations","Weapons Law Violations",45.467950091,-122.579684336,7668624,663568,"7/26/2022",1
+"319","8100 BLOCK OF SE MILL ST","22-287221","Society","Montavilla","10/26/2022",1729,"Weapon Law Violations","Weapons Law Violations",45.510077231,-122.579283744,7669122,678920,"10/26/2022",1
+"320","8100 BLOCK OF SE MITCHELL ST","22-311524","Society","Foster-Powell","11/12/2022",830,"Weapon Law Violations","Weapons Law Violations",45.485174223,-122.579398196,7668859,669844,"11/22/2022",1
+"321","8100 BLOCK OF SE STARK ST","22-209702","Society","Montavilla","8/5/2022",115,"Weapon Law Violations","Weapons Law Violations",45.519178786,-122.579679472,7669106,682240,"8/5/2022",1
+"322","8100 BLOCK OF SW 39TH AVE","22-192688","Society","Multnomah","7/18/2022",2040,"Weapon Law Violations","Weapons Law Violations",45.46597186,-122.716765602,7633449,663782,"7/18/2022",1
+"323","8200 BLOCK OF NE SANDY BLVD","22-197555","Society","Sumner","7/23/2022",1903,"Weapon Law Violations","Weapons Law Violations",45.552657359,-122.578231407,7669791,694433,"7/23/2022",1
+"324","8300 BLOCK OF SE FOSTER RD","22-99590","Society","Lents","4/14/2022",2305,"Weapon Law Violations","Weapons Law Violations",45.482122172,-122.577188196,7669397,668717,"4/14/2022",1
+"325","8400 BLOCK OF NE KNOTT ST","22-258807","Society","Madison South","9/25/2022",1928,"Weapon Law Violations","Weapons Law Violations",45.541523641,-122.575820857,7670304,690359,"9/25/2022",1
+"326","8400 BLOCK OF SE STARK ST","22-327266","Society","Montavilla","12/10/2022",1054,"Weapon Law Violations","Weapons Law Violations",45.519076729,-122.577131149,7669758,682186,"12/10/2022",1
+"327","8500 BLOCK OF SE STARK ST","22-341105","Society","Montavilla","12/26/2022",1345,"Weapon Law Violations","Weapons Law Violations",45.519167923,-122.575272878,7670235,682207,"12/26/2022",1
+"328","8600 BLOCK OF N LOMBARD ST","22-325098","Society","St Johns","12/7/2022",1940,"Weapon Law Violations","Weapons Law Violations",45.590355295,-122.755000754,7624909,709387,"12/7/2022",1
+"329","8600 BLOCK OF NE SKIDMORE ST","22-239862","Society","Sumner","9/5/2022",1927,"Weapon Law Violations","Weapons Law Violations",45.553647597,-122.57398767,7670887,694766,"9/5/2022",1
+"330","8600 BLOCK OF SE HARNEY ST","22-166900","Society","Lents","6/22/2022",1326,"Weapon Law Violations","Weapons Law Violations",45.463180594,-122.574133246,7670003,661793,"6/22/2022",1
+"331","8600 BLOCK OF SE WOODWARD CT","22-7517","Society","Powellhurst-Gilbert","1/9/2022",1320,"Weapon Law Violations","Weapons Law Violations",45.501087947,-122.573738374,7670459,675607,"1/9/2022",1
+"332","8800 BLOCK OF N BURRAGE AVE","22-27211","Society","Kenton","1/29/2022",930,"Weapon Law Violations","Weapons Law Violations",45.586737332,-122.695235024,7640167,707647,"1/29/2022",1
+"333","8800 BLOCK OF NE SANDY BLVD","22-180061","Society","Sumner","7/6/2022",104,"Weapon Law Violations","Weapons Law Violations",45.555433284,-122.57142081,7671561,695400,"7/6/2022",1
+"334","8800 BLOCK OF NE SANDY BLVD","22-316499","Society","Sumner","11/28/2022",745,"Weapon Law Violations","Weapons Law Violations",45.555354828,-122.571359368,7671576,695371,"11/28/2022",1
+"335","8900 BLOCK OF N COLUMBIA BLVD","22-295925","Society","St Johns","11/4/2022",2000,"Weapon Law Violations","Weapons Law Violations",45.605582536,-122.753890415,7625348,714929,"11/4/2022",1
+"336","8900 BLOCK OF N KIMBALL AVE","22-85658","Society","Portsmouth","3/31/2022",625,"Weapon Law Violations","Weapons Law Violations",45.587159738,-122.729196635,7631480,708039,"3/31/2022",1
+"337","8900 BLOCK OF NE LOMBARD ST","22-305841","Society","Sumner","11/15/2022",2136,"Weapon Law Violations","Weapons Law Violations",45.562615178,-122.570698766,7671813,698013,"11/15/2022",1
+"338","8900 BLOCK OF SE REEDWAY ST","22-75932","Society","Lents","3/21/2022",500,"Weapon Law Violations","Weapons Law Violations",45.481318139,-122.570665072,7671062,668381,"3/21/2022",1
+"339","8900 BLOCK OF SW BARBUR BLVD","22-327783","Society","Multnomah","12/10/2022",2351,"Weapon Law Violations","Weapons Law Violations",45.460285365,-122.707159245,7635856,661642,"12/11/2022",1
+"340","9100 BLOCK OF NE CASCADES PKWY","22-126624","Society","","5/13/2022",1724,"Weapon Law Violations","Weapons Law Violations",45.577295249,-122.568597618,7672488,703350,"5/13/2022",1
+"341","9100 BLOCK OF NE HASSALO ST","22-1702","Society","Montavilla","1/3/2022",210,"Weapon Law Violations","Weapons Law Violations",45.530861359,-122.569321951,7671869,686430,"1/3/2022",1
+"342","9100 BLOCK OF SE FLAVEL ST","22-123215","Society","Lents","5/10/2022",220,"Weapon Law Violations","Weapons Law Violations",45.468421855,-122.569824787,7671157,663675,"5/10/2022",1
+"343","9100 BLOCK OF SE POWELL BLVD","22-274996","Society","Lents","10/13/2022",759,"Weapon Law Violations","Weapons Law Violations",45.497343092,-122.56901381,7671635,674211,"10/13/2022",1
+"344","9200 BLOCK OF N FISKE AVE","22-208551","Society","Portsmouth","8/3/2022",2139,"Weapon Law Violations","Weapons Law Violations",45.589421397,-122.716940915,7634639,708777,"8/3/2022",1
+"345","9200 BLOCK OF NE SCHUYLER ST","22-335308","Society","Madison South","12/19/2022",1017,"Weapon Law Violations","Weapons Law Violations",45.535745467,-122.567918927,7672274,688201,"12/19/2022",1
+"346","9200 BLOCK OF SE DIVISION ST","22-61674","Society","Powellhurst-Gilbert","3/7/2022",29,"Weapon Law Violations","Weapons Law Violations",45.504370771,-122.568025165,7671954,676766,"3/7/2022",1
+"347","9200 BLOCK OF SE POWELL BLVD","22-114993","Society","Powellhurst-Gilbert","5/1/2022",600,"Weapon Law Violations","Weapons Law Violations",45.497421874,-122.567838506,7671937,674232,"5/1/2022",1
+"348","9200 BLOCK OF SE POWELL BLVD","22-241054","Society","Powellhurst-Gilbert","9/6/2022",2351,"Weapon Law Violations","Weapons Law Violations",45.497421874,-122.567838506,7671937,674232,"9/7/2022",1
+"349","9300 BLOCK OF SE MT SCOTT BLVD","22-143022","Society","Lents","5/29/2022",1653,"Weapon Law Violations","Weapons Law Violations",45.46756045,-122.567383718,7671775,663345,"5/29/2022",1
+"350","9300 BLOCK OF SE STARK ST","22-343138","Society","Montavilla","12/28/2022",1839,"Weapon Law Violations","Weapons Law Violations",45.519018477,-122.567430746,7672243,682101,"12/28/2022",1
+"351","9300 BLOCK OF SE WASHINGTON ST","22-185024","Society","Montavilla","7/10/2022",2349,"Weapon Law Violations","Weapons Law Violations",45.518276071,-122.56691198,7672369,681827,"7/11/2022",1
+"352","9400 BLOCK OF N HORSESHOE AVE","22-303777","Society","East Columbia","11/13/2022",1748,"Weapon Law Violations","Weapons Law Violations",45.590929302,-122.675463524,7645268,709038,"11/13/2022",1
+"353","9500 BLOCK OF NE GERTZ CIR","22-16541","Society","East Columbia","1/18/2022",1834,"Weapon Law Violations","Weapons Law Violations",45.592073853,-122.666570116,7647555,709394,"1/18/2022",1
+"354","9500 BLOCK OF NE SANDY BLVD","22-165282","Society","Parkrose","6/20/2022",2320,"Weapon Law Violations","Weapons Law Violations",45.558220111,-122.56443812,7673375,696370,"6/21/2022",1
+"355","9600 BLOCK OF N COLUMBIA BLVD","22-156086","Society","St Johns","6/11/2022",2220,"Weapon Law Violations","Weapons Law Violations",45.6112362,-122.761495991,7623460,717044,"6/11/2022",1
+"356","9600 BLOCK OF SW 35TH DR","22-339411","Society","West Portland Park","12/23/2022",2110,"Weapon Law Violations","Weapons Law Violations",45.455937434,-122.711388013,7634728,660087,"12/23/2022",1
+"357","9700 BLOCK OF NE EVERETT CT","22-171052","Society","Hazelwood","6/27/2022",102,"Weapon Law Violations","Weapons Law Violations",45.525239702,-122.56322331,7673379,684341,"6/27/2022",1
+"358","9700 BLOCK OF SE FOSTER RD","22-281120","Society","Lents","10/19/2022",1855,"Weapon Law Violations","Weapons Law Violations",45.478248229,-122.563034161,7672990,667212,"10/19/2022",1
+"359","9700 BLOCK OF SE WASHINGTON ST","22-65346","Society","Hazelwood","3/10/2022",1755,"Weapon Law Violations","Weapons Law Violations",45.51827902,-122.562931368,7673389,681802,"3/10/2022",1
+"360","9700 BLOCK OF SE WASHINGTON ST","22-334387","Society","Hazelwood","12/17/2022",1830,"Weapon Law Violations","Weapons Law Violations",45.51827902,-122.562931368,7673389,681802,"12/18/2022",1
+"361","9700 BLOCK OF SE WOODSTOCK BLVD","22-14119","Society","Lents","1/16/2022",754,"Weapon Law Violations","Weapons Law Violations",45.476502161,-122.562639289,7673075,666573,"1/16/2022",1
+"362","9800 BLOCK OF NE IRVING ST","22-6294","Society","Hazelwood","1/8/2022",226,"Weapon Law Violations","Weapons Law Violations",45.527551445,-122.562366625,7673620,685178,"1/8/2022",1
+"363","9800 BLOCK OF SE DIVISION ST","22-122780","Society","Powellhurst-Gilbert","5/9/2022",1620,"Weapon Law Violations","Weapons Law Violations",45.504334103,-122.561976184,7673504,676713,"5/9/2022",1
+"364","9800 BLOCK OF SE WASHINGTON ST","22-117951","Society","Hazelwood","5/4/2022",1015,"Weapon Law Violations","Weapons Law Violations",45.518282661,-122.561811436,7673676,681796,"5/4/2022",1
+"365","9800 BLOCK OF SE WASHINGTON ST","22-181414","Society","Hazelwood","7/7/2022",1115,"Weapon Law Violations","Weapons Law Violations",45.518282661,-122.561811436,7673676,681796,"7/7/2022",1
+"366","9900 BLOCK OF NE HALSEY ST","22-75629","Society","Hazelwood","3/21/2022",1011,"Weapon Law Violations","Weapons Law Violations",45.533484356,-122.560763038,7674086,687330,"3/21/2022",1
+"367","9900 BLOCK OF NE SANDY BLVD","22-69633","Society","Parkrose","3/15/2022",554,"Weapon Law Violations","Weapons Law Violations",45.559389325,-122.560282259,7674450,696769,"3/15/2022",1
+"368","9900 BLOCK OF NE SANDY BLVD","22-207763","Society","Parkrose","8/3/2022",309,"Weapon Law Violations","Weapons Law Violations",45.559303981,-122.560298687,7674445,696738,"8/3/2022",1
+"369","9900 BLOCK OF SE STARK ST","22-181947","Society","Hazelwood","7/7/2022",2206,"Weapon Law Violations","Weapons Law Violations",45.519005182,-122.561299097,7673814,682056,"7/7/2022",1
+"370","9900 BLOCK OF SE STARK ST","22-273912","Society","Hazelwood","10/12/2022",124,"Weapon Law Violations","Weapons Law Violations",45.519005182,-122.561299097,7673814,682056,"10/12/2022",1
+"371","10000 BLOCK OF N KERBY AVE","22-97929","Society","East Columbia","4/13/2022",942,"Weapon Law Violations","Weapons Law Violations",45.595314596,-122.67308759,7645919,710620,"4/13/2022",1
+"372","10000 BLOCK OF N MOHAWK AVE","22-118899","Society","St Johns","5/5/2022",1103,"Weapon Law Violations","Weapons Law Violations",45.597467538,-122.744305044,7627718,711903,"5/5/2022",1
+"373","10000 BLOCK OF NE HALSEY ST","22-103206","Society","Hazelwood","4/18/2022",1829,"Weapon Law Violations","Weapons Law Violations",45.533490931,-122.560396329,7674180,687330,"4/18/2022",1
+"374","10000 BLOCK OF NE HALSEY ST","22-246977","Society","Hazelwood","9/13/2022",1050,"Weapon Law Violations","Weapons Law Violations",45.533490931,-122.560396329,7674180,687330,"9/13/2022",1
+"375","10000 BLOCK OF SE DIVISION ST","22-283090","Society","Powellhurst-Gilbert","10/15/2022",0,"Weapon Law Violations","Weapons Law Violations",45.504297516,-122.560039612,7674000,676687,"10/21/2022",1
+"376","10000 BLOCK OF SE WASHINGTON ST","22-211632","Society","Hazelwood","8/7/2022",845,"Weapon Law Violations","Weapons Law Violations",45.518293241,-122.559844879,7674180,681787,"8/7/2022",1
+"377","10100 BLOCK OF NE HALSEY ST","22-309243","Society","Hazelwood","11/19/2022",1830,"Weapon Law Violations","Weapons Law Violations",45.533494322,-122.559135555,7674503,687323,"11/19/2022",1
+"378","10100 BLOCK OF SE WASHINGTON ST","22-4764","Society","Hazelwood","1/6/2022",1104,"Weapon Law Violations","Weapons Law Violations",45.518296519,-122.558896652,7674423,681782,"1/6/2022",1
+"379","10100 BLOCK OF SE WASHINGTON ST","22-30490","Society","Hazelwood","2/2/2022",128,"Weapon Law Violations","Weapons Law Violations",45.518296519,-122.558896652,7674423,681782,"2/2/2022",1
+"380","10100 BLOCK OF SE WASHINGTON ST","22-54444","Society","Hazelwood","2/27/2022",1900,"Weapon Law Violations","Weapons Law Violations",45.518296519,-122.558896652,7674423,681782,"2/27/2022",1
+"381","10100 BLOCK OF SE WASHINGTON ST","22-333902","Society","Hazelwood","12/17/2022",1827,"Weapon Law Violations","Weapons Law Violations",45.518296519,-122.558896652,7674423,681782,"12/17/2022",1
+"382","10200 BLOCK OF N CENTRAL ST","22-200642","Society","St Johns","7/26/2022",1830,"Weapon Law Violations","Weapons Law Violations",45.601628838,-122.760886072,7623518,713538,"7/26/2022",1
+"383","10200 BLOCK OF NE PRESCOTT ST","22-100285","Society","Parkrose","4/15/2022",1804,"Weapon Law Violations","Weapons Law Violations",45.55543224,-122.557268257,7675185,695307,"4/15/2022",1
+"384","10200 BLOCK OF SE DIVISION ST","22-234221","Society","Hazelwood","8/30/2022",2149,"Weapon Law Violations","Weapons Law Violations",45.504349682,-122.558047735,7674511,676693,"8/30/2022",1
+"385","10200 BLOCK OF SE POWELL BLVD","22-266493","Society","Lents","10/4/2022",229,"Weapon Law Violations","Weapons Law Violations",45.4957549,-122.557693442,7674522,673558,"10/4/2022",1
+"386","10300 BLOCK OF N MOHAWK AVE","22-317323","Society","St Johns","11/29/2022",631,"Weapon Law Violations","Weapons Law Violations",45.60010164,-122.743029601,7628071,712854,"11/29/2022",1
+"387","10300 BLOCK OF NE WYGANT ST","22-140845","Society","Parkrose","5/27/2022",1226,"Weapon Law Violations","Weapons Law Violations",45.557154351,-122.556241106,7675464,695928,"5/27/2022",1
+"388","10300 BLOCK OF SE MAIN ST","22-298523","Society","Hazelwood","11/7/2022",1656,"Weapon Law Violations","Weapons Law Violations",45.514027798,-122.557196549,7674819,680215,"11/7/2022",1
+"389","10500 BLOCK OF NE HALSEY ST","22-33890","Society","Hazelwood","2/5/2022",1511,"Weapon Law Violations","Weapons Law Violations",45.533473428,-122.554017047,7675814,687282,"2/5/2022",1
+"390","10500 BLOCK OF NE HALSEY ST","22-80527","Society","Hazelwood","3/26/2022",17,"Weapon Law Violations","Weapons Law Violations",45.533473428,-122.554017047,7675814,687282,"3/26/2022",1
+"391","10500 BLOCK OF NE KLICKITAT ST","22-176410","Society","Parkrose Heights","7/2/2022",845,"Weapon Law Violations","Weapons Law Violations",45.546748964,-122.553583823,7676048,692118,"7/2/2022",1
+"392","10500 BLOCK OF SE FLAVEL ST","22-126031","Society","Lents","5/13/2022",5,"Weapon Law Violations","Weapons Law Violations",45.468674407,-122.555157182,7674921,663671,"5/13/2022",1
+"393","10600 BLOCK OF NE WASCO ST","22-26866","Society","Hazelwood","1/29/2022",207,"Weapon Law Violations","Weapons Law Violations",45.532036407,-122.552754939,7676124,686750,"1/29/2022",1
+"394","10700 BLOCK OF NE SIMPSON ST","22-218372","Society","Parkrose","8/14/2022",513,"Weapon Law Violations","Weapons Law Violations",45.565339259,-122.551733502,7676694,698882,"8/14/2022",1
+"395","10800 BLOCK OF N SWIFT CT","22-246146","Society","St Johns","9/12/2022",1400,"Weapon Law Violations","Weapons Law Violations",45.604338702,-122.748048082,7626830,714434,"9/12/2022",1
+"396","11200 BLOCK OF SE DIVISION ST","22-69273","Society","Powellhurst-Gilbert","3/14/2022",1900,"Weapon Law Violations","Weapons Law Violations",45.504113982,-122.547594404,7677188,676539,"3/14/2022",1
+"397","11200 BLOCK OF SE DIVISION ST","22-274815","Society","Mill Park","10/13/2022",125,"Weapon Law Violations","Weapons Law Violations",45.504288492,-122.547347085,7677253,676601,"10/13/2022",1
+"398","11300 BLOCK OF NE SISKIYOU ST","22-268843","Society","Parkrose Heights","10/6/2022",2035,"Weapon Law Violations","Weapons Law Violations",45.5444238,-122.546584923,7677819,691225,"10/6/2022",1
+"399","11400 BLOCK OF NE HALSEY ST","22-314831","Society","Hazelwood","11/26/2022",608,"Weapon Law Violations","Weapons Law Violations",45.533480277,-122.544246357,7678317,687221,"11/26/2022",1
+"400","11400 BLOCK OF NE SANDY BLVD","22-26841","Society","Parkrose","1/29/2022",42,"Weapon Law Violations","Weapons Law Violations",45.557999479,-122.544696188,7678428,696161,"1/29/2022",1
+"401","11400 BLOCK OF SW 35TH AVE","22-340519","Society","West Portland Park","12/25/2022",1739,"Weapon Law Violations","Weapons Law Violations",45.4428954,-122.712860791,7634220,655344,"12/25/2022",1
+"402","11500 BLOCK OF NE AIRPORT WAY","22-680096","Society","Parkrose","2/18/2022",2230,"Weapon Law Violations","Weapons Law Violations",45.567647326,-122.543833027,7678738,699672,"2/18/2022",1
+"403","11500 BLOCK OF NE SISKIYOU ST","22-240471","Society","Parkrose Heights","9/6/2022",1144,"Weapon Law Violations","Weapons Law Violations",45.544427453,-122.544066692,7678464,691210,"9/6/2022",1
+"404","11500 BLOCK OF SE DIVISION ST","22-280665","Society","Powellhurst-Gilbert","10/3/2022",849,"Weapon Law Violations","Weapons Law Violations",45.504085346,-122.544889516,7677881,676511,"10/3/2022",1
+"405","11500 BLOCK OF SE DIVISION ST","22-288454","Society","Powellhurst-Gilbert","10/28/2022",37,"Weapon Law Violations","Weapons Law Violations",45.504085346,-122.544889516,7677881,676511,"10/28/2022",1
+"406","11500 BLOCK OF SE HOLGATE BLVD","22-60755","Society","Powellhurst-Gilbert","3/6/2022",9,"Weapon Law Violations","Weapons Law Violations",45.48966169,-122.544003695,7677975,671248,"3/6/2022",1
+"407","11500 BLOCK OF SE MORRISON ST","22-308459","Society","Mill Park","11/18/2022",1922,"Weapon Law Violations","Weapons Law Violations",45.516806873,-122.544602243,7678072,681146,"11/18/2022",1
+"408","11500 BLOCK OF SW 64TH AVE","22-244528","Society","Ashcreek","9/10/2022",1955,"Weapon Law Violations","Weapons Law Violations",45.442372734,-122.742747237,7626547,655365,"9/10/2022",1
+"409","11700 BLOCK OF SE MADISON ST","22-302751","Society","Mill Park","11/12/2022",1503,"Weapon Law Violations","Weapons Law Violations",45.51319988,-122.542244171,7678643,679816,"11/12/2022",1
+"410","11700 BLOCK OF SE POWELL BLVD","22-161415","Society","Powellhurst-Gilbert","6/17/2022",50,"Weapon Law Violations","Weapons Law Violations",45.496877717,-122.542437598,7678443,673868,"6/17/2022",1
+"411","11800 BLOCK OF NE GLISAN ST","22-62073","Society","Hazelwood","3/7/2022",1321,"Weapon Law Violations","Weapons Law Violations",45.526247078,-122.540609666,7679182,684561,"3/7/2022",1
+"412","11800 BLOCK OF NE GLISAN ST","22-295744","Society","Hazelwood","11/4/2022",1712,"Weapon Law Violations","Weapons Law Violations",45.526247078,-122.540609666,7679182,684561,"11/4/2022",1
+"413","11900 BLOCK OF SE ASH ST","22-256164","Society","Hazelwood","9/22/2022",2353,"Weapon Law Violations","Weapons Law Violations",45.521040832,-122.539934709,7679307,682659,"9/23/2022",1
+"414","12000 BLOCK OF E BURNSIDE ST","22-188227","Society","Hazelwood","7/14/2022",308,"Weapon Law Violations","Weapons Law Violations",45.522646015,-122.538841014,7679602,683237,"7/14/2022",1
+"415","12000 BLOCK OF SE GLADSTONE ST","22-148370","Society","Powellhurst-Gilbert","6/3/2022",1838,"Weapon Law Violations","Weapons Law Violations",45.492769987,-122.540156132,7678990,672356,"6/3/2022",1
+"416","12100 BLOCK OF E BURNSIDE ST","22-283157","Society","Hazelwood","10/22/2022",236,"Weapon Law Violations","Weapons Law Violations",45.522636882,-122.538118643,7679787,683229,"10/22/2022",1
+"417","12100 BLOCK OF NE GLISAN ST","22-344466","Society","Hazelwood","12/30/2022",819,"Weapon Law Violations","Weapons Law Violations",45.526336055,-122.538224113,7679794,684578,"12/30/2022",1
+"418","12200 BLOCK OF NE HALSEY ST","22-216299","Society","Hazelwood","8/11/2022",2324,"Weapon Law Violations","Weapons Law Violations",45.53352649,-122.537162835,7680132,687192,"8/12/2022",1
+"419","12200 BLOCK OF NE MULTNOMAH ST","22-258404","Society","Hazelwood","9/25/2022",1127,"Weapon Law Violations","Weapons Law Violations",45.531344757,-122.537197748,7680103,686397,"9/25/2022",1
+"420","12200 BLOCK OF SE FOSTER RD","22-164247","Society","Pleasant Valley","6/19/2022",2303,"Weapon Law Violations","Weapons Law Violations",45.476504279,-122.53670194,7679726,666405,"6/19/2022",1
+"421","12200 BLOCK OF SE STARK ST","22-34322","Society","Mill Park","2/6/2022",254,"Weapon Law Violations","Weapons Law Violations",45.518983955,-122.53726163,7679973,681892,"2/6/2022",1
+"422","12300 BLOCK OF SE BUSH ST","22-149741","Society","Powellhurst-Gilbert","6/5/2022",338,"Weapon Law Violations","Weapons Law Violations",45.494407358,-122.535857526,7680107,672925,"6/5/2022",1
+"423","12300 BLOCK OF SE DIVISION ST","22-300175","Society","Mill Park","11/9/2022",1430,"Weapon Law Violations","Weapons Law Violations",45.504188818,-122.536130096,7680127,676492,"11/9/2022",1
+"424","12400 BLOCK OF SE POWELL BLVD","22-255277","Society","Powellhurst-Gilbert","9/22/2022",43,"Weapon Law Violations","Weapons Law Violations",45.497107107,-122.535388613,7680252,673906,"9/22/2022",1
+"425","12500 BLOCK OF SE HOLGATE BLVD","22-18720","Society","Powellhurst-Gilbert","1/20/2022",2144,"Weapon Law Violations","Weapons Law Violations",45.489586519,-122.534331247,7680454,671158,"1/20/2022",1
+"426","12600 BLOCK OF SE BOISE ST","22-53642","Society","Powellhurst-Gilbert","2/26/2022",1416,"Weapon Law Violations","Weapons Law Violations",45.492092846,-122.533164929,7680776,672064,"2/26/2022",1
+"427","12600 BLOCK OF SE POWELL BLVD","22-148339","Society","Powellhurst-Gilbert","6/3/2022",1801,"Weapon Law Violations","Weapons Law Violations",45.497188855,-122.532941601,7680880,673920,"6/3/2022",1
+"428","12600 BLOCK OF SE POWELL BLVD","22-264473","Society","Powellhurst-Gilbert","10/1/2022",2115,"Weapon Law Violations","Weapons Law Violations",45.497188855,-122.532941601,7680880,673920,"10/1/2022",1
+"429","12600 BLOCK OF SE POWELL BLVD","22-325275","Society","Powellhurst-Gilbert","12/7/2022",2200,"Weapon Law Violations","Weapons Law Violations",45.497188855,-122.532941601,7680880,673920,"12/8/2022",1
+"430","12600 BLOCK OF SE POWELL BLVD","22-345991","Society","Powellhurst-Gilbert","12/31/2022",2110,"Weapon Law Violations","Weapons Law Violations",45.497188855,-122.532941601,7680880,673920,"12/31/2022",1
+"431","12600 BLOCK OF SE SALMON ST","22-321060","Society","Mill Park","12/3/2022",405,"Weapon Law Violations","Weapons Law Violations",45.514775128,-122.533247274,7680963,680332,"12/3/2022",1
+"432","12600 BLOCK OF SE STARK ST","22-291595","Society","Hazelwood","10/31/2022",901,"Weapon Law Violations","Weapons Law Violations",45.519093429,-122.533249695,7681002,681906,"10/31/2022",1
+"433","12600 BLOCK OF SE STEELE ST","22-120800","Society","Powellhurst-Gilbert","5/7/2022",1152,"Weapon Law Violations","Weapons Law Violations",45.484629571,-122.533518015,7680617,669346,"5/7/2022",1
+"434","12800 BLOCK OF SE STARK ST","22-130852","Society","Hazelwood","5/17/2022",2228,"Weapon Law Violations","Weapons Law Violations",45.51910578,-122.531310504,7681499,681898,"5/17/2022",1
+"435","12900 BLOCK OF NE EUGENE ST","22-177440","Society","Russell","7/3/2022",1118,"Weapon Law Violations","Weapons Law Violations",45.538669602,-122.529621342,7682111,689018,"7/3/2022",1
+"436","12900 BLOCK OF SE DIVISION ST","22-303198","Society","Powellhurst-Gilbert","11/13/2022",132,"Weapon Law Violations","Weapons Law Violations",45.503966104,-122.530577876,7681548,676375,"11/13/2022",1
+"437","12900 BLOCK OF SE DIVISION ST","22-305622","Society","Powellhurst-Gilbert","11/15/2022",1628,"Weapon Law Violations","Weapons Law Violations",45.503966104,-122.530577876,7681548,676375,"11/15/2022",1
+"438","13000 BLOCK OF SE CLAYBOURNE ST","22-160951","Society","Pleasant Valley","6/16/2022",1407,"Weapon Law Violations","Weapons Law Violations",45.474848248,-122.528582025,7681793,665749,"6/16/2022",1
+"439","13000 BLOCK OF SE POWELL BLVD","22-153551","Society","Powellhurst-Gilbert","6/9/2022",120,"Weapon Law Violations","Weapons Law Violations",45.497443745,-122.529232886,7681833,673989,"6/9/2022",1
+"440","13000 BLOCK OF SE POWELL BLVD","22-182028","Society","Powellhurst-Gilbert","7/7/2022",2332,"Weapon Law Violations","Weapons Law Violations",45.497443745,-122.529232886,7681833,673989,"7/7/2022",1
+"441","13000 BLOCK OF SE STARK ST","22-158428","Society","Hazelwood","5/27/2022",645,"Weapon Law Violations","Weapons Law Violations",45.519115038,-122.529078502,7682071,681887,"5/27/2022",1
+"442","13100 BLOCK OF SE POWELL BLVD","22-70171","Society","Powellhurst-Gilbert","3/15/2022",1925,"Weapon Law Violations","Weapons Law Violations",45.497402994,-122.527967446,7682157,673966,"3/15/2022",1
+"443","13100 BLOCK OF SE SALMON ST","22-193925","Society","Hazelwood","7/20/2022",149,"Weapon Law Violations","Weapons Law Violations",45.514875098,-122.528056772,7682294,680335,"7/20/2022",1
+"444","13100 BLOCK OF SE STARK ST","22-201977","Society","Hazelwood","7/28/2022",404,"Weapon Law Violations","Weapons Law Violations",45.519032215,-122.528486239,7682222,681853,"7/28/2022",1
+"445","13300 BLOCK OF SE RAYMOND ST","22-312935","Society","Powellhurst-Gilbert","11/23/2022",2321,"Weapon Law Violations","Weapons Law Violations",45.485938709,-122.526353028,7682466,669777,"11/24/2022",1
+"446","13400 BLOCK OF NE SANDY BLVD","22-8012","Society","Argay","1/10/2022",11,"Weapon Law Violations","Weapons Law Violations",45.554838414,-122.524259931,7683632,694877,"1/10/2022",1
+"447","13400 BLOCK OF SE HOLGATE BLVD","22-78091","Society","Powellhurst-Gilbert","3/23/2022",1744,"Weapon Law Violations","Weapons Law Violations",45.489349712,-122.524910534,7682867,671011,"3/23/2022",1
+"448","13500 BLOCK OF NE WHITAKER WAY","22-121310","Society","Argay","5/8/2022",27,"Weapon Law Violations","Weapons Law Violations",45.55751883,-122.523168335,7683936,695847,"5/8/2022",1
+"449","13500 BLOCK OF SE POWELL BLVD","22-202983","Society","Powellhurst-Gilbert","7/29/2022",411,"Weapon Law Violations","Weapons Law Violations",45.497812784,-122.524022346,7683172,674090,"7/29/2022",1
+"450","13900 BLOCK OF NE SANDY BLVD","22-255188","Society","Argay","9/21/2022",2153,"Weapon Law Violations","Weapons Law Violations",45.554124484,-122.520239569,7684655,694591,"9/21/2022",1
+"451","13900 BLOCK OF SE HOLGATE BLVD","22-124159","Society","Powellhurst-Gilbert","5/11/2022",505,"Weapon Law Violations","Weapons Law Violations",45.488850485,-122.520075509,7684102,670798,"5/11/2022",1
+"452","14500 BLOCK OF NE ROSE PKWY","22-163133","Society","Argay","6/18/2022",1938,"Weapon Law Violations","Weapons Law Violations",45.544313428,-122.513373916,7686324,690971,"6/18/2022",1
+"453","14500 BLOCK OF SE ALDER CT","22-100037","Society","Centennial","4/15/2022",1250,"Weapon Law Violations","Weapons Law Violations",45.517444715,-122.513611531,7686019,681179,"4/15/2022",1
+"454","14700 BLOCK OF SE DIVISION ST","22-84173","Society","Centennial","3/29/2022",1654,"Weapon Law Violations","Weapons Law Violations",45.504121683,-122.511129866,7686534,676307,"3/29/2022",1
+"455","15100 BLOCK OF SE YAMHILL ST","22-344009","Society","Centennial","12/29/2022",1815,"Weapon Law Violations","Weapons Law Violations",45.515845164,-122.507658237,7687530,680558,"12/29/2022",1
+"456","15200 BLOCK OF SE DIVISION ST","22-123813","Society","Centennial","5/10/2022",1823,"Weapon Law Violations","Weapons Law Violations",45.504326482,-122.506478561,7687728,676352,"5/10/2022",1
+"457","15200 BLOCK OF SE MAIN ST","22-224409","Society","Centennial","8/20/2022",1602,"Weapon Law Violations","Weapons Law Violations",45.513549433,-122.506367373,7687840,679713,"8/20/2022",1
+"458","15400 BLOCK OF SE DIVISION ST","22-38920","Society","Centennial","2/10/2022",2212,"Weapon Law Violations","Weapons Law Violations",45.504389891,-122.504260769,7688297,676361,"2/11/2022",1
+"459","15400 BLOCK OF SE DIVISION ST","22-301170","Society","Centennial","11/10/2022",1807,"Weapon Law Violations","Weapons Law Violations",45.504389891,-122.504260769,7688297,676361,"11/10/2022",1
+"460","16000 BLOCK OF E BURNSIDE ST","22-327708","Society","Glenfair","12/10/2022",2155,"Weapon Law Violations","Weapons Law Violations",45.522317563,-122.49803235,7690055,682856,"12/10/2022",1
+"461","16000 BLOCK OF NE HALSEY ST","22-243257","Society","Wilkes","9/9/2022",959,"Weapon Law Violations","Weapons Law Violations",45.533623287,-122.497259173,7690355,686972,"9/9/2022",1
+"462","16000 BLOCK OF SE ALDER ST","22-180140","Society","Centennial","7/6/2022",334,"Weapon Law Violations","Weapons Law Violations",45.517289689,-122.498448623,7689903,681026,"7/6/2022",1
+"463","16100 BLOCK OF NE SANDY BLVD","22-45703","Society","Wilkes","2/17/2022",2153,"Weapon Law Violations","Weapons Law Violations",45.549570903,-122.496488892,7690696,692780,"2/17/2022",1
+"464","16800 BLOCK OF SE POWELL BLVD","22-333591","Society","Centennial","12/17/2022",1207,"Weapon Law Violations","Weapons Law Violations",45.493271468,-122.489521126,7691975,672215,"12/17/2022",1
+"465","16900 BLOCK OF SE LAFAYETTE ST","22-140672","Society","Centennial","5/27/2022",1030,"Weapon Law Violations","Weapons Law Violations",45.496507508,-122.488171557,7692350,673386,"5/27/2022",1
+"466","17000 BLOCK OF NE GLISAN ST","22-803236","Society","","11/10/2022",1115,"Weapon Law Violations","Weapons Law Violations",45.526459648,-122.487467899,7692799,684299,"11/10/2022",1
+"467","BURNSIDE BRG / NW NAITO PKWY","22-204344","Society","Old Town/Chinatown","7/30/2022",1630,"Weapon Law Violations","Weapons Law Violations",45.523102964,-122.670280814,7645930,684281,"7/30/2022",1
+"468","E BURNSIDE ST / NE 94TH AVE","22-19842","Society","Montavilla","1/21/2022",2253,"Weapon Law Violations","Weapons Law Violations",45.522694755,-122.566826944,7672432,683437,"1/21/2022",1
+"469","E BURNSIDE ST / NE 99TH AVE","22-199559","Society","Hazelwood","7/25/2022",2031,"Weapon Law Violations","Weapons Law Violations",45.52274912,-122.562274155,7673599,683427,"7/25/2022",1
+"470","E BURNSIDE ST / NE 99TH AVE","22-334847","Society","Hazelwood","12/18/2022",1917,"Weapon Law Violations","Weapons Law Violations",45.52274912,-122.562274155,7673599,683427,"12/18/2022",1
+"471","E BURNSIDE ST / SE 9TH AVE","22-64432","Society","Buckman West","3/9/2022",1937,"Weapon Law Violations","Weapons Law Violations",45.522917917,-122.656647988,7649421,684120,"3/9/2022",1
+"472","E BURNSIDE ST / SE 160TH AVE","22-239491","Society","Glenfair","9/5/2022",1219,"Weapon Law Violations","Weapons Law Violations",45.522113955,-122.499012606,7689802,682788,"9/5/2022",1
+"473","EB HAWTHORNE BRG AT / EASTEND","22-332295","Society","Hosford-Abernethy","12/15/2022",2344,"Weapon Law Violations","Weapons Law Violations",45.512522667,-122.668284285,7646338,680411,"12/16/2022",1
+"474","I205 FWY NB / NE GLISAN ST&I205 FWY RAMP","22-53801","Society","Hazelwood","2/26/2022",1725,"Weapon Law Violations","Weapons Law Violations",45.531088274,-122.564790395,7673032,686483,"2/26/2022",1
+"475","I205 FWY NB / SE STARK ST","22-7124","Society","Hazelwood","1/9/2022",46,"Weapon Law Violations","Weapons Law Violations",45.51904749,-122.565207252,7672813,682097,"1/9/2022",1
+"476","I205 FWY SB / SE FOSTER RD","22-223737","Society","Lents","8/19/2022",1931,"Weapon Law Violations","Weapons Law Violations",45.479084367,-122.565969999,7672245,667536,"8/19/2022",1
+"477","N DELAWARE AVE / N AINSWORTH ST","22-310140","Society","Arbor Lodge","11/20/2022",1945,"Weapon Law Violations","Weapons Law Violations",45.566360013,-122.69251691,7640661,700201,"11/20/2022",1
+"478","N DIXON ST / N ROSS AVE","22-32020","Society","Eliot","2/3/2022",1623,"Weapon Law Violations","Weapons Law Violations",45.535182258,-122.670481071,7645997,688685,"2/3/2022",1
+"479","N EMERSON ST / N HAIGHT AVE","22-254929","Society","Humboldt","9/21/2022",1645,"Weapon Law Violations","Weapons Law Violations",45.561650057,-122.67005234,7646366,698329,"9/21/2022",1
+"480","N FISKE AVE / N TRENTON ST","22-83841","Society","Portsmouth","3/29/2022",1047,"Weapon Law Violations","Weapons Law Violations",45.58867362,-122.716876513,7634648,708504,"3/29/2022",1
+"481","N LARRABEE AVE / N HANCOCK ST","22-313075","Society","Eliot","11/24/2022",346,"Weapon Law Violations","Weapons Law Violations",45.535427874,-122.673309136,7645275,688794,"11/24/2022",1
+"482","N LOMBARD ST / N GRAVENSTEIN AVE","22-112564","Society","Arbor Lodge","4/28/2022",1435,"Weapon Law Violations","Weapons Law Violations",45.577130733,-122.701465867,7638477,704189,"4/29/2022",1
+"483","N LOMBARD ST / N INTERSTATE AVE","22-91659","Society","Kenton","4/6/2022",930,"Weapon Law Violations","Weapons Law Violations",45.577130358,-122.682193237,7643410,704055,"4/6/2022",1
+"484","N MARINE DR / N LEADBETTER RD","22-106974","Society","St Johns","4/22/2022",2106,"Weapon Law Violations","Weapons Law Violations",45.630107046,-122.744960287,7627881,723804,"4/22/2022",1
+"485","N MARINE DR / N MARTIN LUTHER KING JR BLVD","22-66883","Society","Bridgeton","3/12/2022",915,"Weapon Law Violations","Weapons Law Violations",45.603518285,-122.681481259,7643852,713668,"3/12/2022",1
+"486","N MICHIGAN AVE / N JARRETT ST","22-182602","Society","Humboldt","7/8/2022",1424,"Weapon Law Violations","Weapons Law Violations",45.564811962,-122.676954101,7644630,699529,"7/8/2022",1
+"487","N MIDWAY AVE / N RICHARDS ST","22-138822","Society","St Johns","5/25/2022",1730,"Weapon Law Violations","Weapons Law Violations",45.599092111,-122.734844453,7630155,712428,"5/25/2022",1
+"488","N MIDWAY AVE / N RICHARDS ST","22-146103","Society","St Johns","6/1/2022",1403,"Weapon Law Violations","Weapons Law Violations",45.599092111,-122.734844453,7630155,712428,"6/1/2022",1
+"489","N MISSISSIPPI AVE / N SIMPSON ST","22-289302","Society","Humboldt","10/28/2022",2244,"Weapon Law Violations","Weapons Law Violations",45.565530585,-122.675950476,7644894,699784,"10/28/2022",1
+"490","N PORTLAND RD / N MARINE DR","22-143312","Society","St Johns","5/29/2022",2157,"Weapon Law Violations","Weapons Law Violations",45.613675241,-122.70422606,7638134,717528,"5/29/2022",1
+"491","N TOMAHAWK ISLAND DR / N LOTUS ISLE DR","22-15392","Society","Hayden Island","1/17/2022",1523,"Weapon Law Violations","Weapons Law Violations",45.606395815,-122.669462759,7646955,714634,"1/17/2022",1
+"492","N VANCOUVER AVE / NE COLUMBIA BLVD","22-56857","Society","Piedmont","3/1/2022",2312,"Weapon Law Violations","Weapons Law Violations",45.582930716,-122.667811097,7647148,706070,"3/2/2022",1
+"493","N WAYLAND AVE / N WINCHELL ST","22-189821","Society","Portsmouth","7/15/2022",1907,"Weapon Law Violations","Weapons Law Violations",45.580823475,-122.711345812,7635985,705604,"7/15/2022",1
+"494","NB I205 FWY NO / NE SANDY BLVD","22-79197","Society","Parkrose","3/24/2022",1700,"Weapon Law Violations","Weapons Law Violations",45.558995367,-122.565266946,7673170,696658,"3/24/2022",1
+"495","NB I405 FWY AT / SW COLUMBIA ST","22-23199","Society","Downtown","1/25/2022",1203,"Weapon Law Violations","Weapons Law Violations",45.516251292,-122.688111728,7641294,681907,"1/25/2022",1
+"496","NB I405 FWY AT / SW COLUMBIA ST","22-23233","Society","Downtown","1/25/2022",1246,"Weapon Law Violations","Weapons Law Violations",45.516251292,-122.688111728,7641294,681907,"1/25/2022",1
+"497","NB I405 FWY AT / SW COLUMBIA ST","22-23250","Society","Downtown","1/25/2022",1308,"Weapon Law Violations","Weapons Law Violations",45.516251292,-122.688111728,7641294,681907,"1/25/2022",1
+"498","NE 7TH AVE / NE STANTON ST","22-235062","Society","Irvington","8/31/2022",1805,"Weapon Law Violations","Weapons Law Violations",45.54373329,-122.658582959,7649128,691720,"8/31/2022",1
+"499","NE 13TH AVE / NE HOLLADAY ST","22-157078","Society","Sullivan's Gulch","6/12/2022",2351,"Weapon Law Violations","Weapons Law Violations",45.530095119,-122.65256033,7650538,686708,"6/12/2022",1
+"500","NE 16TH AVE / NE ALBERTA ST","22-157024","Society","Vernon","6/12/2022",2249,"Weapon Law Violations","Weapons Law Violations",45.559087209,-122.648739154,7651798,697249,"6/12/2022",1
+"501","NE 16TH AVE / NE SANDY BLVD","22-162407","Society","Kerns","6/18/2022",26,"Weapon Law Violations","Weapons Law Violations",45.524420208,-122.64953878,7651257,684619,"6/18/2022",1
+"502","NE 33RD AVE / NE KLICKITAT ST","22-55922","Society","Beaumont-Wilshire","3/1/2022",422,"Weapon Law Violations","Weapons Law Violations",45.54673669,-122.630688618,7656301,692625,"3/1/2022",1
+"503","NE 33RD DR / NE MARINE DR","22-80464","Society","Sunderland","3/25/2022",2312,"Weapon Law Violations","Weapons Law Violations",45.60040437,-122.635257552,7655648,712217,"3/26/2022",1
+"504","NE 36TH AVE / NE LOMBARD ST","22-193405","Society","Concordia","7/19/2022",1427,"Weapon Law Violations","Weapons Law Violations",45.571751818,-122.626889676,7657514,701717,"7/19/2022",1
+"505","NE 57TH AVE / NE TILLAMOOK ST","22-309419","Society","Rose City Park","11/20/2022",100,"Weapon Law Violations","Weapons Law Violations",45.537726216,-122.60465382,7662883,689166,"11/20/2022",1
+"506","NE 72ND AVE / NE LOMBARD ST","22-222184","Society","Cully","8/18/2022",158,"Weapon Law Violations","Weapons Law Violations",45.562665198,-122.588866171,7667162,698151,"8/18/2022",1
+"507","NE 81ST AVE / NE GLISAN ST&FLANDERS ST ALY","22-313519","Society","Montavilla","11/24/2022",1839,"Weapon Law Violations","Weapons Law Violations",45.525996217,-122.580003354,7669087,684727,"11/24/2022",1
+"508","NE 81ST AVE / NE SISKIYOU ST","22-336894","Society","Roseway","12/21/2022",48,"Weapon Law Violations","Weapons Law Violations",45.544521132,-122.579834973,7669304,691478,"12/21/2022",1
+"509","NE 82ND AVE / NE JONESMORE ST","22-265094","Society","Madison South","10/2/2022",1217,"Weapon Law Violations","Weapons Law Violations",45.533959578,-122.579010799,7669416,687623,"10/2/2022",1
+"510","NE 82ND AVE / NE JONESMORE ST","22-318416","Society","Madison South","11/30/2022",926,"Weapon Law Violations","Weapons Law Violations",45.533959578,-122.579010799,7669416,687623,"11/30/2022",1
+"511","NE 82ND AVE / NE LOMBARD ST","22-279494","Society","Sumner","10/17/2022",2349,"Weapon Law Violations","Weapons Law Violations",45.562674188,-122.577617967,7670042,698080,"10/18/2022",1
+"512","NE 82ND AVE / NE MILTON ST","22-226112","Society","Roseway","8/22/2022",1049,"Weapon Law Violations","Weapons Law Violations",45.548862322,-122.578725011,7669629,693053,"8/22/2022",1
+"513","NE 82ND AVE / NE OREGON ST","22-182004","Society","Montavilla","7/7/2022",2319,"Weapon Law Violations","Weapons Law Violations",45.528384299,-122.579029127,7669359,685591,"7/8/2022",1
+"514","NE 82ND AVE / NE SANDY BLVD","22-7245","Society","Madison South","1/9/2022",458,"Weapon Law Violations","Weapons Law Violations",45.552427235,-122.578668153,7669677,694352,"1/9/2022",1
+"515","NE 82ND AVE / NE THOMPSON ST","22-162190","Society","Madison South","6/17/2022",1951,"Weapon Law Violations","Weapons Law Violations",45.539066926,-122.578924576,7669486,689484,"6/17/2022",1
+"516","NE 97TH AVE / E BURNSIDE ST","22-137341","Society","Hazelwood","5/24/2022",1113,"Weapon Law Violations","Weapons Law Violations",45.52273874,-122.563616399,7673255,683432,"5/24/2022",1
+"517","NE 97TH AVE / NE SANDY BLVD","22-135020","Society","Parkrose","5/22/2022",314,"Weapon Law Violations","Weapons Law Violations",45.558792258,-122.562826458,7673793,696568,"5/22/2022",1
+"518","NE 99TH AVE / NE EVERETT CT","22-333772","Society","Hazelwood","12/17/2022",1542,"Weapon Law Violations","Weapons Law Violations",45.525274777,-122.562186349,7673645,684347,"12/17/2022",1
+"519","NE 102ND AVE / NE SACRAMENTO ST","22-48146","Society","Parkrose Heights","2/20/2022",1647,"Weapon Law Violations","Weapons Law Violations",45.53947426,-122.557966526,7674858,689495,"2/20/2022",1
+"520","NE 105TH AVE / NE SANDY BLVD","22-343080","Society","Parkrose","12/28/2022",1721,"Weapon Law Violations","Weapons Law Violations",45.558846856,-122.554720734,7675869,696535,"12/28/2022",1
+"521","NE 105TH AVE / NE SIMPSON ST","22-44684","Society","Parkrose","2/16/2022",2346,"Weapon Law Violations","Weapons Law Violations",45.565310758,-122.554712662,7675931,698891,"2/16/2022",1
+"522","NE 117TH AVE / NE RUSSELL ST","22-40734","Society","Parkrose Heights","2/12/2022",2150,"Weapon Law Violations","Weapons Law Violations",45.541307044,-122.542580033,7678816,690063,"2/12/2022",1
+"523","NE 122ND AVE / E BURNSIDE ST","22-170911","Society","Hazelwood","6/26/2022",2247,"Weapon Law Violations","Weapons Law Violations",45.52258553,-122.537765536,7679877,683208,"6/26/2022",1
+"524","NE 122ND AVE / NE AIRPORT WAY","22-95825","Society","Argay","4/10/2022",2135,"Weapon Law Violations","Weapons Law Violations",45.565544463,-122.533539482,7681354,698839,"4/10/2022",1
+"525","NE 122ND AVE / NE HOLLADAY ST","22-275325","Society","Hazelwood","10/13/2022",1625,"Weapon Law Violations","Weapons Law Violations",45.530241306,-122.537692925,7679966,685998,"10/13/2022",1
+"526","NE 122ND AVE / NE SANDY BLVD","22-162112","Society","Argay","6/17/2022",1830,"Weapon Law Violations","Weapons Law Violations",45.557204384,-122.537712176,7680209,695826,"6/17/2022",1
+"527","NE 122ND AVE / NE SANDY BLVD","22-176801","Society","Argay","7/2/2022",1826,"Weapon Law Violations","Weapons Law Violations",45.557204384,-122.537712176,7680209,695826,"7/2/2022",1
+"528","NE 122ND AVE / NE SISKIYOU ST","22-343206","Society","Russell","12/28/2022",1944,"Weapon Law Violations","Weapons Law Violations",45.544482361,-122.537419413,7680167,691187,"12/28/2022",1
+"529","NE 137TH AVE / NE HALSEY ST","22-111921","Society","Hazelwood","4/27/2022",2139,"Weapon Law Violations","Weapons Law Violations",45.533587815,-122.522038297,7684007,687117,"4/27/2022",1
+"530","NE 148TH AVE / NE COUCH ST","22-44626","Society","Hazelwood","2/16/2022",2122,"Weapon Law Violations","Weapons Law Violations",45.523636722,-122.510642399,7686836,683417,"2/16/2022",1
+"531","NE 160TH AVE / NE HALSEY ST","22-60414","Society","Wilkes","3/5/2022",1500,"Weapon Law Violations","Weapons Law Violations",45.533664348,-122.498369252,7690071,686994,"3/5/2022",1
+"532","NE 162ND AVE / NE FREMONT ST","22-75483","Society","Wilkes","3/21/2022",455,"Weapon Law Violations","Weapons Law Violations",45.548154035,-122.495927542,7690827,692260,"3/21/2022",1
+"533","NE ALDERWOOD RD / NE COLUMBIA BLVD","22-327379","Society","Cully","12/10/2022",1343,"Weapon Law Violations","Weapons Law Violations",45.566609663,-122.58830441,7667343,699585,"12/10/2022",1
+"534","NE BROADWAY / NE 33RD AVE","22-185153","Society","Grant Park","7/11/2022",250,"Weapon Law Violations","Weapons Law Violations",45.535159095,-122.630663965,7656196,688405,"7/11/2022",1
+"535","NE BRYCE ST / NE 32ND AVE","22-52798","Society","Alameda","2/25/2022",1543,"Weapon Law Violations","Weapons Law Violations",45.550807432,-122.632801758,7655799,694123,"2/25/2022",1
+"536","NE CULLY BLVD / NE LOMBARD ST","22-156870","Society","Cully","6/12/2022",1915,"Weapon Law Violations","Weapons Law Violations",45.563782159,-122.593223232,7666057,698587,"6/12/2022",1
+"537","NE DAVIS ST / NE 3RD AVE","22-301755","Society","Kerns","11/11/2022",1042,"Weapon Law Violations","Weapons Law Violations",45.524364827,-122.662725592,7647878,684689,"11/11/2022",1
+"538","NE EVERETT ST / NE 97TH AVE","22-146520","Society","Hazelwood","6/1/2022",2113,"Weapon Law Violations","Weapons Law Violations",45.524731303,-122.563575631,7673284,684158,"6/1/2022",1
+"539","NE FREMONT DR / NE 84TH AVE","22-233507","Society","Madison South","8/30/2022",828,"Weapon Law Violations","Weapons Law Violations",45.547483132,-122.576554249,7670172,692536,"8/30/2022",1
+"540","NE FREMONT ST / NE 157TH PL","22-198691","Society","Wilkes","7/25/2022",26,"Weapon Law Violations","Weapons Law Violations",45.547912127,-122.501162942,7689484,692205,"7/25/2022",1
+"541","NE GLISAN ST / NE 80TH AVE","22-102621","Society","Montavilla","4/18/2022",811,"Weapon Law Violations","Weapons Law Violations",45.526430842,-122.581455671,7668719,684895,"4/18/2022",1
+"542","NE GLISAN ST / NE 99TH AVE","22-75237","Society","Hazelwood","3/20/2022",2149,"Weapon Law Violations","Weapons Law Violations",45.526299339,-122.56196595,7673711,684719,"3/20/2022",1
+"543","NE GLISAN ST / NE 99TH AVE","22-132773","Society","Hazelwood","5/19/2022",1851,"Weapon Law Violations","Weapons Law Violations",45.526299339,-122.56196595,7673711,684719,"5/19/2022",1
+"544","NE GLISAN ST / NE 99TH AVE","22-143216","Society","Hazelwood","5/29/2022",2002,"Weapon Law Violations","Weapons Law Violations",45.526299339,-122.56196595,7673711,684719,"5/29/2022",1
+"545","NE GLISAN ST / NE 99TH AVE","22-188004","Society","Hazelwood","7/13/2022",2121,"Weapon Law Violations","Weapons Law Violations",45.526299339,-122.56196595,7673711,684719,"7/13/2022",1
+"546","NE GLISAN ST / NE 102ND AVE","22-140050","Society","Hazelwood","5/26/2022",1816,"Weapon Law Violations","Weapons Law Violations",45.526271695,-122.558151511,7674688,684684,"5/26/2022",1
+"547","NE GLISAN ST / NE 102ND AVE","22-239807","Society","Hazelwood","9/5/2022",1907,"Weapon Law Violations","Weapons Law Violations",45.526271695,-122.558151511,7674688,684684,"9/5/2022",1
+"548","NE GLISAN ST / NE 102ND AVE","22-279364","Society","Hazelwood","10/17/2022",2053,"Weapon Law Violations","Weapons Law Violations",45.526271695,-122.558151511,7674688,684684,"10/17/2022",1
+"549","NE GLISAN ST / NE 102ND AVE","22-344884","Society","Hazelwood","12/30/2022",1931,"Weapon Law Violations","Weapons Law Violations",45.526271695,-122.558151511,7674688,684684,"12/30/2022",1
+"550","NE GLISAN ST / NE 122ND AVE","22-268708","Society","Hazelwood","10/6/2022",1430,"Weapon Law Violations","Weapons Law Violations",45.526292331,-122.537750258,7679915,684559,"10/6/2022",1
+"551","NE GLISAN ST / NE 172ND AVE","22-86342","Society","","3/31/2022",2152,"Weapon Law Violations","Weapons Law Violations",45.526414436,-122.486115833,7693145,684274,"3/31/2022",1
+"552","NE GRAND AVE / NE PRESCOTT ST","22-127071","Society","King","5/14/2022",545,"Weapon Law Violations","Weapons Law Violations",45.555499748,-122.660534116,7648743,696022,"5/14/2022",1
+"553","NE HALSEY ST / NE 117TH AVE","22-252781","Society","Hazelwood","9/19/2022",1231,"Weapon Law Violations","Weapons Law Violations",45.533527146,-122.542690473,7678716,687228,"9/19/2022",1
+"554","NE HALSEY ST / NE 128TH AVE","22-101038","Society","Hazelwood","4/16/2022",1407,"Weapon Law Violations","Weapons Law Violations",45.533542482,-122.531143939,7681674,687159,"4/16/2022",1
+"555","NE HANCOCK ST / NE 66TH AVE","22-178375","Society","Madison South","7/4/2022",1115,"Weapon Law Violations","Weapons Law Violations",45.536021914,-122.595674057,7665167,688485,"7/4/2022",1
+"556","NE HASSALO ST / NE 91ST AVE","22-342955","Society","Montavilla","12/28/2022",1428,"Weapon Law Violations","Weapons Law Violations",45.530860241,-122.569841081,7671736,686433,"12/28/2022",1
+"557","NE HOLLADAY ST / NE 24TH AVE","22-172045","Society","Kerns","6/28/2022",39,"Weapon Law Violations","Weapons Law Violations",45.52995535,-122.641390817,7653398,686581,"6/28/2022",1
+"558","NE IRVING ST / NE 12TH AVE","22-157083","Society","Kerns","6/12/2022",2357,"Weapon Law Violations","Weapons Law Violations",45.527944651,-122.653556144,7650262,685931,"6/12/2022",1
+"559","NE KILLINGSWORTH ST / NE 36TH AVE","22-320657","Society","Concordia","12/2/2022",1715,"Weapon Law Violations","Weapons Law Violations",45.562750059,-122.626595196,7657503,698434,"12/2/2022",1
+"560","NE KLICKITAT ST / NE 83RD AVE","22-239404","Society","Madison South","9/5/2022",1032,"Weapon Law Violations","Weapons Law Violations",45.546336665,-122.577750063,7669855,692126,"9/5/2022",1
+"561","NE KLICKITAT ST / NE 108TH AVE","22-269868","Society","Parkrose Heights","10/7/2022",2037,"Weapon Law Violations","Weapons Law Violations",45.546786725,-122.551468891,7676590,692118,"10/7/2022",1
+"562","NE MARTIN LUTHER KING JR BLVD / NE EVERETT ST","22-213552","Society","Kerns","8/9/2022",642,"Weapon Law Violations","Weapons Law Violations",45.525061694,-122.661706065,7648146,684936,"8/9/2022",1
+"563","NE MARTIN LUTHER KING JR BLVD / NE RUSSELL ST","22-183950","Society","Eliot","7/10/2022",29,"Weapon Law Violations","Weapons Law Violations",45.541262102,-122.661604662,7648330,690840,"7/10/2022",1
+"564","NE MARTIN LUTHER KING JR BLVD / NE SUMNER ST","22-143454","Society","King","5/30/2022",125,"Weapon Law Violations","Weapons Law Violations",45.560631917,-122.661471622,7648553,697899,"5/30/2022",1
+"565","NE MARX ST / NE 122ND AVE","22-46484","Society","Argay","2/18/2022",1747,"Weapon Law Violations","Weapons Law Violations",45.559505148,-122.537771367,7680215,696665,"2/18/2022",1
+"566","NE OREGON ST / NE 127TH AVE","22-94071","Society","Hazelwood","4/9/2022",6,"Weapon Law Violations","Weapons Law Violations",45.52813958,-122.533210658,7681095,685203,"4/9/2022",1
+"567","NE PACIFIC ST / NE 99TH AVE","22-276003","Society","Hazelwood","10/14/2022",1013,"Weapon Law Violations","Weapons Law Violations",45.529477257,-122.561917428,7673753,685877,"10/14/2022",1
+"568","NE PRESCOTT ST / NE 65TH AVE","22-176284","Society","Roseway","7/2/2022",308,"Weapon Law Violations","Weapons Law Violations",45.555449373,-122.596266564,7665199,695570,"7/2/2022",1
+"569","NE PRESCOTT ST / NE 82ND AVE","22-260544","Society","Sumner","9/27/2022",1730,"Weapon Law Violations","Weapons Law Violations",45.555424111,-122.578617818,7669718,695444,"9/27/2022",1
+"570","NE PRESCOTT ST / NE SANDY BLVD","22-7251","Society","Sumner","1/9/2022",521,"Weapon Law Violations","Weapons Law Violations",45.555691289,-122.570653084,7671760,695489,"1/9/2022",1
+"571","NE PRESCOTT ST / NE SANDY BLVD","22-106916","Society","Sumner","4/22/2022",2005,"Weapon Law Violations","Weapons Law Violations",45.555691289,-122.570653084,7671760,695489,"4/22/2022",1
+"572","NE RODNEY AVE / NE BEECH ST","22-148410","Society","Boise","6/3/2022",1934,"Weapon Law Violations","Weapons Law Violations",45.549536801,-122.664672823,7647625,693877,"6/3/2022",1
+"573","NE RODNEY AVE / NE KNOTT ST","22-73167","Society","Eliot","3/18/2022",1818,"Weapon Law Violations","Weapons Law Violations",45.54188668,-122.664135082,7647688,691085,"3/18/2022",1
+"574","NE SANDY BLVD / NE 100TH AVE","22-51091","Society","Parkrose","2/23/2022",1843,"Weapon Law Violations","Weapons Law Violations",45.5592969,-122.559775096,7674579,696732,"2/23/2022",1
+"575","NE SANDY BLVD / NE 102ND AVE","22-300568","Society","Parkrose","11/10/2022",23,"Weapon Law Violations","Weapons Law Violations",45.559118893,-122.55776513,7675092,696654,"11/10/2022",1
+"576","NE SANDY BLVD / NE 109TH AVE","22-210470","Society","Parkrose","8/5/2022",2329,"Weapon Law Violations","Weapons Law Violations",45.558483309,-122.550649844,7676908,696376,"8/6/2022",1
+"577","NE SANDY BLVD / NE 118TH AVE","22-113210","Society","Parkrose","4/29/2022",845,"Weapon Law Violations","Weapons Law Violations",45.55762769,-122.54137887,7679274,696004,"4/29/2022",1
+"578","NE SANDY BLVD / NE 125TH PL","22-302941","Society","Argay","11/12/2022",1930,"Weapon Law Violations","Weapons Law Violations",45.556453012,-122.533198057,7681358,695523,"11/12/2022",1
+"579","NE SANDY BLVD / NE 148TH AVE","22-157864","Society","Wilkes","6/13/2022",1938,"Weapon Law Violations","Weapons Law Violations",45.552411127,-122.510302952,7687184,693903,"6/13/2022",1
+"580","NE SISKIYOU ST / NE 126TH CT","22-288475","Society","Russell","10/28/2022",124,"Weapon Law Violations","Weapons Law Violations",45.544509172,-122.533426141,7681190,691171,"10/28/2022",1
+"581","NW 2ND AVE / NW COUCH ST","22-83186","Society","Old Town/Chinatown","3/28/2022",1841,"Weapon Law Violations","Weapons Law Violations",45.523850469,-122.672393687,7645396,684568,"3/28/2022",1
+"582","NW 2ND AVE / NW COUCH ST","22-315521","Society","Old Town/Chinatown","11/27/2022",203,"Weapon Law Violations","Weapons Law Violations",45.523850469,-122.672393687,7645396,684568,"11/27/2022",1
+"583","NW 2ND AVE / NW DAVIS ST","22-303099","Society","Old Town/Chinatown","11/12/2022",2246,"Weapon Law Violations","Weapons Law Violations",45.524563381,-122.672417062,7645397,684828,"11/12/2022",1
+"584","NW 2ND AVE / NW EVERETT ST","22-197867","Society","Old Town/Chinatown","7/24/2022",116,"Weapon Law Violations","Weapons Law Violations",45.52528148,-122.672456249,7645394,685090,"7/24/2022",1
+"585","NW 3RD AVE / NW COUCH ST","22-53792","Society","Old Town/Chinatown","2/26/2022",1708,"Weapon Law Violations","Weapons Law Violations",45.523831293,-122.673407781,7645136,684568,"2/26/2022",1
+"586","NW 3RD AVE / NW FLANDERS ST","22-28927","Society","Old Town/Chinatown","1/31/2022",1223,"Weapon Law Violations","Weapons Law Violations",45.525969877,-122.673485746,7645137,685348,"1/31/2022",1
+"587","NW 3RD AVE / NW FLANDERS ST","22-285055","Society","Old Town/Chinatown","10/24/2022",733,"Weapon Law Violations","Weapons Law Violations",45.525969877,-122.673485746,7645137,685348,"10/24/2022",1
+"588","NW 3RD AVE / NW GLISAN ST","22-121361","Society","Old Town/Chinatown","5/8/2022",400,"Weapon Law Violations","Weapons Law Violations",45.526800385,-122.673529251,7645134,685651,"5/8/2022",1
+"589","NW 3RD AVE / W BURNSIDE ST","22-318933","Society","Old Town/Chinatown","11/30/2022",1941,"Weapon Law Violations","Weapons Law Violations",45.52312416,-122.673369003,7645139,684310,"11/30/2022",1
+"590","NW 4TH AVE / NW DAVIS ST","22-209718","Society","Old Town/Chinatown","8/5/2022",346,"Weapon Law Violations","Weapons Law Violations",45.524525018,-122.674445275,7644877,684828,"8/5/2022",1
+"591","NW 4TH AVE / NW DAVIS ST","22-276467","Society","Old Town/Chinatown","10/14/2022",2018,"Weapon Law Violations","Weapons Law Violations",45.524525018,-122.674445275,7644877,684828,"10/14/2022",1
+"592","NW 5TH AVE / NW DAVIS ST","22-27705","Society","Old Town/Chinatown","1/29/2022",2350,"Weapon Law Violations","Weapons Law Violations",45.524505823,-122.67545938,7644617,684828,"1/30/2022",1
+"593","NW 5TH AVE / NW HOYT ST","22-31704","Society","Old Town/Chinatown","2/3/2022",1016,"Weapon Law Violations","Weapons Law Violations",45.527357242,-122.675564739,7644618,685868,"2/3/2022",1
+"594","NW 5TH AVE / NW HOYT ST","22-84884","Society","Old Town/Chinatown","3/30/2022",1000,"Weapon Law Violations","Weapons Law Violations",45.527357242,-122.675564739,7644618,685868,"3/30/2022",1
+"595","NW 6TH AVE / NW HOYT ST","22-44897","Society","Old Town/Chinatown","2/17/2022",700,"Weapon Law Violations","Weapons Law Violations",45.527340779,-122.676578999,7644358,685869,"2/17/2022",1
+"596","NW 10TH AVE / NW EVERETT ST","22-132336","Society","Pearl","5/19/2022",923,"Weapon Law Violations","Weapons Law Violations",45.52511619,-122.681181555,7643157,685090,"5/19/2022",1
+"597","NW 10TH AVE / W BURNSIDE ST","22-146616","Society","Pearl","6/1/2022",2256,"Weapon Law Violations","Weapons Law Violations",45.522980129,-122.681115108,7643153,684311,"6/1/2022",1
+"598","NW 16TH AVE / NW KEARNEY ST","22-227308","Society","Northwest","8/23/2022",1523,"Weapon Law Violations","Weapons Law Violations",45.529282641,-122.687450726,7641592,686652,"8/23/2022",1
+"599","NW 18TH AVE / NW COUCH ST","22-334831","Society","Northwest","12/18/2022",1854,"Weapon Law Violations","Weapons Law Violations",45.523541648,-122.689243584,7641076,684572,"12/18/2022",1
+"600","NW 23RD AVE / NW FLANDERS ST","22-1324","Society","Northwest","1/2/2022",1537,"Weapon Law Violations","Weapons Law Violations",45.525511449,-122.698449421,7638737,685354,"1/2/2022",1
+"601","NW 24TH AVE / NW WESTOVER RD","22-266790","Society","Northwest","10/1/2022",2330,"Weapon Law Violations","Weapons Law Violations",45.525435439,-122.700413755,7638233,685340,"10/4/2022",1
+"602","NW BROADWAY / NW COUCH ST","22-260917","Society","Old Town/Chinatown","9/28/2022",110,"Weapon Law Violations","Weapons Law Violations",45.523757238,-122.677464256,7644096,684569,"9/28/2022",1
+"603","NW BROADWAY / NW EVERETT ST","22-151835","Society","Old Town/Chinatown","6/7/2022",941,"Weapon Law Violations","Weapons Law Violations",45.525182984,-122.677515033,7644097,685089,"6/7/2022",1
+"604","NW COUCH ST / NW 6TH AVE","22-72596","Society","Old Town/Chinatown","3/18/2022",527,"Weapon Law Violations","Weapons Law Violations",45.523776451,-122.676450164,7644356,684569,"3/18/2022",1
+"605","NW COUCH ST / NW 11TH AVE","22-236912","Society","Pearl","9/2/2022",1724,"Weapon Law Violations","Weapons Law Violations",45.523674007,-122.682140979,7642897,684571,"9/2/2022",1
+"606","NW DAVIS ST / NW BROADWAY","22-279728","Society","Old Town/Chinatown","10/18/2022",837,"Weapon Law Violations","Weapons Law Violations",45.524470075,-122.677491594,7644096,684829,"10/18/2022",1
+"607","NW DAVIS ST / NW BROADWAY","22-283130","Society","Old Town/Chinatown","10/22/2022",100,"Weapon Law Violations","Weapons Law Violations",45.524470075,-122.677491594,7644096,684829,"10/22/2022",1
+"608","NW EVERETT ST / NW 3RD AVE","22-114662","Society","Old Town/Chinatown","4/30/2022",2200,"Weapon Law Violations","Weapons Law Violations",45.525257041,-122.673458457,7645137,685088,"4/30/2022",1
+"609","NW FLANDERS ST / NW 2ND AVE","22-18823","Society","Old Town/Chinatown","1/21/2022",4,"Weapon Law Violations","Weapons Law Violations",45.525989055,-122.672471614,7645397,685348,"1/21/2022",1
+"610","NW FLANDERS ST / NW BROADWAY","22-3731","Society","Old Town/Chinatown","1/5/2022",1220,"Weapon Law Violations","Weapons Law Violations",45.52589582,-122.677542373,7644097,685349,"1/5/2022",1
+"611","NW GLISAN ST / NW 2ND AVE","22-111566","Society","Old Town/Chinatown","4/27/2022",1434,"Weapon Law Violations","Weapons Law Violations",45.52670167,-122.672510592,7645394,685608,"4/27/2022",1
+"612","NW GLISAN ST / NW 6TH AVE","22-126237","Society","Old Town/Chinatown","5/13/2022",826,"Weapon Law Violations","Weapons Law Violations",45.526630759,-122.676547876,7644359,685610,"5/13/2022",1
+"613","NW GLISAN ST / NW 6TH AVE","22-268213","Society","Old Town/Chinatown","10/5/2022",2208,"Weapon Law Violations","Weapons Law Violations",45.526630759,-122.676547876,7644359,685610,"10/5/2022",1
+"614","NW GLISAN ST / NW PARK AVE","22-9578","Society","Pearl","1/11/2022",1409,"Weapon Law Violations","Weapons Law Violations",45.526577674,-122.679204042,7643678,685609,"1/11/2022",1
+"615","NW HOYT ST / NW 9TH AVE","22-275589","Society","Pearl","10/13/2022",2208,"Weapon Law Violations","Weapons Law Violations",45.527274014,-122.680245662,7643418,685870,"10/13/2022",1
+"616","NW IRVING ST / NW 5TH AVE","22-202266","Society","Old Town/Chinatown","7/28/2022",1120,"Weapon Law Violations","Weapons Law Violations",45.528069856,-122.675603757,7644615,686128,"7/28/2022",1
+"617","NW RALEIGH ST / NW 20TH AVE","22-334407","Society","Northwest","12/18/2022",1133,"Weapon Law Violations","Weapons Law Violations",45.534179159,-122.692683272,7640300,688473,"12/18/2022",1
+"618","NW STATION WAY / NW MARSHALL ST","22-100035","Society","Pearl","4/15/2022",1250,"Weapon Law Violations","Weapons Law Violations",45.531065037,-122.678982025,7643779,687243,"4/15/2022",1
+"619","NW THURMAN ST / NW 21ST AVE","22-218618","Society","Northwest","8/14/2022",1225,"Weapon Law Violations","Weapons Law Violations",45.535568914,-122.694763141,7639781,688994,"8/14/2022",1
+"620","NW VAUGHN ST / NW 23RD AVE","22-217825","Society","Northwest","8/13/2022",1254,"Weapon Law Violations","Weapons Law Violations",45.536917097,-122.698871644,7638742,689514,"8/13/2022",1
+"621","NW VAUGHN ST / NW 23RD AVE","22-220542","Society","Northwest","8/16/2022",1137,"Weapon Law Violations","Weapons Law Violations",45.536917097,-122.698871644,7638742,689514,"8/16/2022",1
+"622","S MACADAM AVE / S PENDLETON ST","22-123149","Society","South Portland","5/9/2022",2337,"Weapon Law Violations","Weapons Law Violations",45.481112811,-122.673372862,7644726,668998,"5/9/2022",1
+"623","S NEBRASKA ST / S MACADAM AVE","22-178883","Society","South Portland","7/4/2022",2310,"Weapon Law Violations","Weapons Law Violations",45.477243557,-122.672101677,7645014,667579,"7/5/2022",1
+"624","SB I205 BRG AT / MIDSPAN","22-53783","Society","","2/26/2022",1803,"Weapon Law Violations","Weapons Law Violations",45.583673814,-122.543894804,7678870,705514,"2/26/2022",1
+"625","SB I205 FWY AT / NE GLISAN ST","22-235561","Society","Montavilla","9/1/2022",850,"Weapon Law Violations","Weapons Law Violations",45.526348986,-122.565465037,7672815,684760,"9/1/2022",1
+"626","SB I205 FWY AT / NE KILLINGSWORTH ST","22-131771","Society","","5/18/2022",1915,"Weapon Law Violations","Weapons Law Violations",45.560979727,-122.563542598,7673630,697370,"5/18/2022",1
+"627","SB I405 FWY AT / SW 4TH AVE","22-10890","Society","Downtown","1/12/2022",1943,"Weapon Law Violations","Weapons Law Violations",45.506295242,-122.682156103,7642722,678237,"1/12/2022",1
+"628","SE 6TH AVE / SE ASH ST","22-221475","Society","Buckman West","8/17/2022",1052,"Weapon Law Violations","Weapons Law Violations",45.521502465,-122.659701016,7648625,683625,"8/17/2022",1
+"629","SE 6TH AVE / SE WASHINGTON ST","22-201134","Society","Buckman West","7/27/2022",839,"Weapon Law Violations","Weapons Law Violations",45.518648681,-122.659721266,7648592,682585,"7/27/2022",1
+"630","SE 8TH AVE / SE TAYLOR ST","22-325648","Society","Buckman West","12/8/2022",1512,"Weapon Law Violations","Weapons Law Violations",45.515070219,-122.657715839,7649071,681267,"12/8/2022",1
+"631","SE 16TH AVE / SE SCHILLER ST","22-279894","Society","Brooklyn","10/18/2022",1321,"Weapon Law Violations","Weapons Law Violations",45.487556776,-122.649372761,7650942,671182,"10/18/2022",1
+"632","SE 28TH AVE / SE RAYMOND ST","22-233770","Society","Reed","8/30/2022",1238,"Weapon Law Violations","Weapons Law Violations",45.487073331,-122.637496583,7653982,670925,"8/30/2022",1
+"633","SE 37TH AVE / SE OAK ST","22-110229","Society","Laurelhurst","4/26/2022",1404,"Weapon Law Violations","Weapons Law Violations",45.520287315,-122.625847865,7657287,682952,"4/26/2022",1
+"634","SE 44TH AVE / SE HOLGATE BLVD","22-327094","Society","Creston-Kenilworth","12/10/2022",458,"Weapon Law Violations","Weapons Law Violations",45.490290626,-122.616814553,7659315,671958,"12/10/2022",1
+"635","SE 44TH AVE / SE WOODSTOCK BLVD","22-319115","Society","Woodstock","12/1/2022",39,"Weapon Law Violations","Weapons Law Violations",45.479180436,-122.617473177,7659040,667913,"12/1/2022",1
+"636","SE 53RD AVE / SE LONG ST","22-264468","Society","Woodstock","10/1/2022",2114,"Weapon Law Violations","Weapons Law Violations",45.489100034,-122.607857045,7661600,671464,"10/1/2022",1
+"637","SE 57TH AVE / SE FRANKLIN ST","22-194741","Society","South Tabor","7/20/2022",2016,"Weapon Law Violations","Weapons Law Violations",45.498903804,-122.604073673,7662663,675012,"7/20/2022",1
+"638","SE 62ND AVE / SE FRANCIS ST","22-32540","Society","Foster-Powell","2/4/2022",557,"Weapon Law Violations","Weapons Law Violations",45.494478455,-122.599419624,7663814,673368,"2/4/2022",1
+"639","SE 62ND AVE / SE KNAPP ST","22-107162","Society","Brentwood-Darlington","4/23/2022",101,"Weapon Law Violations","Weapons Law Violations",45.470013295,-122.599580397,7663541,664452,"4/23/2022",1
+"640","SE 70TH AVE / SE WOODWARD ST","22-304873","Society","South Tabor","11/15/2022",48,"Weapon Law Violations","Weapons Law Violations",45.501427319,-122.591639279,7665874,675849,"11/15/2022",1
+"641","SE 76TH AVE / SE HARRISON ST","22-315363","Society","Montavilla","11/26/2022",2122,"Weapon Law Violations","Weapons Law Violations",45.508671028,-122.585268697,7667575,678447,"11/26/2022",1
+"642","SE 76TH AVE / SE OGDEN ST","22-206202","Society","Brentwood-Darlington","8/1/2022",1437,"Weapon Law Violations","Weapons Law Violations",45.470988916,-122.585492622,7667163,664714,"8/1/2022",1
+"643","SE 77TH AVE / SE BYBEE BLVD","22-264480","Society","Brentwood-Darlington","10/1/2022",2141,"Weapon Law Violations","Weapons Law Violations",45.47236288,-122.584014423,7667555,665205,"10/1/2022",1
+"644","SE 82ND AVE / SE ALDER ST","22-228957","Society","Montavilla","8/25/2022",917,"Weapon Law Violations","Weapons Law Violations",45.517652229,-122.57898353,7669270,681679,"8/25/2022",1
+"645","SE 82ND AVE / SE COOPER ST","22-6253","Society","Brentwood-Darlington","1/8/2022",112,"Weapon Law Violations","Weapons Law Violations",45.473522553,-122.579069345,7668834,665595,"1/8/2022",1
+"646","SE 82ND AVE / SE DUKE ST","22-209374","Society","Lents","8/4/2022",1827,"Weapon Law Violations","Weapons Law Violations",45.475865676,-122.579065377,7668857,666449,"8/4/2022",1
+"647","SE 82ND AVE / SE INSLEY ST","22-108324","Society","Lents","4/24/2022",700,"Weapon Law Violations","Weapons Law Violations",45.483536415,-122.578936527,7668962,669244,"4/24/2022",1
+"648","SE 82ND AVE / SE MILL ST","22-107960","Society","Montavilla","4/23/2022",2101,"Weapon Law Violations","Weapons Law Violations",45.510091052,-122.578671617,7669279,678921,"4/23/2022",1
+"649","SE 82ND AVE / SE POWELL BLVD","22-276601","Society","South Tabor","10/15/2022",5,"Weapon Law Violations","Weapons Law Violations",45.497414849,-122.578714915,7669149,674301,"10/15/2022",1
+"650","SE 84TH AVE / SE MORRISON ST","22-308315","Society","Montavilla","11/18/2022",1638,"Weapon Law Violations","Weapons Law Violations",45.516898564,-122.577117818,7669741,681392,"11/18/2022",1
+"651","SE 92ND AVE / SE FOSTER RD","22-174269","Society","Lents","6/30/2022",337,"Weapon Law Violations","Weapons Law Violations",45.479816025,-122.568609619,7671575,667820,"6/30/2022",1
+"652","SE 92ND AVE / SE HOLGATE BLVD","22-5462","Society","Lents","1/7/2022",427,"Weapon Law Violations","Weapons Law Violations",45.490022279,-122.568606771,7671671,671540,"1/7/2022",1
+"653","SE 92ND AVE / SE HOLGATE BLVD","22-104182","Society","Lents","4/19/2022",2016,"Weapon Law Violations","Weapons Law Violations",45.490022279,-122.568606771,7671671,671540,"4/19/2022",1
+"654","SE 92ND AVE / SE SALMON ST","22-289997","Society","Montavilla","10/29/2022",1658,"Weapon Law Violations","Weapons Law Violations",45.5145213,-122.569132372,7671765,680473,"10/29/2022",1
+"655","SE 96TH DR / SE DIVISION ST","22-39470","Society","Powellhurst-Gilbert","2/11/2022",1335,"Weapon Law Violations","Weapons Law Violations",45.50437455,-122.563237903,7673181,676736,"2/11/2022",1
+"656","SE 99TH AVE / SE OAK ST","22-217478","Society","Hazelwood","8/13/2022",303,"Weapon Law Violations","Weapons Law Violations",45.519761149,-122.56228662,7673568,682338,"8/13/2022",1
+"657","SE 99TH AVE / SE STARK ST","22-110918","Society","Hazelwood","4/26/2022",2350,"Weapon Law Violations","Weapons Law Violations",45.51905581,-122.56230003,7673558,682081,"4/27/2022",1
+"658","SE 99TH AVE / SE WASHINGTON ST","22-15717","Society","Hazelwood","1/17/2022",2351,"Weapon Law Violations","Weapons Law Violations",45.518323124,-122.562308544,7673549,681814,"1/18/2022",1
+"659","SE 100TH AVE / SE LONG ST","22-240311","Society","Lents","9/6/2022",842,"Weapon Law Violations","Weapons Law Violations",45.488023783,-122.560888855,7673631,670761,"9/6/2022",1
+"660","SE 100TH AVE / SE MAIN ST","22-330732","Society","Hazelwood","12/14/2022",950,"Weapon Law Violations","Weapons Law Violations",45.513994372,-122.560898682,7673870,680227,"12/14/2022",1
+"661","SE 101ST AVE / SE DIVISION ST","22-100695","Society","Hazelwood","4/16/2022",322,"Weapon Law Violations","Weapons Law Violations",45.504330792,-122.55956091,7674123,676696,"4/16/2022",1
+"662","SE 101ST AVE / SE DIVISION ST","22-152335","Society","Hazelwood","6/7/2022",1954,"Weapon Law Violations","Weapons Law Violations",45.504330792,-122.55956091,7674123,676696,"6/7/2022",1
+"663","SE 102ND AVE / SE ANKENY ST","22-209494","Society","Hazelwood","8/4/2022",2119,"Weapon Law Violations","Weapons Law Violations",45.521711584,-122.558321867,7674602,683023,"8/4/2022",1
+"664","SE 102ND AVE / SE WASHINGTON ST","22-8676","Society","Mill Park","1/10/2022",1809,"Weapon Law Violations","Weapons Law Violations",45.518340478,-122.558433829,7674542,681795,"1/10/2022",1
+"665","SE 102ND AVE / SE WOODSTOCK BLVD","22-123497","Society","Lents","5/10/2022",1121,"Weapon Law Violations","Weapons Law Violations",45.476129682,-122.558628509,7674100,666411,"5/10/2022",1
+"666","SE 104TH AVE / SE BUSH ST","22-143141","Society","Lents","5/29/2022",1925,"Weapon Law Violations","Weapons Law Violations",45.49491542,-122.556005087,7674947,673241,"5/29/2022",1
+"667","SE 107TH AVE / SE DIVISION ST","22-203503","Society","Powellhurst-Gilbert","7/29/2022",1800,"Weapon Law Violations","Weapons Law Violations",45.504202688,-122.553383794,7675705,676609,"7/29/2022",1
+"668","SE 115TH AVE / SE DIVISION ST","22-267441","Society","Powellhurst-Gilbert","10/5/2022",102,"Weapon Law Violations","Weapons Law Violations",45.504136294,-122.545418076,7677746,676533,"10/5/2022",1
+"669","SE 115TH AVE / SE DIVISION ST","22-336630","Society","Powellhurst-Gilbert","12/20/2022",1822,"Weapon Law Violations","Weapons Law Violations",45.504136294,-122.545418076,7677746,676533,"12/20/2022",1
+"670","SE 119TH AVE / SE DIVISION ST","22-219361","Society","Powellhurst-Gilbert","8/15/2022",810,"Weapon Law Violations","Weapons Law Violations",45.504082049,-122.540909701,7678901,676484,"8/15/2022",1
+"671","SE 122ND AVE / SE HOLGATE BLVD","22-34390","Society","Powellhurst-Gilbert","2/6/2022",420,"Weapon Law Violations","Weapons Law Violations",45.489628115,-122.53771071,7679588,671195,"2/6/2022",1
+"672","SE 122ND AVE / SE MARKET ST","22-275537","Society","Mill Park","10/13/2022",2124,"Weapon Law Violations","Weapons Law Violations",45.511544363,-122.537673726,7679799,679183,"10/13/2022",1
+"673","SE 122ND AVE / SE SHERMAN ST","22-94088","Society","Mill Park","4/8/2022",2332,"Weapon Law Violations","Weapons Law Violations",45.506010667,-122.537670284,7679749,677166,"4/8/2022",1
+"674","SE 126TH AVE / SE STARK ST","22-48304","Society","Hazelwood","2/20/2022",2135,"Weapon Law Violations","Weapons Law Violations",45.519046327,-122.533895853,7680836,681893,"2/20/2022",1
+"675","SE 126TH AVE / SE STARK ST","22-249214","Society","Hazelwood","9/15/2022",1849,"Weapon Law Violations","Weapons Law Violations",45.519046327,-122.533895853,7680836,681893,"9/15/2022",1
+"676","SE 126TH AVE / SE STARK ST","22-342964","Society","Hazelwood","12/28/2022",1441,"Weapon Law Violations","Weapons Law Violations",45.519046327,-122.533895853,7680836,681893,"12/28/2022",1
+"677","SE 127TH AVE / E BURNSIDE ST","22-110059","Society","Hazelwood","4/26/2022",50,"Weapon Law Violations","Weapons Law Violations",45.522392399,-122.532559927,7681209,683104,"4/26/2022",1
+"678","SE 130TH AVE / SE BUSH ST","22-47293","Society","Powellhurst-Gilbert","2/19/2022",1522,"Weapon Law Violations","Weapons Law Violations",45.494480708,-122.530008668,7681607,672914,"2/19/2022",1
+"679","SE 130TH AVE / SE SHERMAN ST","22-191561","Society","Hazelwood","7/17/2022",1751,"Weapon Law Violations","Weapons Law Violations",45.50587297,-122.529951535,7681726,677066,"7/17/2022",1
+"680","SE 130TH AVE / SE SHERMAN ST","22-206296","Society","Hazelwood","8/1/2022",1722,"Weapon Law Violations","Weapons Law Violations",45.50587297,-122.529951535,7681726,677066,"8/1/2022",1
+"681","SE 136TH AVE / SE HOLGATE BLVD","22-26904","Society","Powellhurst-Gilbert","1/29/2022",333,"Weapon Law Violations","Weapons Law Violations",45.488712153,-122.523569413,7683205,670770,"1/29/2022",1
+"682","SE 136TH AVE / SE HOLGATE BLVD","22-29509","Society","Powellhurst-Gilbert","2/1/2022",319,"Weapon Law Violations","Weapons Law Violations",45.488712153,-122.523569413,7683205,670770,"2/1/2022",1
+"683","SE 136TH AVE / SE POWELL BLVD","22-86991","Society","Powellhurst-Gilbert","4/1/2022",1636,"Weapon Law Violations","Weapons Law Violations",45.497856809,-122.523547966,7683294,674103,"4/1/2022",1
+"684","SE 136TH AVE / SE POWELL BLVD","22-263841","Society","Powellhurst-Gilbert","10/1/2022",232,"Weapon Law Violations","Weapons Law Violations",45.497856809,-122.523547966,7683294,674103,"10/1/2022",1
+"685","SE 139TH AVE / SE OAK CT","22-99721","Society","Hazelwood","4/15/2022",431,"Weapon Law Violations","Weapons Law Violations",45.519987269,-122.520995887,7684150,682153,"4/15/2022",1
+"686","SE 143RD AVE / SE DIVISION ST","22-204572","Society","Centennial","7/30/2022",2218,"Weapon Law Violations","Weapons Law Violations",45.50419389,-122.515619303,7685384,676362,"7/30/2022",1
+"687","SE 143RD AVE / SE POWELL BLVD","22-53174","Society","Centennial","2/26/2022",141,"Weapon Law Violations","Weapons Law Violations",45.499101573,-122.516417831,7685133,674511,"2/26/2022",1
+"688","SE 150TH AVE / SE TIBBETTS ST","22-620","Society","Centennial","1/1/2022",1736,"Weapon Law Violations","Weapons Law Violations",45.500073878,-122.508996864,7687044,674818,"1/1/2022",1
+"689","SE 151ST AVE / E BURNSIDE ST","22-78449","Society","Glenfair","3/23/2022",2304,"Weapon Law Violations","Weapons Law Violations",45.522194577,-122.508077885,7687480,682875,"3/24/2022",1
+"690","SE 152ND AVE / SE LINCOLN ST","22-74412","Society","Centennial","3/20/2022",5,"Weapon Law Violations","Weapons Law Violations",45.508108895,-122.507002378,7687628,677734,"3/20/2022",1
+"691","SE 162ND AVE / SE SHERMAN ST","22-149472","Society","Centennial","6/4/2022",2106,"Weapon Law Violations","Weapons Law Violations",45.506097348,-122.496642377,7690265,676935,"6/4/2022",1
+"692","SE ANKENY ST / SE 6TH AVE","22-30861","Society","Buckman West","2/2/2022",1208,"Weapon Law Violations","Weapons Law Violations",45.522215892,-122.659696929,7648633,683885,"2/2/2022",1
+"693","SE ANKENY ST / SE 119TH AVE","22-290231","Society","Hazelwood","10/29/2022",2132,"Weapon Law Violations","Weapons Law Violations",45.521768502,-122.540362848,7679204,682927,"10/29/2022",1
+"694","SE BOISE ST / SE 115TH AVE","22-53","Society","Powellhurst-Gilbert","1/1/2022",118,"Weapon Law Violations","Weapons Law Violations",45.491555354,-122.544586734,7677843,671942,"1/1/2022",1
+"695","SE BUSH ST / SE 125TH AVE","22-253343","Society","Powellhurst-Gilbert","9/20/2022",53,"Weapon Law Violations","Weapons Law Violations",45.49445863,-122.534357482,7680492,672934,"9/20/2022",1
+"696","SE CLAY ST / SE 27TH AVE","22-292846","Society","Hosford-Abernethy","11/1/2022",1434,"Weapon Law Violations","Weapons Law Violations",45.511199884,-122.638147121,7654048,679723,"11/1/2022",1
+"697","SE CLINTON ST / SE 136TH AVE","22-301456","Society","Powellhurst-Gilbert","11/11/2022",47,"Weapon Law Violations","Weapons Law Violations",45.502738024,-122.523678947,7683305,675883,"11/11/2022",1
+"698","SE CRYSTAL SPRINGS BLVD / SE 86TH AVE","22-242379","Society","Lents","9/8/2022",1004,"Weapon Law Violations","Weapons Law Violations",45.465010151,-122.574461245,7669936,662462,"9/8/2022",1
+"699","SE DIVISION ST / I205 FWY SB","22-160377","Society","Hazelwood","6/15/2022",2308,"Weapon Law Violations","Weapons Law Violations",45.504419674,-122.565459617,7672612,676767,"6/16/2022",1
+"700","SE DIVISION ST / SE 92ND AVE","22-290064","Society","Montavilla","10/29/2022",1821,"Weapon Law Violations","Weapons Law Violations",45.504475044,-122.568633729,7671799,676808,"10/29/2022",1
+"701","SE DIVISION ST / SE 112TH AVE","22-185838","Society","Mill Park","7/11/2022",1925,"Weapon Law Violations","Weapons Law Violations",45.504197163,-122.548007079,7677083,676572,"7/11/2022",1
+"702","SE DIVISION ST / SE 112TH AVE","22-198618","Society","Mill Park","7/24/2022",2307,"Weapon Law Violations","Weapons Law Violations",45.504197163,-122.548007079,7677083,676572,"7/25/2022",1
+"703","SE DIVISION ST / SE 118TH AVE","22-46621","Society","Mill Park","2/18/2022",2038,"Weapon Law Violations","Weapons Law Violations",45.504141504,-122.542195485,7678572,676514,"2/18/2022",1
+"704","SE DIVISION ST / SE 119TH AVE","22-110295","Society","Powellhurst-Gilbert","4/26/2022",932,"Weapon Law Violations","Weapons Law Violations",45.504123384,-122.540899481,7678904,676499,"4/26/2022",1
+"705","SE DIVISION ST / SE 122ND AVE","22-2011","Society","Mill Park","1/3/2022",1131,"Weapon Law Violations","Weapons Law Violations",45.504092685,-122.537683411,7679728,676467,"1/3/2022",1
+"706","SE DIVISION ST / SE 122ND AVE","22-6266","Society","Mill Park","1/8/2022",142,"Weapon Law Violations","Weapons Law Violations",45.504092685,-122.537683411,7679728,676467,"1/8/2022",1
+"707","SE DIVISION ST / SE 122ND AVE","22-127936","Society","Mill Park","5/15/2022",255,"Weapon Law Violations","Weapons Law Violations",45.504092685,-122.537683411,7679728,676467,"5/15/2022",1
+"708","SE DIVISION ST / SE 135TH AVE","22-258744","Society","Hazelwood","9/25/2022",1756,"Weapon Law Violations","Weapons Law Violations",45.504063656,-122.524740604,7683045,676373,"9/25/2022",1
+"709","SE DIVISION ST / SE 139TH AVE","22-282819","Society","Powellhurst-Gilbert","10/21/2022",1800,"Weapon Law Violations","Weapons Law Violations",45.504091875,-122.52095702,7684015,676359,"10/21/2022",1
+"710","SE DIVISION ST / SE 139TH AVE","22-337714","Society","Powellhurst-Gilbert","12/21/2022",2240,"Weapon Law Violations","Weapons Law Violations",45.504091875,-122.52095702,7684015,676359,"12/21/2022",1
+"711","SE DIVISION ST / SE 148TH AVE","22-223977","Society","Centennial","8/20/2022",220,"Weapon Law Violations","Weapons Law Violations",45.504221583,-122.510594978,7686672,676340,"8/20/2022",1
+"712","SE DUKE ST / SE 64TH AVE","22-248905","Society","Brentwood-Darlington","9/14/2022",0,"Weapon Law Violations","Weapons Law Violations",45.475839245,-122.597112592,7664229,666559,"9/15/2022",1
+"713","SE FLAVEL ST / I205 FWY NB","22-136490","Society","Lents","5/23/2022",1433,"Weapon Law Violations","Weapons Law Violations",45.46834812,-122.565540735,7672255,663620,"5/23/2022",1
+"714","SE FLAVEL ST / SE 82ND AVE","22-802376","Society","Brentwood-Darlington","8/24/2022",107,"Weapon Law Violations","Weapons Law Violations",45.468661321,-122.579043586,7668795,663823,"8/24/2022",1
+"715","SE FLAVEL ST / SE 86TH AVE","22-80741","Society","Lents","3/26/2022",727,"Weapon Law Violations","Weapons Law Violations",45.468572038,-122.574879801,7669862,663763,"3/26/2022",1
+"716","SE FLAVEL ST / SE 92ND AVE","22-47084","Society","Lents","2/19/2022",1120,"Weapon Law Violations","Weapons Law Violations",45.468430833,-122.568565657,7671480,663670,"2/19/2022",1
+"717","SE FOSTER RD / SE 74TH AVE","22-342240","Society","Mt Scott-Arleta","12/27/2022",1815,"Weapon Law Violations","Weapons Law Violations",45.485624604,-122.586634404,7667008,670056,"12/27/2022",1
+"718","SE FRANCIS ST / SE 28TH AVE","22-242297","Society","Creston-Kenilworth","9/8/2022",858,"Weapon Law Violations","Weapons Law Violations",45.494791487,-122.637630953,7654022,673739,"9/8/2022",1
+"719","SE GRAND AVE / SE WASHINGTON ST","22-52736","Society","Buckman West","2/25/2022",1452,"Weapon Law Violations","Weapons Law Violations",45.518654292,-122.66073621,7648332,682594,"2/25/2022",1
+"720","SE GRANT ST / SE 121ST AVE","22-135636","Society","Mill Park","5/22/2022",1858,"Weapon Law Violations","Weapons Law Violations",45.506424337,-122.538941511,7679427,677325,"5/22/2022",1
+"721","SE HARRISON ST / SE 89TH AVE","22-257817","Society","Montavilla","9/24/2022",1820,"Weapon Law Violations","Weapons Law Violations",45.508703953,-122.572229339,7670917,678373,"9/24/2022",1
+"722","SE HARRISON ST / SE 159TH AVE","22-187063","Society","Centennial","7/12/2022",2226,"Weapon Law Violations","Weapons Law Violations",45.50880023,-122.499137088,7689650,677936,"7/12/2022",1
+"723","SE HAWTHORNE BLVD / SE 37TH AVE","22-121028","Society","Sunnyside","5/7/2022",1713,"Weapon Law Violations","Weapons Law Violations",45.512054404,-122.625808934,7657218,679951,"5/7/2022",1
+"724","SE HAWTHORNE BLVD / SE 47TH AVE","22-190969","Society","Sunnyside","7/17/2022",45,"Weapon Law Violations","Weapons Law Violations",45.512025981,-122.614116565,7660214,679862,"7/17/2022",1
+"725","SE HOLGATE BLVD / SE 83RD AVE","22-208675","Society","Lents","8/3/2022",2359,"Weapon Law Violations","Weapons Law Violations",45.490238928,-122.577730712,7669334,671679,"8/3/2022",1
+"726","SE JOHNSON CREEK BLVD / SE 36TH AVE","22-100703","Society","Ardenwald","4/16/2022",337,"Weapon Law Violations","Weapons Law Violations",45.462215546,-122.626276486,7656620,661789,"4/16/2022",1
+"727","SE LINCOLN ST / SE 122ND AVE","22-66394","Society","Mill Park","3/11/2022",1915,"Weapon Law Violations","Weapons Law Violations",45.507826924,-122.537669115,7679766,677828,"3/11/2022",1
+"728","SE LINCOLN ST / SE 162ND AVE","22-254138","Society","Centennial","9/20/2022",1924,"Weapon Law Violations","Weapons Law Violations",45.508046704,-122.496558734,7690304,677645,"9/20/2022",1
+"729","SE MALDEN ST / SE 82ND AVE","22-23580","Society","Brentwood-Darlington","1/25/2022",1845,"Weapon Law Violations","Weapons Law Violations",45.467994568,-122.57904649,7668788,663580,"1/25/2022",1
+"730","SE MALDEN ST / SE 82ND AVE","22-261005","Society","Brentwood-Darlington","9/28/2022",526,"Weapon Law Violations","Weapons Law Violations",45.467994568,-122.57904649,7668788,663580,"9/28/2022",1
+"731","SE MARKET ST / SE CHERRY BLOSSOM DR","22-81255","Society","Mill Park","3/26/2022",2100,"Weapon Law Violations","Weapons Law Violations",45.511559504,-122.548085277,7677131,679256,"3/26/2022",1
+"732","SE MARTIN LUTHER KING JR BLVD / SE STARK ST","22-199773","Society","Buckman West","7/26/2022",46,"Weapon Law Violations","Weapons Law Violations",45.519369919,-122.66178209,7648071,682862,"7/26/2022",1
+"733","SE MILWAUKIE AVE / SE SCHILLER ST","22-47058","Society","Brooklyn","2/19/2022",1030,"Weapon Law Violations","Weapons Law Violations",45.48754855,-122.650398324,7650679,671186,"2/19/2022",1
+"734","SE MORRISON ST / SE 12TH AVE","22-119964","Society","Buckman East","5/6/2022",1206,"Weapon Law Violations","Weapons Law Violations",45.517204352,-122.653644454,7650135,682017,"5/6/2022",1
+"735","SE POWELL BLVD / SE 34TH AVE","22-279672","Society","Creston-Kenilworth","10/18/2022",830,"Weapon Law Violations","Weapons Law Violations",45.496825496,-122.629308044,7656175,674424,"10/18/2022",1
+"736","SE POWELL BLVD / SE 69TH AVE","22-315695","Society","South Tabor","11/26/2022",2200,"Weapon Law Violations","Weapons Law Violations",45.497445346,-122.592296317,7665668,674402,"11/27/2022",1
+"737","SE POWELL BLVD / SE 92ND AVE","22-1361","Society","Powellhurst-Gilbert","1/2/2022",1630,"Weapon Law Violations","Weapons Law Violations",45.497382732,-122.568488587,7671770,674222,"1/2/2022",1
+"738","SE POWELL BLVD / SE 92ND AVE","22-236040","Society","Powellhurst-Gilbert","9/1/2022",1818,"Weapon Law Violations","Weapons Law Violations",45.497382732,-122.568488587,7671770,674222,"9/1/2022",1
+"739","SE POWELL BLVD / SE 112TH AVE","22-77134","Society","Powellhurst-Gilbert","3/22/2022",1853,"Weapon Law Violations","Weapons Law Violations",45.496567808,-122.547977792,7677020,673791,"3/22/2022",1
+"740","SE POWELL BLVD / SE 122ND AVE","22-209595","Society","Powellhurst-Gilbert","8/4/2022",2253,"Weapon Law Violations","Weapons Law Violations",45.497075031,-122.537661848,7679669,673909,"8/4/2022",1
+"741","SE POWELL BLVD / SE 150TH AVE","22-270157","Society","Centennial","10/8/2022",353,"Weapon Law Violations","Weapons Law Violations",45.497635151,-122.508980836,7687026,673929,"10/8/2022",1
+"742","SE POWELL BLVD / SE 160TH AVE","22-319061","Society","Centennial","11/30/2022",2236,"Weapon Law Violations","Weapons Law Violations",45.495247655,-122.498952731,7689575,672995,"11/30/2022",1
+"743","SE RAMONA ST / SE 83RD AVE","22-134823","Society","Lents","5/21/2022",2146,"Weapon Law Violations","Weapons Law Violations",45.480621518,-122.577940657,7669190,668175,"5/21/2022",1
+"744","SE RAYMOND CT / SE 82ND AVE","22-91047","Society","Lents","4/5/2022",2224,"Weapon Law Violations","Weapons Law Violations",45.485787016,-122.578890162,7668995,670064,"4/6/2022",1
+"745","SE SALMON ST / SE CESAR E CHAVEZ BLVD","22-14039","Society","Sunnyside","1/16/2022",344,"Weapon Law Violations","Weapons Law Violations",45.514302954,-122.622907721,7657983,680751,"1/16/2022",1
+"746","SE SCHILLER ST / SE 92ND AVE","22-33952","Society","Lents","2/5/2022",1721,"Weapon Law Violations","Weapons Law Violations",45.48786624,-122.568582878,7671657,670754,"2/5/2022",1
+"747","SE SPOKANE ST / SE OAKS PARK WAY","22-125307","Society","Sellwood-Moreland","5/12/2022",756,"Weapon Law Violations","Weapons Law Violations",45.465040179,-122.661895253,7647512,663061,"5/12/2022",1
+"748","SE STARK ST / SE 22ND AVE","22-25784","Society","Buckman East","1/27/2022",2222,"Weapon Law Violations","Weapons Law Violations",45.51932011,-122.643499255,7652755,682719,"1/27/2022",1
+"749","SE STARK ST / SE 102ND AVE","22-8040","Society","Hazelwood","1/10/2022",111,"Weapon Law Violations","Weapons Law Violations",45.5190513,-122.55842057,7674552,682054,"1/10/2022",1
+"750","SE STARK ST / SE 122ND AVE","22-77410","Society","Hazelwood","3/23/2022",100,"Weapon Law Violations","Weapons Law Violations",45.519024178,-122.537778228,7679841,681910,"3/23/2022",1
+"751","SE STARK ST / SE 122ND AVE","22-93206","Society","Hazelwood","4/8/2022",58,"Weapon Law Violations","Weapons Law Violations",45.519024178,-122.537778228,7679841,681910,"4/8/2022",1
+"752","SE STARK ST / SE 122ND AVE","22-93911","Society","Hazelwood","4/8/2022",1928,"Weapon Law Violations","Weapons Law Violations",45.519024178,-122.537778228,7679841,681910,"4/8/2022",1
+"753","SE STARK ST / SE 122ND AVE","22-93993","Society","Hazelwood","4/8/2022",2200,"Weapon Law Violations","Weapons Law Violations",45.519024178,-122.537778228,7679841,681910,"4/8/2022",1
+"754","SE STARK ST / SE 122ND AVE","22-264772","Society","Hazelwood","10/2/2022",306,"Weapon Law Violations","Weapons Law Violations",45.519024178,-122.537778228,7679841,681910,"10/2/2022",1
+"755","SE STARK ST / SE 129TH AVE","22-202800","Society","Hazelwood","7/28/2022",2332,"Weapon Law Violations","Weapons Law Violations",45.519063804,-122.530891416,7681606,681880,"7/29/2022",1
+"756","SE STARK ST / SE 148TH AVE","22-10045","Society","Hazelwood","1/12/2022",5,"Weapon Law Violations","Weapons Law Violations",45.519155361,-122.510710072,7686778,681784,"1/12/2022",1
+"757","SE STARK ST / SE 151ST AVE","22-106634","Society","Glenfair","4/22/2022",1321,"Weapon Law Violations","Weapons Law Violations",45.519153904,-122.508126461,7687440,681767,"4/22/2022",1
+"758","SE STARK ST / SE 155TH AVE","22-277388","Society","Glenfair","10/15/2022",1949,"Weapon Law Violations","Weapons Law Violations",45.51915894,-122.504223985,7688440,681744,"10/15/2022",1
+"759","SE STARK ST / SE 162ND AVE","22-285536","Society","Centennial","10/24/2022",1830,"Weapon Law Violations","Weapons Law Violations",45.519157173,-122.496445947,7690433,681694,"10/24/2022",1
+"760","SE WATER AVE / SE ALDER ST","22-170430","Society","Buckman West","6/26/2022",1047,"Weapon Law Violations","Weapons Law Violations",45.517949663,-122.665810314,7647025,682372,"6/26/2022",1
+"761","SE WATER AVE / SE MORRISON ST","22-226227","Society","Buckman West","8/22/2022",1259,"Weapon Law Violations","Weapons Law Violations",45.517228009,-122.665814011,7647017,682109,"8/22/2022",1
+"762","SE WATER AVE / SE MORRISON ST","22-232833","Society","Buckman West","8/29/2022",1439,"Weapon Law Violations","Weapons Law Violations",45.517228009,-122.665814011,7647017,682109,"8/29/2022",1
+"763","SE WOODWARD ST / SE 127TH AVE","22-100371","Society","Powellhurst-Gilbert","4/15/2022",1949,"Weapon Law Violations","Weapons Law Violations",45.501251208,-122.532525185,7681024,675398,"4/15/2022",1
+"764","STEEL BRG / NW NAITO PKWY&STEEL BRG RAMP","22-102070","Society","Old Town/Chinatown","4/17/2022",1651,"Weapon Law Violations","Weapons Law Violations",45.526940363,-122.67047825,7645917,685681,"4/17/2022",1
+"765","SW 2ND AVE / SW PINE ST","22-36590","Society","Old Town/Chinatown","2/8/2022",1438,"Weapon Law Violations","Weapons Law Violations",45.521322382,-122.672745808,7645281,683649,"2/8/2022",1
+"766","SW 3RD AVE / SW ANKENY ST","22-283910","Society","Downtown","10/22/2022",2351,"Weapon Law Violations","Weapons Law Violations",45.522553669,-122.673358875,7645136,684102,"10/23/2022",1
+"767","SW 3RD AVE / SW HARVEY MILK ST","22-282460","Society","Downtown","10/21/2022",921,"Weapon Law Violations","Weapons Law Violations",45.520252972,-122.674453403,7644833,683271,"10/21/2022",1
+"768","SW 3RD AVE / SW PINE ST","22-103451","Society","Old Town/Chinatown","4/19/2022",18,"Weapon Law Violations","Weapons Law Violations",45.521591374,-122.673755277,7645025,683754,"4/19/2022",1
+"769","SW 3RD AVE / SW PINE ST","22-343916","Society","Old Town/Chinatown","12/29/2022",1713,"Weapon Law Violations","Weapons Law Violations",45.521591374,-122.673755277,7645025,683754,"12/29/2022",1
+"770","SW 3RD AVE / SW WASHINGTON ST","22-290199","Society","Downtown","10/29/2022",2102,"Weapon Law Violations","Weapons Law Violations",45.51958766,-122.674814311,7644734,683031,"10/29/2022",1
+"771","SW 4TH AVE / SW ALDER ST","22-182761","Society","Downtown","7/8/2022",1745,"Weapon Law Violations","Weapons Law Violations",45.519193838,-122.676196454,7644376,682897,"7/8/2022",1
+"772","SW 4TH AVE / SW ANKENY ST","22-320630","Society","Downtown","12/2/2022",1709,"Weapon Law Violations","Weapons Law Violations",45.522528558,-122.674396137,7644870,684100,"12/2/2022",1
+"773","SW 4TH AVE / SW HARVEY MILK ST","22-101538","Society","Downtown","4/17/2022",224,"Weapon Law Violations","Weapons Law Violations",45.520527211,-122.675474771,7644574,683378,"4/17/2022",1
+"774","SW 4TH AVE / SW MADISON ST","22-38397","Society","Downtown","2/10/2022",1138,"Weapon Law Violations","Weapons Law Violations",45.515204435,-122.678373417,7643779,681458,"2/10/2022",1
+"775","SW 4TH AVE / SW MADISON ST","22-119492","Society","Downtown","5/5/2022",2311,"Weapon Law Violations","Weapons Law Violations",45.515204435,-122.678373417,7643779,681458,"5/6/2022",1
+"776","SW 6TH AVE / SW YAMHILL ST","22-70021","Society","Downtown","3/15/2022",1539,"Weapon Law Violations","Weapons Law Violations",45.518398067,-122.678952567,7643662,682626,"3/15/2022",1
+"777","SW 11TH AVE / SW ALDER ST","22-178194","Society","Downtown","7/3/2022",1700,"Weapon Law Violations","Weapons Law Violations",45.520948712,-122.682762199,7642711,683582,"7/4/2022",1
+"778","SW 13TH AVE / SW MAIN ST","22-336914","Society","Downtown","12/21/2022",127,"Weapon Law Violations","Weapons Law Violations",45.518154519,-122.686573207,7641707,682590,"12/21/2022",1
+"779","SW 16TH AVE / SW SALMON ST","22-170273","Society","Goose Hollow","6/26/2022",612,"Weapon Law Violations","Weapons Law Violations",45.519637727,-122.689225763,7641042,683149,"6/26/2022",1
+"780","SW ANKENY ST / SW 1ST AVE","22-333967","Society","Old Town/Chinatown","12/17/2022",2012,"Weapon Law Violations","Weapons Law Violations",45.522521908,-122.671265601,7645672,684076,"12/17/2022",1
+"781","SW ANKENY ST / SW 2ND AVE","22-74489","Society","Old Town/Chinatown","3/20/2022",257,"Weapon Law Violations","Weapons Law Violations",45.522531559,-122.672206616,7645431,684086,"3/20/2022",1
+"782","SW BARBUR BLVD / SW 13TH AVE","22-257641","Society","Hillsdale","9/24/2022",1436,"Weapon Law Violations","Weapons Law Violations",45.468890091,-122.692106206,7639802,664673,"9/24/2022",1
+"783","SW BROADWAY / SW COLUMBIA ST","22-221313","Society","Downtown","8/17/2022",742,"Weapon Law Violations","Weapons Law Violations",45.514677382,-122.682146491,7642807,681292,"8/17/2022",1
+"784","SW BROADWAY / SW PINE ST","22-188587","Society","Downtown","7/14/2022",1345,"Weapon Law Violations","Weapons Law Violations",45.522615531,-122.67777175,7644006,684155,"7/14/2022",1
+"785","SW CALIFORNIA ST / SW 28TH AVE","22-176555","Society","Multnomah","7/2/2022",1224,"Weapon Law Violations","Weapons Law Violations",45.474482716,-122.705667159,7636380,666806,"7/2/2022",1
+"786","SW HARVEY MILK ST / SW 10TH AVE","22-23838","Society","Downtown","1/26/2022",39,"Weapon Law Violations","Weapons Law Violations",45.522020765,-122.681066545,7643156,683961,"1/26/2022",1
+"787","SW MORRISON ST / SW 4TH AVE","22-134195","Society","Downtown","5/21/2022",407,"Weapon Law Violations","Weapons Law Violations",45.518525779,-122.67655723,7644277,682656,"5/21/2022",1
+"788","SW MORRISON ST / SW 9TH AVE","22-238571","Society","Downtown","9/4/2022",1305,"Weapon Law Violations","Weapons Law Violations",45.519747695,-122.681135349,7643116,683133,"9/4/2022",1
+"789","SW OAK ST / SW BROADWAY","22-116131","Society","Downtown","5/2/2022",1231,"Weapon Law Violations","Weapons Law Violations",45.522012455,-122.678177956,7643896,683938,"5/2/2022",1
+"790","SW SALMON ST / SW PARK AVE","22-39995","Society","Downtown","2/12/2022",36,"Weapon Law Violations","Weapons Law Violations",45.517741023,-122.682201782,7642823,682409,"2/12/2022",1
+"791","SW YAMHILL ST / SW KING AVE","22-223471","Society","Goose Hollow","8/19/2022",1319,"Weapon Law Violations","Weapons Law Violations",45.522576451,-122.695396721,7639490,684263,"8/19/2022",1
+"792","SW YAMHILL ST / SW PARK AVE","22-149508","Society","Downtown","6/4/2022",2125,"Weapon Law Violations","Weapons Law Violations",45.51893912,-122.680948175,7643156,682837,"6/4/2022",1
+"793","W BURNSIDE ST / SW 2ND AVE","22-133226","Society","Old Town/Chinatown","5/20/2022",757,"Weapon Law Violations","Weapons Law Violations",45.523132149,-122.672366203,7645396,684306,"5/20/2022",1
+"794","W BURNSIDE ST / SW 3RD AVE","22-267834","Society","Downtown","10/5/2022",1238,"Weapon Law Violations","Weapons Law Violations",45.52312416,-122.673369003,7645139,684310,"10/5/2022",1
+"795","WB I84 FWY AT / NE 148TH AVE","22-191324","Society","Wilkes","7/17/2022",1228,"Weapon Law Violations","Weapons Law Violations",45.542773554,-122.510125588,7687142,690389,"7/17/2022",1

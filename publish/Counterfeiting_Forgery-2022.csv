@@ -1,0 +1,307 @@
+"","Address","CaseNumber","CrimeAgainst","Neighborhood","OccurDate","OccurTime","OffenseCategory","OffenseType","OpenDataLat","OpenDataLon","OpenDataX","OpenDataY","ReportDate","OffenseCount"
+"1","0 BLOCK OF N CENTER COURT ST","22-680307","Property","Lloyd","3/27/2022",1700,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.532573192,-122.66771113,7646681,687715,"3/28/2022",1
+"2","0 BLOCK OF N CENTER COURT ST","22-801112","Property","Lloyd","3/27/2022",1855,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.532573192,-122.66771113,7646681,687715,"3/27/2022",1
+"3","0 BLOCK OF N CENTER COURT ST","22-801113","Property","Lloyd","3/27/2022",1921,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.532573192,-122.66771113,7646681,687715,"3/27/2022",1
+"4","0 BLOCK OF NE FREMONT ST","22-803076","Property","Eliot","10/26/2022",1743,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.548218742,-122.666188394,7647224,693407,"10/31/2022",1
+"5","0 BLOCK OF NW 23RD AVE","22-914287","Property","Northwest","4/26/2022",1200,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.523766431,-122.698307691,7638756,684717,"5/19/2022",1
+"6","0 BLOCK OF NW TRINITY PL","22-914933","Property","Northwest","5/25/2022",1110,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.523372791,-122.691336981,7640538,684525,"5/25/2022",1
+"7","0 BLOCK OF SE 127TH AVE","22-915002","Property","Hazelwood","4/7/2022",1040,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.522083937,-122.532626943,7681189,682992,"5/25/2022",1
+"8","0 BLOCK OF SE GRAND AVE","22-914233","Property","Buckman West","5/14/2022",1711,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.522573907,-122.660647286,7648393,684022,"5/16/2022",1
+"9","0 BLOCK OF SW 3RD AVE","22-194905","Property","Old Town/Chinatown","7/20/2022",2311,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.522840132,-122.673299584,7645154,684206,"7/20/2022",1
+"10","0 BLOCK OF SW COLUMBIA ST","22-38462","Property","Downtown","2/10/2022",1306,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.512974414,-122.675591285,7644470,680626,"2/10/2022",1
+"11","0 BLOCK OF SW YAMHILL ST","22-905624","Property","Downtown","2/24/2020",1525,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.516971771,-122.673426226,7645064,682068,"2/25/2022",1
+"12","100 BLOCK OF N COOK ST","22-922730","Property","Eliot","8/3/2022",1000,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.546827741,-122.667642538,7646838,692910,"8/11/2022",1
+"13","100 BLOCK OF N FREMONT ST","22-180478","Property","Boise","6/4/2021",0,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.548303862,-122.667640346,7646853,693448,"7/6/2022",1
+"14","100 BLOCK OF NE 100TH AVE","22-8365","Property","Hazelwood","10/25/2018",0,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.523815839,-122.56092732,7673954,683807,"1/10/2022",1
+"15","100 BLOCK OF SW COLUMBIA ST","22-902028","Property","Downtown","11/17/2021",1220,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.513238268,-122.676580911,7644219,680729,"1/20/2022",1
+"16","200 BLOCK OF N LOMBARD ST","22-20464","Property","Piedmont","1/22/2022",1400,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.577263009,-122.6687978,7646840,704011,"1/22/2022",1
+"17","200 BLOCK OF NE 75TH AVE","22-926901","Property","Montavilla","9/21/2022",0,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.524344711,-122.585898989,7667561,684164,"9/24/2022",1
+"18","200 BLOCK OF NE MONROE ST","22-307338","Property","Eliot","11/17/2022",1625,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.545389634,-122.662859074,7648049,692353,"11/17/2022",1
+"19","200 BLOCK OF SW MARKET ST","22-906071","Property","Downtown","1/17/2022",1253,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.512055576,-122.678326774,7643760,680310,"3/2/2022",1
+"20","300 BLOCK OF NE 20TH AVE","22-11560","Property","Kerns","1/7/2022",1314,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.525380814,-122.645410373,7652324,684941,"1/13/2022",1
+"21","300 BLOCK OF NW BROADWAY","22-915526","Property","Pearl","5/28/2022",1500,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.52553822,-122.677591111,7644081,685219,"5/29/2022",1
+"22","300 BLOCK OF SW 4TH AVE","22-215337","Property","Downtown","8/10/2022",2340,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.520875247,-122.675351502,7644609,683504,"8/10/2022",1
+"23","300 BLOCK OF SW 6TH AVE","22-118827","Property","Downtown","5/4/2022",1530,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.5214237,-122.67739428,7644091,683718,"5/5/2022",1
+"24","400 BLOCK OF NE 22ND AVE","22-72721","Property","Kerns","3/18/2022",928,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.526113116,-122.643365391,7652855,685194,"3/18/2022",1
+"25","400 BLOCK OF NE STANTON ST","22-902451","Property","Eliot","1/19/2022",2330,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.543774103,-122.661083416,7648488,691752,"1/25/2022",1
+"26","400 BLOCK OF NE WEIDLER ST","22-127097","Property","Lloyd","5/13/2022",1630,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.534312939,-122.661140946,7648381,688304,"5/14/2022",1
+"27","400 BLOCK OF SE 122ND AVE","22-124638","Property","Hazelwood","5/10/2022",700,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.519368746,-122.537841328,7679828,682036,"5/11/2022",1
+"28","400 BLOCK OF W BURNSIDE ST","22-220986","Property","Downtown","8/16/2022",2123,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.523045807,-122.674899935,7644746,684292,"8/16/2022",1
+"29","500 BLOCK OF N COOK ST","22-801859","Property","Boise","9/2/2021",1131,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.547047957,-122.671383915,7645882,693016,"6/14/2022",1
+"30","500 BLOCK OF NE 16TH AVE","22-63284","Property","Kerns","3/8/2022",1657,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.526885289,-122.649616498,7651261,685518,"3/8/2022",1
+"31","500 BLOCK OF NE 122ND AVE","22-102635","Property","Hazelwood","4/17/2022",1700,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.526683119,-122.537682316,7679936,684701,"4/18/2022",1
+"32","500 BLOCK OF NE SCHUYLER ST","22-922940","Property","Eliot","7/28/2022",1435,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.535827472,-122.660117201,7648658,688849,"8/12/2022",1
+"33","500 BLOCK OF SE 122ND AVE","22-1936","Property","Mill Park","1/3/2022",940,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.518682421,-122.537711326,7679855,681785,"1/3/2022",1
+"34","500 BLOCK OF SE 122ND AVE","22-2203","Property","Mill Park","1/3/2022",1638,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.518682421,-122.537711326,7679855,681785,"1/3/2022",1
+"35","500 BLOCK OF SE SALMON ST","22-918025","Property","Buckman West","6/23/2022",945,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.514328348,-122.660255504,7648413,681014,"6/24/2022",1
+"36","500 BLOCK OF SW HARVEY MILK ST","22-9692","Property","Downtown","1/11/2022",1200,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.520976046,-122.676982911,7644192,683552,"1/11/2022",1
+"37","600 BLOCK OF NE HOLLADAY ST","22-93591","Property","Lloyd","3/24/2022",0,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.530007384,-122.65913845,7648852,686721,"4/8/2022",1
+"38","600 BLOCK OF NE HOLLADAY ST","22-325486","Property","Lloyd","11/16/2022",850,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.530007384,-122.65913845,7648852,686721,"12/8/2022",1
+"39","600 BLOCK OF NE HOLLADAY ST","22-802348","Property","Lloyd","3/17/2022",1700,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.530007384,-122.65913845,7648852,686721,"8/29/2022",1
+"40","600 BLOCK OF SE 52ND AVE","22-923863","Property","Mt Tabor","11/21/2021",1735,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.518455417,-122.609875601,7661362,682177,"8/23/2022",1
+"41","600 BLOCK OF SE 52ND AVE","22-923938","Property","Mt Tabor","10/21/2021",1800,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.518455417,-122.609875601,7661362,682177,"8/23/2022",1
+"42","600 BLOCK OF SE 52ND AVE","22-923939","Property","Mt Tabor","12/2/2021",1750,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.518455417,-122.609875601,7661362,682177,"8/23/2022",1
+"43","600 BLOCK OF SE 122ND AVE","22-110784","Property","Mill Park","4/26/2022",1958,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.517986185,-122.537830738,7679818,681532,"4/26/2022",1
+"44","600 BLOCK OF SE 122ND AVE","22-133818","Property","Mill Park","5/20/2022",2017,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.517986185,-122.537830738,7679818,681532,"5/20/2022",1
+"45","600 BLOCK OF SE 128TH AVE","22-197197","Property","Mill Park","7/23/2022",940,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.517785557,-122.531653536,7681399,681419,"7/23/2022",1
+"46","700 BLOCK OF NE 55TH AVE","22-925003","Property","Rose City Park","9/6/2022",1330,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.528668435,-122.607561784,7662052,685884,"9/7/2022",1
+"47","700 BLOCK OF NE 125TH AVE","22-930710","Property","Hazelwood","10/11/2022",1700,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.52818919,-122.534438073,7680781,685229,"11/3/2022",1
+"48","700 BLOCK OF NW 16TH AVE","22-907323","Property","Northwest","3/14/2022",1215,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.528212501,-122.687456335,7641580,686262,"3/15/2022",1
+"49","800 BLOCK OF N KILLINGSWORTH ST","22-257390","Property","Humboldt","9/24/2022",914,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.562721855,-122.675475606,7644988,698757,"9/24/2022",1
+"50","800 BLOCK OF NE 90TH AVE","22-910054","Property","Montavilla","3/29/2022",29,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.529348761,-122.571351251,7671335,685892,"4/10/2022",1
+"51","800 BLOCK OF SE 27TH AVE","22-903336","Property","Buckman East","12/31/2021",1835,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.516793664,-122.638174323,7654095,681762,"2/3/2022",1
+"52","800 BLOCK OF SE 137TH AVE","22-926491","Property","Hazelwood","9/7/2022",0,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.516398465,-122.522569645,7683714,680855,"9/20/2022",1
+"53","900 BLOCK OF SE 162ND AVE","22-72406","Property","Centennial","3/10/2022",1400,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.515769472,-122.496572698,7690370,680460,"3/17/2022",1
+"54","900 BLOCK OF SW 5TH AVE","22-335273","Property","Downtown","12/19/2022",936,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.517118499,-122.678427333,7643784,682156,"12/19/2022",1
+"55","1000 BLOCK OF E POWELL BLVD","22-680310","Property","","3/21/2021",0,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.498057,-122.420650176,7709672,673532,"5/19/2022",1
+"56","1000 BLOCK OF LLOYD CENTER","22-921928","Property","Lloyd","7/5/2022",1920,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.531817713,-122.654632154,7650024,687350,"7/31/2022",1
+"57","1000 BLOCK OF NW HOYT ST","22-912857","Property","Pearl","4/29/2022",200,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.527289009,-122.681768576,7643028,685886,"5/6/2022",1
+"58","1000 BLOCK OF NW LOVEJOY ST","22-929091","Property","Pearl","10/18/2022",1653,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.530060911,-122.681871201,7643029,686897,"10/18/2022",1
+"59","1000 BLOCK OF NW NAITO PKWY","22-680560","Property","Old Town/Chinatown","4/27/2022",1600,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.530532563,-122.675951873,7644550,687028,"4/27/2022",1
+"60","1000 BLOCK OF NW SLERET AVE","22-680926","Property","","6/25/2022",915,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.504870206,-122.439358462,7704936,676130,"8/23/2022",1
+"61","1000 BLOCK OF SW BERTHA BLVD","22-906374","Property","Hillsdale","3/8/2022",1850,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.471196728,-122.689274385,7640551,665494,"3/8/2022",1
+"62","1000 BLOCK OF SW BROADWAY","22-241475","Property","Downtown","7/24/2022",33,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.5169989,-122.680826822,7643168,682129,"9/7/2022",1
+"63","1000 BLOCK OF SW BROADWAY","22-680121","Property","Downtown","1/11/2022",1725,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.5169989,-122.680826822,7643168,682129,"1/12/2022",1
+"64","1000 BLOCK OF SW WASHINGTON ST","22-928384","Property","Downtown","10/9/2022",1621,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.521439541,-122.681910691,7642934,683755,"10/9/2022",1
+"65","1100 BLOCK OF N HAYDEN MEADOWS DR","22-904458","Property","East Columbia","1/16/2022",900,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.595511596,-122.678629039,7644503,710730,"2/14/2022",1
+"66","1100 BLOCK OF NE WEIDLER ST","22-932420","Property","Lloyd","11/21/2022",1855,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.534300774,-122.654043222,7650199,688251,"11/21/2022",1
+"67","1100 BLOCK OF NW EVERETT ST","22-905993","Property","Pearl","1/1/2022",1730,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.525131172,-122.682704412,7642767,685106,"3/2/2022",1
+"68","1100 BLOCK OF NW LOVEJOY ST","22-914134","Property","Pearl","5/16/2022",1930,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.530036093,-122.682889093,7642768,686895,"5/17/2022",1
+"69","1100 BLOCK OF SW 2ND AVE","22-923423","Property","Downtown","7/23/2022",1130,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.515006335,-122.676231105,7644326,681371,"8/19/2022",1
+"70","1100 BLOCK OF SW 11TH AVE","22-905807","Property","Downtown","2/28/2022",1000,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.517302047,-122.684799754,7642153,682267,"3/1/2022",1
+"71","1200 BLOCK OF NE 102ND AVE","22-912571","Property","Hazelwood","4/15/2022",1450,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.531676774,-122.558136675,7674742,686654,"5/3/2022",1
+"72","1200 BLOCK OF NE BROADWAY","22-32780","Property","Irvington","2/3/2022",700,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.535088184,-122.65301904,7650469,688531,"2/4/2022",1
+"73","1200 BLOCK OF NE BROADWAY","22-184465","Property","Irvington","7/10/2022",1030,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.535088184,-122.65301904,7650469,688531,"7/10/2022",1
+"74","1200 BLOCK OF SW 6TH AVE","22-909584","Property","Downtown","12/15/2021",0,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.515391233,-122.680530923,7643228,681541,"4/7/2022",1
+"75","1200 BLOCK OF SW ALDER ST","22-803833","Property","Downtown","12/6/2022",715,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.521402786,-122.684278418,7642327,683758,"12/6/2022",1
+"76","1200 BLOCK OF SW YAMHILL ST","22-902867","Property","Downtown","12/23/2021",1120,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.520058688,-122.684983883,7642133,683273,"1/31/2022",1
+"77","1200 BLOCK OF SW YAMHILL ST","22-928523","Property","Downtown","10/12/2022",1250,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.520058688,-122.684983883,7642133,683273,"10/12/2022",1
+"78","1300 BLOCK OF NW LOVEJOY ST","22-680186","Property","Pearl","1/13/2022",0,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.530090985,-122.684909379,7642251,686929,"2/15/2022",1
+"79","1300 BLOCK OF SE 122ND AVE","22-918424","Property","Mill Park","4/11/2022",1725,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.513402297,-122.537642834,7679824,679860,"7/7/2022",1
+"80","1300 BLOCK OF SW 11TH AVE","22-155735","Property","Downtown","6/11/2022",1141,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.515968466,-122.685528976,7641953,681786,"6/11/2022",1
+"81","1400 BLOCK OF NE HALSEY ST","22-919747","Property","Lloyd","7/1/2022",1145,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.533661082,-122.650989574,7650975,687997,"7/13/2022",1
+"82","1500 BLOCK OF NE 112TH AVE","22-680786","Property","Parkrose Heights","7/7/2022",900,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.533730558,-122.547140207,7677578,687331,"7/7/2022",1
+"83","1500 BLOCK OF NE ALBERTA ST","22-320689","Property","Vernon","12/2/2022",1751,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.559045191,-122.649225759,7651673,697237,"12/2/2022",1
+"84","1500 BLOCK OF NE DAVIS ST","22-927853","Property","Kerns","10/3/2022",715,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.524369509,-122.650781978,7650938,684609,"10/3/2022",1
+"85","1500 BLOCK OF SE 31ST AVE","22-911302","Property","Richmond","2/26/2022",1135,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.511752302,-122.633816848,7655163,679895,"4/22/2022",1
+"86","1500 BLOCK OF SE 162ND AVE","22-4508","Property","Centennial","1/1/2022",1000,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.511973879,-122.496489986,7690357,679076,"1/6/2022",1
+"87","1700 BLOCK OF N TOMAHAWK ISLAND DR","22-198349","Property","Hayden Island","7/23/2022",2140,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.613042315,-122.684900972,7643071,717163,"7/24/2022",1
+"88","1700 BLOCK OF NW RALEIGH ST","22-902797","Property","Northwest","1/21/2022",1535,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.534197557,-122.689127512,7641211,688455,"1/27/2022",1
+"89","1800 BLOCK OF SW 5TH AVE","22-230156","Property","Downtown","8/26/2022",1509,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.511119565,-122.681674182,7642893,679992,"8/26/2022",1
+"90","1900 BLOCK OF NW JOHNSON ST","22-905599","Property","Northwest","2/24/2022",1400,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.528449098,-122.691454851,7640558,686376,"2/25/2022",1
+"91","1900 BLOCK OF NW LOVEJOY ST","22-134699","Property","Northwest","5/21/2022",1858,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.529874836,-122.691505984,7640559,686896,"5/21/2022",1
+"92","2000 BLOCK OF N ARGYLE ST","22-907059","Property","Kenton","3/5/2022",1840,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.584495173,-122.68748977,7642127,706776,"3/12/2022",1
+"93","2000 BLOCK OF NE MARTIN LUTHER KING JR BLVD","22-235831","Property","Eliot","9/1/2022",1400,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.537498536,-122.661566752,7648303,689468,"9/1/2022",1
+"94","2000 BLOCK OF NE SANDY BLVD","22-902009","Property","Kerns","12/29/2021",1455,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.526061561,-122.644952087,7652448,685186,"1/20/2022",1
+"95","2000 BLOCK OF NW HOYT ST","22-927017","Property","Northwest","9/23/2022",0,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.527075211,-122.693431604,7640038,685889,"9/26/2022",1
+"96","2100 BLOCK OF NE BROADWAY","22-927305","Property","Sullivan's Gulch","9/28/2022",1300,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.534973186,-122.643906837,7652802,688427,"9/28/2022",1
+"97","2100 BLOCK OF SE 84TH AVE","22-918091","Property","Montavilla","6/23/2022",1810,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.50728316,-122.576613984,7669780,677884,"6/23/2022",1
+"98","2100 BLOCK OF SE 105TH AVE","22-299026","Property","Hazelwood","11/8/2022",856,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.507090823,-122.554658777,7675405,677670,"11/8/2022",1
+"99","2100 BLOCK OF SE DIVISION ST","22-935569","Property","Hosford-Abernethy","12/25/2022",1600,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.504860978,-122.644092903,7652463,677453,"12/26/2022",1
+"100","2100 BLOCK OF W BURNSIDE ST","22-228451","Property","Northwest","7/1/2022",0,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.523307015,-122.695214198,7639544,684528,"8/24/2022",1
+"101","2200 BLOCK OF LLOYD CENTER","22-111826","Property","Lloyd","4/27/2022",1930,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.531806118,-122.65246906,7650578,687331,"4/27/2022",1
+"102","2200 BLOCK OF N INTERSTATE AVE","22-906642","Property","Eliot","3/6/2022",1725,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.538969749,-122.674479369,7645010,690093,"3/6/2022",1
+"103","2200 BLOCK OF NE 25TH AVE","22-904241","Property","Irvington","12/29/2021",1135,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.538576133,-122.640048967,7653825,689714,"2/11/2022",1
+"104","2200 BLOCK OF NE 51ST AVE","22-22234","Property","Rose City Park","1/24/2022",1149,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.538720904,-122.610855314,7661304,689570,"1/24/2022",1
+"105","2200 BLOCK OF NE SANDY BLVD","22-913234","Property","Kerns","5/7/2022",1100,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.526868463,-122.642878664,7652987,685466,"5/9/2022",1
+"106","2200 BLOCK OF NW PETTYGROVE ST","22-916191","Property","Northwest","5/25/2022",800,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.532615507,-122.697697837,7639000,687938,"6/9/2022",1
+"107","2200 BLOCK OF SE 35TH PL","22-911667","Property","Richmond","4/23/2022",1700,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.506499558,-122.627532475,7656723,677938,"4/25/2022",1
+"108","2200 BLOCK OF SE 37TH AVE","22-903555","Property","Richmond","2/7/2022",1532,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.507009466,-122.62577618,7657178,678112,"2/7/2022",1
+"109","2200 BLOCK OF SE 85TH AVE","22-901260","Property","Montavilla","10/25/2018",50,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.50649237,-122.575738365,7669997,677590,"1/10/2022",1
+"110","2300 BLOCK OF N CLARK AVE","22-219721","Property","Eliot","8/15/2022",1550,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.539696948,-122.676646772,7644462,690373,"8/15/2022",1
+"111","2300 BLOCK OF NE EVERETT ST","22-922918","Property","Kerns","1/16/2020",935,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.524963033,-122.641920717,7653214,684765,"8/17/2022",1
+"112","2300 BLOCK OF SE 82ND AVE","22-43551","Property","Montavilla","2/15/2022",2122,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.5058834,-122.578615168,7669254,677387,"2/15/2022",1
+"113","2300 BLOCK OF SE 122ND AVE","22-931326","Property","Mill Park","9/4/2022",2245,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.505559557,-122.537736037,7679728,677002,"11/10/2022",1
+"114","2400 BLOCK OF NE 50TH AVE","22-905805","Property","Rose City Park","1/17/2022",1700,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.540200775,-122.61199182,7661027,690117,"3/1/2022",1
+"115","2400 BLOCK OF NE SARATOGA ST","22-164963","Property","Concordia","6/20/2022",1706,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.57241293,-122.641384049,7653810,702056,"6/20/2022",1
+"116","2400 BLOCK OF NW BURNETT ST","22-909715","Property","Forest Park","7/3/2021",0,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.542043816,-122.78018675,7617967,691960,"4/7/2022",1
+"117","2400 BLOCK OF SE 122ND AVE","22-283656","Property","Mill Park","10/22/2022",1704,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.504593148,-122.53761943,7679749,676649,"10/22/2022",1
+"118","2500 BLOCK OF N HAYDEN ISLAND DR","22-299062","Property","Hayden Island","11/8/2022",941,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.616364311,-122.69156583,7641399,718420,"11/8/2022",1
+"119","2500 BLOCK OF NE 102ND AVE","22-919417","Property","Parkrose Heights","6/14/2022",2205,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.540568087,-122.558013992,7674856,689894,"7/14/2022",1
+"120","2500 BLOCK OF SE 21ST AVE","22-906869","Property","Hosford-Abernethy","3/2/2022",1200,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.504462919,-122.644546094,7652343,677311,"3/11/2022",1
+"121","2500 BLOCK OF SE HAWTHORNE BLVD","22-19466","Property","Buckman East","1/19/2022",1450,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.512116881,-122.639734776,7653650,680068,"1/21/2022",1
+"122","2500 BLOCK OF SE HAWTHORNE BLVD","22-44215","Property","Buckman East","2/16/2022",1331,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.512116881,-122.639734776,7653650,680068,"2/16/2022",1
+"123","2500 BLOCK OF SE HAWTHORNE BLVD","22-680927","Property","Buckman East","6/14/2022",1400,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.512116881,-122.639734776,7653650,680068,"8/23/2022",1
+"124","2500 BLOCK OF SE HAWTHORNE BLVD","22-801460","Property","Buckman East","3/1/2022",1000,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.512116881,-122.639734776,7653650,680068,"4/15/2022",1
+"125","2500 BLOCK OF SE HAWTHORNE BLVD","22-802278","Property","Buckman East","9/9/2021",535,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.512116881,-122.639734776,7653650,680068,"5/2/2022",1
+"126","2500 BLOCK OF SE HAWTHORNE BLVD","22-803475","Property","Buckman East","11/20/2022",1200,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.512116881,-122.639734776,7653650,680068,"11/29/2022",1
+"127","2600 BLOCK OF NE MARTIN LUTHER KING JR BLVD","22-915217","Property","Eliot","4/7/2022",1200,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.541571031,-122.66166328,7648318,690953,"5/27/2022",1
+"128","2600 BLOCK OF NW VAUGHN ST","22-918082","Property","Northwest","6/24/2022",1600,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.536744451,-122.705876738,7636946,689500,"6/24/2022",1
+"129","2600 BLOCK OF SE 162ND AVE","22-172988","Property","Centennial","6/28/2022",2215,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.503188207,-122.496700078,7690224,675875,"6/28/2022",1
+"130","2700 BLOCK OF NE COLUMBIA BLVD","22-918036","Property","Concordia","5/13/2022",0,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.575095696,-122.63757475,7654811,703008,"6/23/2022",1
+"131","2700 BLOCK OF SE 82ND AVE","22-128781","Property","Powellhurst-Gilbert","5/15/2022",2300,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.502835165,-122.578620664,7669224,676276,"5/16/2022",1
+"132","2800 BLOCK OF SE 26TH AVE","22-216712","Property","Hosford-Abernethy","8/12/2022",1012,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.502306009,-122.639712427,7653561,676492,"8/12/2022",1
+"133","2800 BLOCK OF SW CALIFORNIA ST","22-913205","Property","Multnomah","2/14/2022",0,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.474442973,-122.706164796,7636252,666795,"5/9/2022",1
+"134","2900 BLOCK OF NE 9TH AVE","22-928198","Property","Irvington","9/30/2022",1630,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.544047663,-122.656451316,7649677,691820,"10/10/2022",1
+"135","2900 BLOCK OF NW FRONT AVE","22-925350","Property","Northwest Industrial","7/27/2022",855,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.543578201,-122.697895864,7639058,691935,"9/9/2022",1
+"136","2900 BLOCK OF SE POWELL BLVD","22-330868","Property","Richmond","12/7/2022",1731,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.497240542,-122.635031211,7654712,674614,"12/14/2022",1
+"137","3000 BLOCK OF NE WEIDLER ST","22-922230","Property","Sullivan's Gulch","8/2/2022",1610,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.534419891,-122.634571311,7655188,688162,"8/2/2022",1
+"138","3000 BLOCK OF SE BELMONT ST","22-802277","Property","Sunnyside","4/26/2022",1531,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.516414154,-122.634237893,7655100,681597,"5/2/2022",1
+"139","3000 BLOCK OF SE BELMONT ST","22-905938","Property","Sunnyside","2/22/2022",755,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.516414154,-122.634237893,7655100,681597,"3/1/2022",1
+"140","3300 BLOCK OF N LOMBARD ST","22-680904","Property","Kenton","8/5/2022",1335,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.577173374,-122.70124483,7638534,704203,"8/13/2022",1
+"141","3300 BLOCK OF N LOMBARD ST","22-681087","Property","Kenton","7/18/2022",1637,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.577173374,-122.70124483,7638534,704203,"9/27/2022",1
+"142","3300 BLOCK OF NE 82ND AVE","22-30361","Property","Madison South","2/1/2022",2222,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.546785832,-122.578703621,7669615,692296,"2/1/2022",1
+"143","3300 BLOCK OF NE 82ND AVE","22-39187","Property","Roseway","2/11/2022",744,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.546786315,-122.578828587,7669583,692297,"2/11/2022",1
+"144","3300 BLOCK OF NE 82ND AVE","22-84510","Property","Madison South","3/29/2022",2308,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.546785832,-122.578703621,7669615,692296,"3/29/2022",1
+"145","3400 BLOCK OF NE 82ND AVE","22-131832","Property","Madison South","5/18/2022",2023,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.547694338,-122.578682231,7669629,692627,"5/18/2022",1
+"146","3400 BLOCK OF SE HAWTHORNE BLVD","22-252861","Property","Richmond","9/19/2022",1346,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.512015099,-122.629116624,7656370,679959,"9/19/2022",1
+"147","3500 BLOCK OF N VICTORY BLVD","22-133256","Property","Kenton","5/20/2022",827,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.604683997,-122.703243263,7638296,714244,"5/20/2022",1
+"148","3500 BLOCK OF NE 15TH AVE","22-681053","Property","Sabin","2/15/2022",0,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.548547031,-122.650456511,7651256,693419,"3/14/2022",1
+"149","3500 BLOCK OF NE 15TH AVE","22-801190","Property","Sabin","2/18/2022",1459,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.548547031,-122.650456511,7651256,693419,"3/10/2022",1
+"150","3500 BLOCK OF NE 15TH AVE","22-801192","Property","Sabin","2/22/2022",1404,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.548547031,-122.650456511,7651256,693419,"3/10/2022",1
+"151","3500 BLOCK OF NE 15TH AVE","22-801585","Property","Sabin","3/19/2022",1200,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.548547031,-122.650456511,7651256,693419,"3/31/2022",1
+"152","3500 BLOCK OF S RIVER PKWY","22-906447","Property","South Portland","3/9/2022",500,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.497467338,-122.669632971,7645845,674933,"3/9/2022",1
+"153","3600 BLOCK OF SE CESAR E CHAVEZ BLVD","22-96233","Property","Creston-Kenilworth","4/4/2022",1600,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.496382872,-122.622686656,7657868,674218,"4/11/2022",1
+"154","3600 BLOCK OF SE CESAR E CHAVEZ BLVD","22-96351","Property","Creston-Kenilworth","4/4/2022",1600,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.496382872,-122.622686656,7657868,674218,"4/11/2022",1
+"155","3600 BLOCK OF SE GLENWOOD ST","22-903780","Property","Eastmoreland","10/14/2021",700,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.474718003,-122.62555876,7656924,666341,"2/8/2022",1
+"156","3700 BLOCK OF NE 73RD AVE","22-149953","Property","Roseway","6/5/2022",1255,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.549987663,-122.587782572,7667320,693523,"6/5/2022",1
+"157","3700 BLOCK OF SE 15TH AVE","22-27972","Property","Brooklyn","1/26/2022",1200,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.495710548,-122.650274264,7650790,674160,"1/30/2022",1
+"158","3700 BLOCK OF SE 84TH AVE","22-925342","Property","Lents","5/13/2022",920,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.495149414,-122.576396691,7669722,673460,"9/9/2022",1
+"159","3700 BLOCK OF SE 91ST AVE","22-680658","Property","Lents","5/19/2022",1200,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.4950587,-122.57002291,7671355,673385,"6/1/2022",1
+"160","3700 BLOCK OF SE 91ST AVE","22-801857","Property","Lents","3/14/2022",1702,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.4950587,-122.57002291,7671355,673385,"3/25/2022",1
+"161","3700 BLOCK OF SE 91ST AVE","22-801858","Property","Lents","3/14/2022",1702,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.4950587,-122.57002291,7671355,673385,"3/25/2022",1
+"162","3700 BLOCK OF SE 127TH PL","22-51172","Property","Powellhurst-Gilbert","9/2/2021",1500,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.494774791,-122.532461209,7680981,673037,"2/23/2022",1
+"163","3700 BLOCK OF SW CONDOR AVE","22-285454","Property","Homestead","10/24/2022",1602,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.496001535,-122.678943944,7643444,674463,"10/24/2022",1
+"164","3800 BLOCK OF SE HAWTHORNE BLVD","22-904674","Property","Sunnyside","1/20/2022",1745,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.5120948,-122.624218301,7657626,679955,"2/16/2022",1
+"165","4000 BLOCK OF NE 122ND AVE","22-925356","Property","Argay","7/6/2022",1756,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.551990472,-122.537161799,7680302,693922,"9/8/2022",1
+"166","4000 BLOCK OF NE HALSEY ST","22-921830","Property","Hollywood","8/5/2022",845,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.5337201,-122.621689764,7658481,687820,"8/5/2022",1
+"167","4000 BLOCK OF SE 82ND AVE","22-905721","Property","Lents","2/25/2022",1955,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.493096594,-122.57870514,7669111,672727,"2/26/2022",1
+"168","4000 BLOCK OF SW CANYON RD","22-921749","Property","Sylvan-Highlands","7/7/2022",0,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.508081933,-122.718510731,7633423,679142,"8/1/2022",1
+"169","4100 BLOCK OF SE 115TH AVE","22-39855","Property","Powellhurst-Gilbert","2/11/2022",2122,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.491935634,-122.54464723,7677831,672081,"2/11/2022",1
+"170","4300 BLOCK OF SE 82ND AVE","22-69189","Property","Lents","3/14/2022",1642,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.49125523,-122.578727484,7669088,672056,"3/14/2022",1
+"171","4300 BLOCK OF SE 82ND AVE","22-90646","Property","Lents","4/5/2022",1247,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.49125523,-122.578727484,7669088,672056,"4/5/2022",1
+"172","4300 BLOCK OF SE 82ND AVE","22-173762","Property","Lents","6/29/2022",1638,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.49125523,-122.578727484,7669088,672056,"6/29/2022",1
+"173","4300 BLOCK OF SE 82ND AVE","22-178985","Property","Lents","7/5/2022",24,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.49125523,-122.578727484,7669088,672056,"7/5/2022",1
+"174","4300 BLOCK OF SE 82ND AVE","22-178987","Property","Lents","7/5/2022",27,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.49125523,-122.578727484,7669088,672056,"7/5/2022",1
+"175","4300 BLOCK OF SE 82ND AVE","22-278959","Property","Lents","10/17/2022",1256,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.49125523,-122.578727484,7669088,672056,"10/17/2022",1
+"176","4300 BLOCK OF SE 82ND AVE","22-281764","Property","Lents","10/20/2022",1229,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.49125523,-122.578727484,7669088,672056,"10/20/2022",1
+"177","4300 BLOCK OF SE 82ND AVE","22-306163","Property","Lents","11/16/2022",906,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.49125523,-122.578727484,7669088,672056,"11/16/2022",1
+"178","4300 BLOCK OF SE 82ND AVE","22-911258","Property","Lents","3/9/2022",1700,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.490912153,-122.578734435,7669083,671931,"4/21/2022",1
+"179","4400 BLOCK OF NE SANDY BLVD","22-935517","Property","Hollywood","9/23/2022",1230,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.537279924,-122.617450297,7659601,689089,"12/28/2022",1
+"180","4400 BLOCK OF SE MILWAUKIE AVE","22-188355","Property","Brooklyn","6/13/2022",1200,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.49060088,-122.651204315,7650502,672304,"7/14/2022",1
+"181","4500 BLOCK OF N INTERSTATE AVE","22-173597","Property","Overlook","6/29/2022",1256,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.555736907,-122.682116442,7643219,696257,"6/29/2022",1
+"182","4500 BLOCK OF SE 23RD AVE","22-933845","Property","Reed","11/28/2022",1000,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.4899167,-122.642452272,7652739,671995,"12/7/2022",1
+"183","4500 BLOCK OF SE BELMONT ST","22-923424","Property","Sunnyside","7/27/2022",1030,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.516515929,-122.61568086,7659856,681509,"8/19/2022",1
+"184","4600 BLOCK OF N WILLIAMS AVE","22-921134","Property","Humboldt","7/4/2022",1440,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.556740246,-122.666783179,7647155,696517,"7/28/2022",1
+"185","4600 BLOCK OF SE WOODSTOCK BLVD","22-911165","Property","Woodstock","4/12/2022",1145,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.479131166,-122.614936314,7659690,667878,"4/14/2022",1
+"186","4700 BLOCK OF E BURNSIDE ST","22-802082","Property","North Tabor","7/30/2022",1439,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.522945741,-122.614406065,7660244,683844,"7/30/2022",1
+"187","4800 BLOCK OF NE 138TH AVE","22-681065","Property","Argay","5/25/2022",833,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.557770301,-122.521193394,7684444,695926,"6/9/2022",1
+"188","4900 BLOCK OF SE 72ND AVE","22-927554","Property","Foster-Powell","9/26/2022",920,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.487025609,-122.588952076,7666427,670582,"9/30/2022",1
+"189","4900 BLOCK OF SE 122ND AVE","22-903003","Property","Powellhurst-Gilbert","11/15/2021",1200,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.486381419,-122.537769787,7679543,670012,"1/31/2022",1
+"190","4900 BLOCK OF SE DIVISION ST","22-916508","Property","Richmond","6/6/2022",815,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.505257579,-122.611574251,7660801,677378,"6/11/2022",1
+"191","5000 BLOCK OF SE HAWTHORNE BLVD","22-904332","Property","Mt Tabor","2/4/2022",800,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.51205851,-122.610855455,7661050,679852,"2/10/2022",1
+"192","5000 BLOCK OF SE HAWTHORNE BLVD","22-909142","Property","Mt Tabor","3/21/2022",1200,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.51205851,-122.610855455,7661050,679852,"4/1/2022",1
+"193","5000 BLOCK OF SW JULIA CT","22-131775","Property","Bridlemile","5/18/2022",1915,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.488236001,-122.72859949,7630638,671980,"5/18/2022",1
+"194","5100 BLOCK OF SE STEELE ST","22-129502","Property","Woodstock","4/18/2022",2100,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.484728587,-122.609247234,7661202,669880,"5/16/2022",1
+"195","5100 BLOCK OF SW HEWETT BLVD","22-907664","Property","Southwest Hills","1/10/2022",1100,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.502412455,-122.729612246,7630521,677154,"3/18/2022",1
+"196","5200 BLOCK OF N LOMBARD ST","22-680534","Property","University Park","4/19/2022",1637,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.582078611,-122.723093054,7632991,706144,"4/19/2022",1
+"197","5300 BLOCK OF SE 97TH AVE","22-261362","Property","Lents","9/22/2022",1331,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.483963096,-122.563495183,7672925,669298,"9/28/2022",1
+"198","5600 BLOCK OF NE MARTIN LUTHER KING JR BLVD","22-228136","Property","King","8/24/2022",1227,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.563632736,-122.661363307,7648610,698992,"8/24/2022",1
+"199","5800 BLOCK OF NE EVERETT ST","22-680308","Property","North Tabor","5/4/2022",1100,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.524986877,-122.603799071,7662981,684517,"5/4/2022",1
+"200","5800 BLOCK OF NE MARTIN LUTHER KING JR BLVD","22-173418","Property","King","6/27/2022",2233,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.565328549,-122.66134979,7648630,699610,"6/29/2022",1
+"201","5800 BLOCK OF NE MARTIN LUTHER KING JR BLVD","22-924933","Property","King","9/4/2022",1109,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.565328549,-122.66134979,7648630,699610,"9/4/2022",1
+"202","5800 BLOCK OF SW 59TH CT","22-2105","Property","Hayhurst","12/12/2021",1200,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.482884347,-122.737134388,7628396,670090,"1/3/2022",1
+"203","6000 BLOCK OF N FESSENDEN ST","22-918072","Property","Portsmouth","7/15/2017",500,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.591421889,-122.727007714,7632083,709577,"6/25/2022",1
+"204","6100 BLOCK OF SE 52ND AVE","22-162020","Property","Woodstock","6/17/2022",1632,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.478064536,-122.608785373,7661257,667448,"6/17/2022",1
+"205","6100 BLOCK OF SE 52ND AVE","22-934089","Property","Woodstock","12/4/2022",500,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.478064536,-122.608785373,7661257,667448,"12/8/2022",1
+"206","6100 BLOCK OF SE POWELL BLVD","22-94690","Property","South Tabor","4/9/2022",1601,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.497509422,-122.599910069,7663717,674476,"4/9/2022",1
+"207","6300 BLOCK OF NE ALBERTA ST","22-930242","Property","Cully","10/20/2022",0,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.559059913,-122.597470062,7664925,696894,"10/29/2022",1
+"208","6300 BLOCK OF NE RODNEY AVE","22-926794","Property","Piedmont","9/18/2022",1125,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.568347298,-122.664664003,7647811,700733,"9/23/2022",1
+"209","6300 BLOCK OF SW CANYON CT","22-402","Property","Sylvan-Highlands","12/31/2021",1422,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.508767027,-122.742153756,7627371,679559,"1/1/2022",1
+"210","6300 BLOCK OF SW CANYON CT","22-932151","Property","Sylvan-Highlands","11/10/2022",1240,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.508767027,-122.742153756,7627371,679559,"11/17/2022",1
+"211","6300 BLOCK OF SW CAPITOL HWY","22-912799","Property","Hillsdale","5/5/2022",1610,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.478237185,-122.695879368,7638927,668106,"5/5/2022",1
+"212","6400 BLOCK OF SE 60TH AVE","22-922117","Property","Mt Scott-Arleta","7/28/2022",1435,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.476207782,-122.60216476,7662937,666727,"8/9/2022",1
+"213","6500 BLOCK OF NE BROADWAY","22-916263","Property","Madison South","12/20/2021",2035,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.534951037,-122.595872658,7665106,688096,"6/7/2022",1
+"214","6500 BLOCK OF SE 97TH AVE","22-216130","Property","Lents","8/11/2022",1915,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.475210269,-122.563536127,7672833,666108,"8/11/2022",1
+"215","6700 BLOCK OF SW CAPITOL HWY","22-926281","Property","Multnomah","9/16/2022",1348,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.475794492,-122.707223449,7635994,667295,"9/16/2022",1
+"216","6900 BLOCK OF NE SANDY BLVD","22-54742","Property","Roseway","2/27/2022",1800,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.547284637,-122.59174011,7666281,692564,"2/28/2022",1
+"217","6900 BLOCK OF NE SANDY BLVD","22-923413","Property","Roseway","7/5/2022",1410,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.54720612,-122.59168255,7666295,692535,"8/18/2022",1
+"218","6900 BLOCK OF SE HOLGATE BLVD","22-305415","Property","Foster-Powell","11/9/2022",1149,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.490206442,-122.591912695,7665698,671761,"11/15/2022",1
+"219","7000 BLOCK OF SE YAMHILL ST","22-915769","Property","Mt Tabor","5/16/2022",1200,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.516206042,-122.590341632,7666346,681227,"5/31/2022",1
+"220","7100 BLOCK OF N GREENWICH AVE","22-920882","Property","Arbor Lodge","7/20/2022",645,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.574865033,-122.683156994,7643141,703236,"7/26/2022",1
+"221","7200 BLOCK OF NE FREMONT ST","22-116337","Property","Roseway","5/2/2022",1731,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.548168667,-122.588387273,7667148,692864,"5/2/2022",1
+"222","7300 BLOCK OF N WASHBURNE AVE","22-927096","Property","Arbor Lodge","9/7/2022",1510,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.576115456,-122.705911494,7637329,703850,"9/26/2022",1
+"223","7300 BLOCK OF SW TERWILLIGER BLVD","22-19211","Property","Hillsdale","1/20/2022",900,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.471423695,-122.685426421,7641540,665550,"1/21/2022",1
+"224","7400 BLOCK OF N IDA AVE","22-269999","Property","St Johns","10/7/2022",2321,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.586624331,-122.738682744,7629047,707911,"10/7/2022",1
+"225","7400 BLOCK OF N INTERSTATE AVE","22-904951","Property","Arbor Lodge","2/4/2022",1500,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.576830555,-122.681943386,7643471,703944,"2/18/2022",1
+"226","7500 BLOCK OF N INTERSTATE AVE","22-20070","Property","Kenton","1/22/2022",420,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.577539007,-122.681912035,7643486,704202,"1/22/2022",1
+"227","7600 BLOCK OF SE FOSTER RD","22-911666","Property","Foster-Powell","4/14/2022",0,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.485010057,-122.584669432,7667506,669819,"4/25/2022",1
+"228","7900 BLOCK OF NE MARTIN LUTHER KING JR BLVD","22-106187","Property","Piedmont","4/22/2022",117,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.58090786,-122.661439445,7648759,705289,"4/22/2022",1
+"229","7900 BLOCK OF SE POWELL BLVD","22-903221","Property","South Tabor","1/19/2022",2335,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.497464694,-122.581416407,7668457,674337,"2/2/2022",1
+"230","8000 BLOCK OF NE SANDY BLVD","22-920616","Property","Roseway","7/11/2022",1235,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.551844817,-122.580228341,7669272,694150,"7/19/2022",1
+"231","8000 BLOCK OF SE COOPER ST","22-919156","Property","Brentwood-Darlington","7/6/2022",247,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.473479775,-122.581278858,7668267,665594,"7/8/2022",1
+"232","8000 BLOCK OF SW 64TH AVE","22-303598","Property","Ashcreek","11/8/2022",1200,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.466470628,-122.742785724,7626781,664148,"11/13/2022",1
+"233","8100 BLOCK OF N LOMBARD ST","22-157405","Property","St Johns","6/11/2022",440,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.589472598,-122.749916768,7626201,709029,"6/13/2022",1
+"234","8100 BLOCK OF NE LOMBARD ST","22-184544","Property","Cully","7/9/2022",2100,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.562631727,-122.57875298,7669751,698072,"7/10/2022",1
+"235","8100 BLOCK OF SE DIVISION ST","22-680331","Property","Montavilla","3/1/2022",1300,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.50496704,-122.579221522,7669090,677057,"3/14/2022",1
+"236","8200 BLOCK OF SE HARNEY ST","22-918640","Property","Lents","4/1/2022",1425,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.463346303,-122.578623038,7668853,661883,"7/1/2022",1
+"237","8200 BLOCK OF SE RHINE ST","22-12368","Property","Lents","1/13/2022",1400,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.496917707,-122.578138849,7669292,674116,"1/14/2022",1
+"238","8200 BLOCK OF SE STARK ST","22-910088","Property","Montavilla","3/26/2022",355,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.519083816,-122.57855981,7669392,682198,"4/11/2022",1
+"239","8300 BLOCK OF N IVANHOE ST","22-901497","Property","Cathedral Park","9/28/2021",2225,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.588758447,-122.752901314,7625430,708790,"1/13/2022",1
+"240","8300 BLOCK OF NE SANDY BLVD","22-918420","Property","Madison South","6/21/2022",0,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.552914713,-122.577350478,7670019,694521,"6/28/2022",1
+"241","8400 BLOCK OF N IVANHOE ST","22-302689","Property","Cathedral Park","7/28/2022",1200,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.589053163,-122.753823535,7625197,708904,"11/12/2022",1
+"242","8700 BLOCK OF NE SANDY BLVD","22-103780","Property","Sumner","4/19/2022",1123,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.554731805,-122.572894793,7671177,695154,"4/19/2022",1
+"243","9000 BLOCK OF SE STEELE ST","22-136226","Property","Lents","5/22/2022",1015,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.484591143,-122.569758559,7671325,669568,"5/23/2022",1
+"244","9100 BLOCK OF SE STARK ST","22-334616","Property","Montavilla","12/18/2022",1409,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.519028088,-122.569640036,7671677,682119,"12/18/2022",1
+"245","9200 BLOCK OF SE FOSTER RD","22-159072","Property","Lents","6/14/2022",2107,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.479669014,-122.568241565,7671668,667764,"6/14/2022",1
+"246","9200 BLOCK OF SE WOODSTOCK BLVD","22-935563","Property","Lents","12/26/2022",1651,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.478941237,-122.568129276,7671690,667498,"12/27/2022",1
+"247","9400 BLOCK OF NE CASCADES PKWY","22-31856","Property","","2/3/2022",1310,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.575903827,-122.565722382,7673211,702824,"2/3/2022",1
+"248","9700 BLOCK OF SE STARK ST","22-51686","Property","Hazelwood","2/24/2022",1144,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.51909202,-122.563339468,7673292,682101,"2/24/2022",1
+"249","9700 BLOCK OF SE WASHINGTON ST","22-901158","Property","Hazelwood","11/26/2021",1523,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.51827902,-122.562931368,7673389,681802,"1/3/2022",1
+"250","9700 BLOCK OF SE WASHINGTON ST","22-901913","Property","Hazelwood","1/6/2022",1400,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.51827902,-122.562931368,7673389,681802,"1/19/2022",1
+"251","9700 BLOCK OF SE WASHINGTON ST","22-905304","Property","Hazelwood","1/24/2022",1210,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.51827902,-122.562931368,7673389,681802,"2/22/2022",1
+"252","9700 BLOCK OF SE WASHINGTON ST","22-931638","Property","Hazelwood","11/12/2022",900,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.51827902,-122.562931368,7673389,681802,"11/12/2022",1
+"253","9800 BLOCK OF SE WASHINGTON ST","22-680473","Property","Hazelwood","4/7/2022",1003,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.518282661,-122.561811436,7673676,681796,"4/9/2022",1
+"254","9900 BLOCK OF NE SANDY BLVD","22-903292","Property","Parkrose","1/21/2022",1630,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.559389325,-122.560282259,7674450,696769,"2/3/2022",1
+"255","10000 BLOCK OF SE CLINTON ST","22-901851","Property","Powellhurst-Gilbert","1/4/2022",0,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.502743421,-122.560108098,7673968,676121,"1/18/2022",1
+"256","10100 BLOCK OF SE TIBBETTS CT","22-918387","Property","Powellhurst-Gilbert","6/27/2022",1321,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.500229255,-122.559248334,7674165,675199,"7/3/2022",1
+"257","10100 BLOCK OF SE WASHINGTON ST","22-333499","Property","Hazelwood","12/17/2022",1025,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.518296519,-122.558896652,7674423,681782,"12/17/2022",1
+"258","10300 BLOCK OF NE HANCOCK ST","22-901014","Property","Parkrose Heights","1/3/2022",720,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.536248802,-122.55607332,7675313,688307,"1/3/2022",1
+"259","10400 BLOCK OF NE HALSEY ST","22-23476","Property","Parkrose Heights","1/25/2022",1646,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.533571148,-122.554996509,7675564,687324,"1/25/2022",1
+"260","10400 BLOCK OF NE HALSEY ST","22-158267","Property","Parkrose Heights","6/14/2022",740,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.533571148,-122.554996509,7675564,687324,"6/14/2022",1
+"261","10800 BLOCK OF SE STARK ST","22-903900","Property","Hazelwood","1/29/2022",1040,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.519060085,-122.552254611,7676132,682017,"2/9/2022",1
+"262","10900 BLOCK OF NE MORRIS ST","22-49035","Property","Parkrose Heights","1/6/2020",1709,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.543223025,-122.549614357,7677032,690807,"2/21/2022",1
+"263","10900 BLOCK OF SW 53RD AVE","22-318927","Property","West Portland Park","11/30/2022",1420,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.446440855,-122.731112496,7629573,656765,"11/30/2022",1
+"264","11000 BLOCK OF SE BUSH ST","22-932150","Property","Lents","10/28/2022",1450,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.494980177,-122.54946537,7676624,673222,"11/17/2022",1
+"265","11500 BLOCK OF NE YACHT HARBOR DR","22-310810","Property","Hayden Island","11/17/2022",1900,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.605167409,-122.660382581,7649266,714124,"11/21/2022",1
+"266","11500 BLOCK OF SE MARKET ST","22-900362","Property","Mill Park","1/7/2022",1400,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.511523731,-122.544548613,7678037,679220,"1/7/2022",1
+"267","11500 BLOCK OF SE MORRISON ST","22-308459","Property","Mill Park","11/18/2022",1922,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.516806873,-122.544602243,7678072,681146,"11/18/2022",1
+"268","11700 BLOCK OF SE DIVISION ST","22-935674","Property","Mill Park","12/16/2022",1250,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.504234833,-122.542347104,7678534,676549,"12/29/2022",1
+"269","11800 BLOCK OF SE PINE ST","22-915676","Property","Hazelwood","5/26/2022",1220,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.520349767,-122.540998757,7679028,682414,"6/1/2022",1
+"270","11900 BLOCK OF N JANTZEN DR","22-263402","Property","Hayden Island","9/30/2022",1751,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.609406216,-122.678576657,7644653,715794,"9/30/2022",1
+"271","12000 BLOCK OF NE AINSWORTH CIR","22-931137","Property","Parkrose","10/28/2022",1450,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.564802234,-122.537188264,7680413,698592,"11/8/2022",1
+"272","12100 BLOCK OF SE DIVISION ST","22-902095","Property","Powellhurst-Gilbert","1/15/2022",1717,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.504012059,-122.538207241,7679593,676441,"1/21/2022",1
+"273","12200 BLOCK OF E BURNSIDE ST","22-106845","Property","Hazelwood","4/22/2022",1808,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.5223608,-122.537133005,7680037,683122,"4/22/2022",1
+"274","12600 BLOCK OF NE SHAVER ST","22-935228","Property","Argay","12/22/2022",0,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.551754803,-122.533271838,7681296,693811,"12/23/2022",1
+"275","12800 BLOCK OF NE AIRPORT WAY","22-920748","Property","Argay","6/17/2022",1035,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.563890265,-122.529804873,7682295,698212,"7/26/2022",1
+"276","13000 BLOCK OF SE MORRISON ST","22-934832","Property","Hazelwood","11/28/2022",1321,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.516600204,-122.529488163,7681943,680973,"12/19/2022",1
+"277","13300 BLOCK OF NE AIRPORT WAY","22-923378","Property","Argay","8/9/2022",1000,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.56232755,-122.525542584,7683372,697615,"8/17/2022",1
+"278","13300 BLOCK OF SE STARK ST","22-914950","Property","Hazelwood","5/5/2022",1300,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.519133774,-122.525839949,7682901,681873,"5/24/2022",1
+"279","13400 BLOCK OF SE BUSH ST","22-910034","Property","Powellhurst-Gilbert","4/4/2022",0,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.495365591,-122.524797283,7682951,673203,"4/11/2022",1
+"280","13800 BLOCK OF NE SANDY BLVD","22-122872","Property","Argay","5/9/2022",1747,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.554242443,-122.520864677,7684496,694638,"5/9/2022",1
+"281","13800 BLOCK OF SE REEDWAY ST","22-915346","Property","Powellhurst-Gilbert","5/27/2022",1700,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.481298535,-122.521261756,7683729,668053,"5/28/2022",1
+"282","14000 BLOCK OF NE SANDY BLVD","22-15900","Property","Argay","1/18/2022",708,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.554006521,-122.519614464,7684814,694544,"1/18/2022",1
+"283","14100 BLOCK OF SE MADISON ST","22-901195","Property","Hazelwood","12/7/2021",100,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.513166507,-122.517892797,7684883,679647,"1/11/2022",1
+"284","14400 BLOCK OF NE MORRIS CT","22-924934","Property","Argay","8/1/2022",1615,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.544991156,-122.513839159,7686211,691221,"9/4/2022",1
+"285","14600 BLOCK OF NE KNOTT CT","22-159360","Property","Wilkes","6/15/2022",429,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.542221609,-122.511722399,7686728,690198,"6/15/2022",1
+"286","14700 BLOCK OF SE DIVISION ST","22-918423","Property","Centennial","6/21/2022",0,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.504121683,-122.511129866,7686534,676307,"7/7/2022",1
+"287","15800 BLOCK OF E BURNSIDE ST","22-935545","Property","Glenfair","10/6/2022",2320,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.52232625,-122.500686603,7689375,682876,"12/27/2022",1
+"288","15900 BLOCK OF E BURNSIDE ST","22-285463","Property","Glenfair","10/24/2022",1924,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.522079547,-122.499413388,7689699,682778,"10/24/2022",1
+"289","16500 BLOCK OF SE DIVISION ST","22-217936","Property","Centennial","8/13/2022",1535,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.504534911,-122.493087685,7691162,676343,"8/13/2022",1
+"290","16600 BLOCK OF SE DIVISION ST","22-310149","Property","Centennial","11/20/2022",1947,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.50462507,-122.492002291,7691441,676369,"11/20/2022",1
+"291","16800 BLOCK OF NE MASON CT","22-117282","Property","Wilkes","5/3/2022",1622,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.554014618,-122.489409198,7692549,694355,"5/3/2022",1
+"292","18400 BLOCK OF SE OAK ST","22-904962","Property","","1/4/2021",30,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.519897108,-122.473145646,7696410,681817,"2/18/2022",1
+"293","NE 74TH AVE / NE HALSEY ST","22-236334","Property","Montavilla","9/2/2022",58,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.53359695,-122.587210989,7667312,687545,"9/2/2022",1
+"294","NE GLISAN ST / NE 162ND AVE","22-39830","Property","","2/11/2022",2050,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.526423183,-122.496377483,7690516,684342,"2/11/2022",1
+"295","NE SCHUYLER ST / NE MARTIN LUTHER KING JR BLVD","22-115612","Property","Eliot","5/1/2022",2231,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.5357879,-122.661638252,7648268,688845,"5/1/2022",1
+"296","NW 21ST AVE / NW HOYT ST","22-930255","Property","Northwest","9/20/2022",210,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.527011982,-122.694444053,7639778,685873,"10/30/2022",1
+"297","SE 82ND AVE / SE POWELL BLVD","22-904012","Property","South Tabor","1/19/2022",2335,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.497414849,-122.578714915,7669149,674301,"2/10/2022",1
+"298","SE 92ND AVE / SE HOLGATE BLVD","22-924890","Property","Lents","8/24/2022",1530,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.490022279,-122.568606771,7671671,671540,"9/6/2022",1
+"299","SE 100TH AVE / SE MAIN ST","22-330732","Property","Hazelwood","12/14/2022",950,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.513994372,-122.560898682,7673870,680227,"12/14/2022",1
+"300","SE 119TH AVE / SE STARK ST","22-6914","Property","Hazelwood","1/8/2022",1939,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.519011052,-122.540373041,7679176,681922,"1/8/2022",1
+"301","SE DIVISION ST / SE 112TH AVE","22-198618","Property","Mill Park","7/24/2022",2307,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.504197163,-122.548007079,7677083,676572,"7/25/2022",1
+"302","SE DIVISION ST / SE 136TH AVE","22-209442","Property","Hazelwood","8/4/2022",1952,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.50407124,-122.523687432,7683315,676369,"8/4/2022",1
+"303","SE POWELL BLVD / SE 34TH AVE","22-279672","Property","Creston-Kenilworth","10/18/2022",830,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.496825496,-122.629308044,7656175,674424,"10/18/2022",1
+"304","SE POWELL BLVD / SE 74TH AVE","22-218533","Property","Foster-Powell","8/14/2022",1211,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.497431312,-122.586884746,7667055,674361,"8/14/2022",1
+"305","SE POWELL BLVD / SE 111TH AVE","22-230325","Property","Powellhurst-Gilbert","8/26/2022",1843,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.496445181,-122.549315365,7676676,673755,"8/26/2022",1
+"306","SW 1ST AVE / SW HARVEY MILK ST","22-923471","Property","Old Town/Chinatown","7/13/2022",1300,"Counterfeiting_Forgery","Counterfeiting/Forgery",45.519735302,-122.672521156,7645323,683069,"8/22/2022",1

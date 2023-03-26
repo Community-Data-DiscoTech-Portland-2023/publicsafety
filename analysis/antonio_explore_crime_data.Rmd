@@ -1,0 +1,290 @@
+
+Antonio - Explore CrimeData
+
+-----
+
+```{r setup}
+library(here)
+library(vroom)
+library(readxl)
+library(dplyr)
+library(stringr)
+library(lubridate)
+library(sf)
+library(ggplot2)
+library(leaflet)
+library(htmlwidgets)
+library(htmltools)
+library(scales)
+
+clean_neighborhood_name <- function(x) {
+  stringr::str_squish(stringr::str_replace_all(stringr::str_to_lower(x), "[^a-z]", " "))
+}
+
+clean_neighborhood_name_key <- data.frame(
+  ppd = c(
+    "ardenwald",
+    "argay",
+    "buckman east",
+    "buckman west",
+    "downtown",
+    "northwest",
+    "northwest industrial",
+    "old town chinatown",
+    "pearl"
+  ),
+  neighborhoods = c(
+    "ardenwald johnson creek",
+    "argay terrace",
+    "buckman",
+    "buckman",
+    "portland downtown",
+    "northwest district",
+    "northwest district",
+    "old town",
+    "pearl district"
+  )
+)
+```
+
+```{r}
+crimedata <- 
+  vroom(here("data", "CrimeData-2022.csv")) %>% 
+  mutate(
+    OccurDate = mdy(OccurDate),
+    ReportDate = mdy(ReportDate)
+  )
+
+crimedata
+```
+
+```{r}
+neighborhoods <- read_sf(here("data", "Neighborhoods_(Regions).geojson"))
+
+neighborhoods %>% 
+  ggplot() +
+  geom_sf()
+```
+
+```{r}
+cd_names <- 
+  crimedata %>% 
+  pull(Neighborhood) %>% 
+  unique() %>% 
+  tolower() %>% 
+  str_replace_all("[^A-Za-z]", " ") %>% 
+  str_squish()
+
+nbhds_names <- 
+  neighborhoods %>% 
+  pull(NAME) %>% 
+  unique() %>% 
+  tolower() %>% 
+  str_replace_all("[^A-Za-z]", " ") %>% 
+  str_squish()
+
+setdiff(cd_names, nbhds_names)
+setdiff(nbhds_names, cd_names)
+```
+
+```{r}
+crimedata %>% 
+  filter(is.na(Neighborhood))
+```
+
+# Vehicle offenses only
+
+```{r}
+vehicle <- 
+  vroom(here("publish", "VehicleOffenseData-2022.csv")) %>% 
+  mutate(
+    OccurDate = mdy(OccurDate),
+    ReportDate = mdy(ReportDate)
+  )
+
+vehicle
+```
+
+
+```{r}
+vehicle_names <- 
+  vehicle %>% 
+  pull(Neighborhood) %>% 
+  unique() %>% 
+  tolower() %>% 
+  str_replace_all("[^A-Za-z]", " ") %>% 
+  str_squish() %>% 
+  sort()
+
+nbhds_names <- 
+  neighborhoods %>% 
+  pull(NAME) %>% 
+  unique() %>% 
+  tolower() %>% 
+  str_replace_all("[^A-Za-z]", " ") %>% 
+  str_squish() %>% 
+  sort()
+
+setdiff(vehicle_names, nbhds_names)
+setdiff(nbhds_names, vehicle_names)
+```
+
+```{r}
+nbhds_names %>% .[str_detect(nbhds_names, "northwest")]
+```
+
+```{r}
+vehicle_names %>% .[str_detect(vehicle_names, "northwest")]
+```
+
+```{r}
+vehicle_smry <- 
+  vehicle %>% 
+  mutate(ppd = clean_neighborhood_name(Neighborhood)) %>% 
+  left_join(clean_neighborhood_name_key, by = "ppd") %>% 
+  mutate(neighborhoods = coalesce(neighborhoods, ppd)) %>% 
+  group_by(neighborhoods) %>% 
+  summarize(OffenseCount = sum(OffenseCount)) %>% 
+  left_join(
+    neighborhoods %>% 
+      mutate(NAME = clean_neighborhood_name(NAME)),
+    by = c("neighborhoods" = "NAME")
+  ) %>% 
+  st_as_sf()
+
+vehicle_smry
+```
+
+```{r}
+vehicle_smry %>% 
+  ggplot() +
+  geom_sf(aes(fill = OffenseCount)) +
+  ggtitle("Vehicle-related offenses by neighborhood") +
+  theme_minimal()
+```
+
+```{r}
+nbhd_pop <- read_xlsx(here("data", "NhoodData_cleaned_v2.xlsx"), sheet = "2020Census")
+
+names(nbhd_pop) <- c("NAME", names(nbhd_pop)[-1])
+
+nbhd_pop
+```
+
+```{r}
+nbhd_pop %>% 
+  filter(NAME != "Neighborhood") %>% 
+  mutate(NAME = clean_neighborhood_name(NAME)) %>% 
+  select(NAME, POP20) %>% 
+  anti_join(vehicle_smry, by = c("NAME" = "neighborhoods"))
+```
+
+```{r}
+vehicle_smry %>% pull(neighborhoods) %>% .[str_detect(., "northwest")]
+```
+
+These neighborhood names... Agh!
+
+# Leaflet version
+
+```{r}
+bins <- c((0:8)*200, Inf)
+pal <- colorBin("YlOrRd", domain = vehicle_smry$OffenseCount, bins = bins)
+
+labels <- 
+  sprintf(
+    "<strong>Neighborhood: %s</strong><br/>Reports of theft: %s",
+    vehicle_smry$MAPLABEL, comma(vehicle_smry$OffenseCount)
+  ) %>% 
+  lapply(HTML)
+
+leaf <- 
+  vehicle_smry %>% 
+  leaflet() %>% 
+  addTiles() %>% 
+  addPolygons(
+    stroke = FALSE,
+    fillOpacity = 0.6,
+    fillColor = ~pal(OffenseCount),
+    label = labels,
+    labelOptions = labelOptions(
+      style = list("font-weight" = "normal", padding = "3px 8px"),
+      textsize = "15px",
+      direction = "auto"
+    )
+  ) %>% 
+  addLegend(
+    pal = pal,
+    values = ~density,
+    opacity = 0.7,
+    title = "Vehicle-related thefts in 2022",
+    position = "bottomright"
+  )
+
+leaf
+```
+
+```{r}
+saveWidget(leaf, "vehicle_theft_by_neighborhood.html")
+file.rename("vehicle_theft_by_neighborhood.html", here("visualizations", "aggregated by neighborhood", "vehicle_theft_by_neighborhood.html"))
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
